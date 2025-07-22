@@ -111,7 +111,7 @@ http://newonebox.life:80/enuqf6j/x7294gw/236013.ts
 http://newonebox.life:80/enuqf6j/x7294gw/236012.ts
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band MT HD
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
@@ -130,22 +130,22 @@ https://cc7d37a17d3f4d0c8c82f9778df832ca.mediatailor.us-east-1.amazonaws.com/v1/
 http://sigcine1.space:80/374897485/789272274/266.ts
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT HD3
-http://newonebox.life:80/enuqf6j/x7294gw/235985.ts
+
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT HD4
-https://linkplay.short.gy/SBTSP/index.m3u8
+
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT FHD1
-
-
-#EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT FHD2
 http://sigcine1.space:80/374897485/789272274/265.ts
 
+#EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT FHD2
+
+
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT FHD3
-http://newonebox.life:80/enuqf6j/x7294gw/235984.ts
+
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT 4K
-http://newonebox.life:80/enuqf6j/x7294gw/231469.ts
+
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT Bem TV
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
@@ -158,31 +158,31 @@ https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 ######################################################################## CANAIS RECORD ############################################################################
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP HD1
-http://newonebox.life:80/enuqf6j/x7294gw/235932.ts
-
-#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP HD2
 http://sigcine1.space:80/374897485/789272274/260.ts
 
+#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP HD2
+
+
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP HD3
-http://dfkkh.dtwkaf.xyz:80/Rogerio/10203040/408221.ts
+
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP FHD1
 http://sigcine1.space:80/374897485/789272274/130.ts
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP FHD2
-http://newonebox.life:80/enuqf6j/x7294gw/235933.ts
+http://granpirosh.top/live/841866657/c581b7318b/244071.m3u8
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP FHD3
-http://granpirosh.top/live/841866657/c581b7318b/244071.m3u8
+
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP 4K
 http://firetop1.site:80/299996386/228718986/209.ts
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV RJ HD
-http://newonebox.life:80/enuqf6j/x7294gw/235899.ts
+
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV RJ FHD
-http://newonebox.life:80/enuqf6j/x7294gw/235900.ts
+
 
 
 
@@ -280,7 +280,7 @@ http://sigcine1.space:80/374897485/789272274/97.ts
 http://sigcine1.space:80/374897485/789272274/97.ts
 
 #EXTINF:-1 tvg-id="megapix" tvg-logo="https://thumbs4.imagebam.com/95/15/76/MEVQNMW_t.png" group-title="Filmes", Megapix HD3
-http://79.127.238.228:14592/
+
 
 #EXTINF:-1 tvg-id="megapix" tvg-logo="https://thumbs4.imagebam.com/95/15/76/MEVQNMW_t.png" group-title="Filmes", Megapix FHD1
 http://sigcine1.space:80/374897485/789272274/96.ts
