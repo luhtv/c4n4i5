@@ -13,7 +13,7 @@ https://cr7v.short.gy/AdcListaNOiptvpro/Index.m3u8
 ######################################################################## Canais Globo ##############################################################################
 
 #EXTINF:-1 tvg-id="globo sp" tvg-chno="1" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Globo", Globo SP HD1
-
+http://45.134.141.162:3366/stream/globo/sp1/master.m3u8
 
 #EXTINF:-1 tvg-id="globo sp" tvg-chno="2" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Globo", Globo SP HD2
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117650
@@ -48,6 +48,9 @@ http://firetop1.site:80/299996386/228718986/469.ts
 
 #EXTINF:-1 tvg-id="globorj" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Globo", Globo RJ HD3
 http://79.127.238.228:14217/
+
+#EXTINF:-1 tvg-id="globorj" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Globo", Globo RJ HD4
+http://45.134.141.162:3366/stream/globo/rj/master720.m3u8
 
 #EXTINF:-1 tvg-id="globorj" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Globo", Globo RJ FHD1
 http://sigcine1.space:80/374897485/789272274/468.ts
@@ -241,10 +244,13 @@ http://sigcine1.space:80/374897485/789272274/1.ts
 http://sigcine1.space:80/374897485/789272274/197.ts
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Filmes", AMC HD2
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/1018
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Filmes", AMC FHD1
 http://sigcine1.space:80/374897485/789272274/3.ts
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Filmes", AMC FHD2
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/26
 
 #EXTINF:-1 tvg-id="axn" tvg-logo="https://thumbs4.imagebam.com/0d/a6/d5/MEVQNMQ_t.png" group-title="Filmes", AXN HD1
 
@@ -286,7 +292,7 @@ http://granpirosh.top/live/841866657/c581b7318b/692.m3u8
 http://newonebox.life:80/enuqf6j/x7294gw/231465.ts
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Filmes", Paramount Network HD¹
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2261
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Filmes", Paramount Network HD²
 http://sigcine1.space:80/374897485/789272274/663.ts
@@ -298,7 +304,7 @@ http://sigcine1.space:80/374897485/789272274/753.ts
 http://firetop1.site:80/299996386/228718986/753.ts
 
 #EXTINF:-1 tvg-id="CANAL SONY" tvg-logo="https://thumbs4.imagebam.com/4b/35/d8/MEVQNN5_t.png" group-title="Filmes", Sony Channel HD1
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/119
 
 #EXTINF:-1 tvg-id="CANAL SONY" tvg-logo="https://thumbs4.imagebam.com/4b/35/d8/MEVQNN5_t.png" group-title="Filmes", Sony Channel HD2
 http://sigcine1.space:80/374897485/789272274/141.ts
@@ -307,7 +313,7 @@ http://sigcine1.space:80/374897485/789272274/141.ts
 
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Filmes", SPACE HD1
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/588
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Filmes", SPACE HD2
 http://sigcine1.space:80/374897485/789272274/143.ts
@@ -318,6 +324,9 @@ http://sigcine1.space:80/374897485/789272274/142.ts
 #EXTINF:-1 tvg-id="SPACE" tvg-name="" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Filmes", SPACE FHD2
 http://granpirosh.top/live/841866657/c581b7318b/707.m3u8
 
+#EXTINF:-1 tvg-id="SPACE" tvg-name="" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Filmes", SPACE FHD3
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/587
+
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://thumbs4.imagebam.com/fa/6c/5b/MEVQNMZ_t.png" group-title="Filmes", TCM HD
 http://sigcine1.space:80/374897485/789272274/196.ts
 
@@ -325,7 +334,7 @@ http://sigcine1.space:80/374897485/789272274/196.ts
 http://sigcine1.space:80/374897485/789272274/159.ts
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes", TNT HD1
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/31111
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes", TNT HD2
 http://sigcine1.space:80/374897485/789272274/177.ts
@@ -334,7 +343,7 @@ http://sigcine1.space:80/374897485/789272274/177.ts
 http://firetop1.site:80/299996386/228718986/751316.ts
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes", TNT FHD1
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2129
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes", TNT FHD2
 http://sigcine1.space:80/374897485/789272274/176.ts
@@ -400,7 +409,7 @@ http://sigcine1.space:80/374897485/789272274/561.ts
 http://sigcine1.space:80/374897485/789272274/161.ts
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://imgur.com/faV3eZx.png" group-title="TeleCine", Telecine Action HD2
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2097
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://imgur.com/faV3eZx.png" group-title="TeleCine", Telecine Action HD3
 
@@ -414,6 +423,9 @@ http://sigcine1.space:80/374897485/789272274/689.ts
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://imgur.com/faV3eZx.png" group-title="TeleCine", Telecine Action FHD3
 http://granpirosh.top/live/841866657/c581b7318b/615.m3u8
 
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://imgur.com/faV3eZx.png" group-title="TeleCine", Telecine Action FHD4
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2124
+
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://imgur.com/faV3eZx.png" group-title="TeleCine", Telecine Action 4K
 http://newonebox.life:80/enuqf6j/x7294gw/231471.ts
 
@@ -422,6 +434,9 @@ http://sigcine1.space:80/374897485/789272274/163.ts
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="TeleCine", Telecine Cult HD2
 http://newonebox.life:80/enuqf6j/x7294gw/438053.ts
+
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="TeleCine", Telecine Cult HD3
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2098
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="TeleCine", Telecine Cult FHD1
 http://sigcine1.space:80/374897485/789272274/162.ts
@@ -435,11 +450,14 @@ http://granpirosh.top/live/841866657/c581b7318b/620.m3u8
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="TeleCine", Telecine Fun HD1
 http://sigcine1.space:80/374897485/789272274/165.ts
 
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="TeleCine", Telecine Fun HD2
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/627
+
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="TeleCine", Telecine Fun FHD1
 http://sigcine1.space:80/374897485/789272274/164.ts
 
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="TeleCine", Telecine Fun FHD2
-http://185.236.183.117:14679
+
 
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="TeleCine", Telecine Fun FHD3
 http://granpirosh.top/live/841866657/c581b7318b/625.m3u8
@@ -460,7 +478,7 @@ http://newonebox.life:80/enuqf6j/x7294gw/231472.ts
 http://sigcine1.space:80/374897485/789272274/169.ts
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="TeleCine", Telecine Premium HD2
-http://185.236.183.117:14686/
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2101
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="TeleCine", Telecine Premium FHD1
 
@@ -469,7 +487,7 @@ http://185.236.183.117:14686/
 http://sigcine1.space:80/374897485/789272274/168.ts
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="TeleCine", Telecine Premium FHD3
-http://185.236.183.117:14687
+
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="TeleCine", Telecine Premium FHD4
 http://granpirosh.top/live/841866657/c581b7318b/635.m3u8
@@ -481,7 +499,7 @@ http://newonebox.life:80/enuqf6j/x7294gw/231473.ts
 http://sigcine1.space:80/374897485/789272274/171.ts
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="TeleCine", Telecine Touch HD2
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2102
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="TeleCine", Telecine Touch FHD1
 
@@ -505,7 +523,7 @@ http://sigcine1.space:80/374897485/789272274/77.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14001.ts
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO HD3
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/360
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO HD4
 https://metalgear.bemtv.cn/STREAM/8267/chunks.m3u8
@@ -544,7 +562,7 @@ http://newonebox.life:80/enuqf6j/x7294gw/438087.ts
 http://15.235.50.112:14192/
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family HD2
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2242
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family HD3
 http://sigcine1.space:80/374897485/789272274/75.ts
@@ -577,7 +595,7 @@ http://sigcine1.space:80/374897485/789272274/698.ts
 http://newonebox.life:80/enuqf6j/x7294gw/438105.ts
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="HBO", HBO Xtreme HD1
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/383
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="HBO", HBO Xtreme HD1
 http://newonebox.life:80/enuqf6j/x7294gw/438125.ts
@@ -652,7 +670,7 @@ http://granpirosh.top/live/841866657/c581b7318b/494.m3u8
 http://longitudenow.site:80/23876546/64567832/5365030
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Premiere", Premiere Clubes HD5
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/492
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Premiere", Premiere Clubes HD6
 http://play.1list.vip/live/listatvs/controliptv/36948.ts
@@ -694,7 +712,7 @@ http://firetop1.site:80/299996386/228718986/210.ts
 http://play.1list.vip/live/listatvs/controliptv/40783.ts
 
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Premiere", Premiere 2 HD1
-
+http://104.238.222.251:8989/278940_.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Premiere", Premiere 2 HD2
 http://sigcine1.space:80/374897485/789272274/115.ts
@@ -703,7 +721,7 @@ http://sigcine1.space:80/374897485/789272274/115.ts
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8786
 
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Premiere", Premiere 2 HD4
-http://185.236.183.118:14511/
+
 
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Premiere", Premiere 2 FHD1
 http://sigcine1.space:80/374897485/789272274/674.ts
@@ -723,8 +741,11 @@ http://granpirosh.top/live/841866657/c581b7318b/499.m3u8
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Premiere", Premiere 2 FHD6
 http://jybicfmekahrqtdvzpkmn.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/988189694/432583663/338394
 
-#EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Premiere", Premiere 3 HD1
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Premiere", Premiere 2 FHD7
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2033017
 
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Premiere", Premiere 3 HD1
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/472
 
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Premiere", Premiere 3 HD2
 http://sigcine1.space:80/374897485/789272274/117.ts
@@ -748,7 +769,7 @@ http://granpirosh.top/live/841866657/c581b7318b/504.m3u8
 http://jybicfmekahrqtdvzpkmn.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/988189694/432583663/141517
 
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Premiere", Premiere 4 HD1
-
+http://104.238.222.251:8989/278934_.m3u8?ppv4
 
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Premiere", Premiere 4 HD2
 http://sigcine1.space:80/374897485/789272274/119.ts
@@ -772,7 +793,7 @@ http://jybicfmekahrqtdvzpkmn.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/988
 http://sigcine1.space:80/374897485/789272274/121.ts
 
 #EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Premiere", Premiere 5 HD2
-
+http://104.238.222.251:8989/278935_.m3u8?ppv5
 
 #EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Premiere", Premiere 5 HD3
 http://newonebox.life:80/enuqf6j/x7294gw/236268.ts
@@ -793,7 +814,7 @@ http://jybicfmekahrqtdvzpkmn.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/988
 http://sigcine1.space:80/374897485/789272274/313.ts
 
 #EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Premiere", Premiere 6 HD2
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/484
 
 #EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Premiere", Premiere 6 HD3
 http://newonebox.life:80/enuqf6j/x7294gw/236274.ts
@@ -814,7 +835,7 @@ http://jybicfmekahrqtdvzpkmn.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/988
 http://sigcine1.space:80/374897485/789272274/314.ts
 
 #EXTINF:-1 tvg-id="PREMIERE7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Premiere", Premiere 7 HD2
-
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/31031
 
 #EXTINF:-1 tvg-id="PREMIERE7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Premiere", Premiere 7 HD3
 http://newonebox.life:80/enuqf6j/x7294gw/236280.ts
@@ -864,7 +885,7 @@ http://play.1list.vip/live/listatvs/controliptv/37255.ts
 http://sigcine1.space:80/374897485/789272274/148.ts
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SporTV", SporTV FHD2 
-
+https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SporTV", SporTV FHD3
 https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
