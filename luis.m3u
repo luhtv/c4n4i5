@@ -105,10 +105,10 @@ http://play.1list.vip/live/listatvs/controliptv/38429.ts
 
 
 #EXTINF:-1 tvg-id="band-rio" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band RJ HD
-http://newonebox.life:80/enuqf6j/x7294gw/236013.ts
+
 
 #EXTINF:-1 tvg-id="br#band-rio" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band RJ FHD
-http://newonebox.life:80/enuqf6j/x7294gw/236012.ts
+
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band MT HD
 
@@ -211,7 +211,7 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 
 #EXTINF:-1 tvg-id="gazeta" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais Abertos", TV Gazeta HD1
-http://newonebox.life:80/enuqf6j/x7294gw/235947.ts
+
 
 #EXTINF:-1 tvg-id="gazeta" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais Abertos", TV Gazeta HD2
 http://sigcine1.space:80/374897485/789272274/316.ts
@@ -220,7 +220,7 @@ http://sigcine1.space:80/374897485/789272274/316.ts
 http://sigcine1.space:80/374897485/789272274/317.ts
 
 #EXTINF:-1 tvg-id="gazeta" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais Abertos", TV Gazeta FHD2
-http://newonebox.life:80/enuqf6j/x7294gw/235946.ts
+
 
 #EXTINF:-1 tvg-id="tvcultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais Abertos", TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
@@ -292,7 +292,7 @@ http://sigcine1.space:80/374897485/789272274/754.ts
 http://granpirosh.top/live/841866657/c581b7318b/692.m3u8
 
 #EXTINF:-1 tvg-id="megapix" tvg-logo="https://thumbs4.imagebam.com/95/15/76/MEVQNMW_t.png" group-title="Filmes", Megapix 4K
-http://newonebox.life:80/enuqf6j/x7294gw/231465.ts
+
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Filmes", Paramount Network HD¹
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2261
@@ -367,7 +367,7 @@ http://sigcine1.space:80/374897485/789272274/178.ts
 http://sigcine1.space:80/374897485/789272274/570.ts
 
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes", Warner Channel HD1
-http://newonebox.life:80/enuqf6j/x7294gw/438241.ts
+
 
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes", Warner Channel HD2
 http://79.127.238.228:14647/
@@ -382,7 +382,7 @@ http://sigcine1.space:80/374897485/789272274/186.ts
 http://sigcine1.space:80/374897485/789272274/750.ts
 
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes", Warner Channel FHD3
-http://newonebox.life:80/enuqf6j/x7294gw/438239.ts
+
 
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes", Warner Channel FHD4
 http://granpirosh.top/live/841866657/c581b7318b/749.m3u8
@@ -430,13 +430,13 @@ http://granpirosh.top/live/841866657/c581b7318b/615.m3u8
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2124
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://imgur.com/faV3eZx.png" group-title="TeleCine", Telecine Action 4K
-http://newonebox.life:80/enuqf6j/x7294gw/231471.ts
+
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="TeleCine", Telecine Cult HD1
 http://sigcine1.space:80/374897485/789272274/163.ts
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="TeleCine", Telecine Cult HD2
-http://newonebox.life:80/enuqf6j/x7294gw/438053.ts
+
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="TeleCine", Telecine Cult HD3
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2098
@@ -445,7 +445,7 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2098
 http://sigcine1.space:80/374897485/789272274/162.ts
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="TeleCine", Telecine Cult FHD2
-http://newonebox.life:80/enuqf6j/x7294gw/438051.ts
+
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="TeleCine", Telecine Cult FHD3
 http://granpirosh.top/live/841866657/c581b7318b/620.m3u8
@@ -475,7 +475,7 @@ http://sigcine1.space:80/374897485/789272274/166.ts
 http://granpirosh.top/live/841866657/c581b7318b/630.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="TeleCine", Telecine Pipoca 4K
-http://newonebox.life:80/enuqf6j/x7294gw/231472.ts
+
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="TeleCine", Telecine Premium HD1
 http://sigcine1.space:80/374897485/789272274/169.ts
@@ -496,7 +496,7 @@ http://sigcine1.space:80/374897485/789272274/168.ts
 http://granpirosh.top/live/841866657/c581b7318b/635.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="TeleCine", Telecine Premium 4K
-http://newonebox.life:80/enuqf6j/x7294gw/231473.ts
+
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="TeleCine", Telecine Touch HD1
 http://sigcine1.space:80/374897485/789272274/171.ts
@@ -532,7 +532,7 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/360
 https://metalgear.bemtv.cn/STREAM/8267/chunks.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO FHD1
-http://newonebox.life:80/enuqf6j/x7294gw/438082.ts
+
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO FHD2
 http://sigcine1.space:80/374897485/789272274/76.ts
@@ -541,7 +541,7 @@ http://sigcine1.space:80/374897485/789272274/76.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14000.ts
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO 4K
-http://newonebox.life:80/enuqf6j/x7294gw/231490.ts
+
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="HBO", HBO 2 SD
 http://sigcine1.space:80/374897485/789272274/653.ts
@@ -559,7 +559,7 @@ https://metalgear.bemtv.cn/STREAM/8265/chunks.m3u8
 http://sigcine1.space:80/374897485/789272274/72.ts
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="HBO", HBO 2 FHD2
-http://newonebox.life:80/enuqf6j/x7294gw/438087.ts
+
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family HD1
 http://15.235.50.112:14192/
@@ -571,7 +571,7 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2242
 http://sigcine1.space:80/374897485/789272274/75.ts
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family HD4
-http://newonebox.life:80/enuqf6j/x7294gw/438093.ts
+
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family HD5
 https://metalgear.bemtv.cn/STREAM/8263/chunks.m3u8
@@ -595,13 +595,13 @@ http://sigcine1.space:80/374897485/789272274/79.ts
 http://sigcine1.space:80/374897485/789272274/698.ts
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="HBO", HBO MUNDI FHD2
-http://newonebox.life:80/enuqf6j/x7294gw/438105.ts
+
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="HBO", HBO Xtreme HD1
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/383
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="HBO", HBO Xtreme HD1
-http://newonebox.life:80/enuqf6j/x7294gw/438125.ts
+
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="HBO", HBO Xtreme HD2
 http://sigcine1.space:80/374897485/789272274/87.ts
@@ -613,7 +613,7 @@ http://sigcine1.space:80/374897485/789272274/87.ts
 http://sigcine1.space:80/374897485/789272274/86.ts
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="HBO", HBO Xtreme FHD3
-http://newonebox.life:80/enuqf6j/x7294gw/438123.ts
+
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="HBO", HBO Xtreme 4K
 http://rota66.bar:80/djmarcio/301082/151055
@@ -622,7 +622,7 @@ http://rota66.bar:80/djmarcio/301082/151055
 http://sigcine1.space:80/374897485/789272274/85.ts
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="HBO", HBO SIGNATURE HD2
-http://newonebox.life:80/enuqf6j/x7294gw/438119.ts
+
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="HBO", HBO SIGNATURE HD3
 https://metalgear.bemtv.cn/STREAM/8258/chunks.m3u8
@@ -637,7 +637,7 @@ http://clubtv.link/jun27/phpcode/lista0.php?c=21&token=TecnoplusJunio03&f=.m3u8
 https://metalgear.bemtv.cn/STREAM/8261/chunks.m3u8
 
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://thumbs4.imagebam.com/88/58/1a/MEVQMJZ_t.png" group-title="HBO", HBO+ FHD
-http://newonebox.life:80/enuqf6j/x7294gw/438099.ts
+
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://thumbs4.imagebam.com/7e/fc/12/MEVQMK0_t.png" group-title="HBO", HBO POP SD
 http://sigcine1.space:80/374897485/789272274/650.ts
@@ -661,7 +661,7 @@ http://sigcine1.space:80/374897485/789272274/82.ts
 http://sigcine1.space:80/374897485/789272274/671.ts
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Premiere", Premiere Clubes HD1
-http://newonebox.life:80/enuqf6j/x7294gw/236244.ts
+
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Premiere", Premiere Clubes HD2
 http://sigcine1.space:80/374897485/789272274/123.ts
@@ -706,7 +706,7 @@ http://jybicfmekahrqtdvzpkmn.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/988
 http://sigcine1.space:80/374897485/789272274/210.ts
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Premiere", Premiere Clubes 4K2
-http://newonebox.life:80/enuqf6j/x7294gw/231467.ts
+
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Premiere", Premiere Clubes 4K3
 http://firetop1.site:80/299996386/228718986/210.ts
@@ -757,13 +757,13 @@ http://sigcine1.space:80/374897485/789272274/117.ts
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8787
 
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Premiere", Premiere 3 HD4
-http://newonebox.life:80/enuqf6j/x7294gw/236256.ts
+
 
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Premiere", Premiere 3 FHD1
 http://sigcine1.space:80/374897485/789272274/116.ts
 
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Premiere", Premiere 3 FHD2
-http://newonebox.life:80/enuqf6j/x7294gw/236254.ts
+
 
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Premiere", Premiere 3 FHD3
 http://granpirosh.top/live/841866657/c581b7318b/504.m3u8
@@ -778,13 +778,13 @@ http://104.238.222.251:8989/278934_.m3u8?ppv4
 http://sigcine1.space:80/374897485/789272274/119.ts
 
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Premiere", Premiere 4 HD3
-http://newonebox.life:80/enuqf6j/x7294gw/236262.ts
+
 
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Premiere", Premiere 4 FHD1
 http://sigcine1.space:80/374897485/789272274/118.ts
 
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Premiere", Premiere 4 FHD2
-http://newonebox.life:80/enuqf6j/x7294gw/236260.ts
+
 
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Premiere", Premiere 4 FHD3
 http://granpirosh.top/live/841866657/c581b7318b/509.m3u8
@@ -799,13 +799,13 @@ http://sigcine1.space:80/374897485/789272274/121.ts
 http://104.238.222.251:8989/278935_.m3u8?ppv5
 
 #EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Premiere", Premiere 5 HD3
-http://newonebox.life:80/enuqf6j/x7294gw/236268.ts
+
 
 #EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Premiere", Premiere 5 FHD1
 http://sigcine1.space:80/374897485/789272274/120.ts
 
 #EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Premiere", Premiere 5 FHD2
-http://newonebox.life:80/enuqf6j/x7294gw/236266.ts
+
 
 #EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Premiere", Premiere 5 FHD3
 http://granpirosh.top/live/841866657/c581b7318b/514.m3u8
@@ -820,13 +820,13 @@ http://sigcine1.space:80/374897485/789272274/313.ts
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/484
 
 #EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Premiere", Premiere 6 HD3
-http://newonebox.life:80/enuqf6j/x7294gw/236274.ts
+
 
 #EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Premiere", Premiere 6 FHD1
 http://sigcine1.space:80/374897485/789272274/678.ts
 
 #EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Premiere", Premiere 6 FHD2
-http://newonebox.life:80/enuqf6j/x7294gw/236272.ts
+
 
 #EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Premiere", Premiere 6 FHD3
 http://granpirosh.top/live/841866657/c581b7318b/519.m3u8
@@ -841,13 +841,13 @@ http://sigcine1.space:80/374897485/789272274/314.ts
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/31031
 
 #EXTINF:-1 tvg-id="PREMIERE7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Premiere", Premiere 7 HD3
-http://newonebox.life:80/enuqf6j/x7294gw/236280.ts
+
 
 #EXTINF:-1 tvg-id="PREMIERE7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Premiere", Premiere 7 FHD1
 http://sigcine1.space:80/374897485/789272274/679.ts
 
 #EXTINF:-1 tvg-id="PREMIERE7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Premiere", Premiere 7 FHD2
-http://newonebox.life:80/enuqf6j/x7294gw/236278.ts
+
 
 #EXTINF:-1 tvg-id="PREMIERE7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Premiere", Premiere 7 FHD3
 http://granpirosh.top/live/841866657/c581b7318b/519.m3u8
@@ -867,7 +867,7 @@ http://granpirosh.top/live/841866657/c581b7318b/380749.m3u8
 ######################################################################## CANAIS SporTV ################################################################################
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SporTV", SporTV SD1
-http://newonebox.life:80/enuqf6j/x7294gw/236288.ts
+
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SporTV", SporTV HD1
 http://sigcine1.space:80/374897485/789272274/149.ts
@@ -879,7 +879,7 @@ http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18659.ts
 https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SporTV", SporTV HD4
-http://newonebox.life:80/enuqf6j/x7294gw/236287.ts
+
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SporTV", SporTV HD5
 http://play.1list.vip/live/listatvs/controliptv/37255.ts
@@ -906,13 +906,13 @@ https://mpjaq3evvk.mpjaq3evvk.workers.dev/sportv/index.m3u8
 http://jybicfmekahrqtdvzpkmn.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/988189694/432583663/685172
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SporTV", SporTV 4k1
-http://newonebox.life:80/enuqf6j/x7294gw/231470.ts
+
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SporTV", SporTV 4k2
 http://play.1list.vip/live/listatvs/controliptv/40785.ts
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SporTV", SporTV 2 SD
-http://newonebox.life:80/enuqf6j/x7294gw/236294.ts
+
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SporTV", SporTV 2 HD1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21004.ts
@@ -921,7 +921,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21004.ts
 http://sigcine1.space:80/374897485/789272274/145.ts
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SporTV", SporTV 2 HD3
-http://newonebox.life:80/enuqf6j/x7294gw/236292.ts
+
 
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SporTV", SporTV 2 FHD1
@@ -931,7 +931,7 @@ http://sigcine1.space:80/374897485/789272274/144.ts
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/59177.ts
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SporTV", SporTV 2 FHD3
-http://newonebox.life:80/enuqf6j/x7294gw/236290.ts
+
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SporTV", SporTV 2 FHD4
 http://granpirosh.top/live/841866657/c581b7318b/554.m3u8
@@ -940,7 +940,7 @@ http://granpirosh.top/live/841866657/c581b7318b/554.m3u8
 https://mpjaq3evvk.mpjaq3evvk.workers.dev/sportv2/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SporTV", SporTV 3 SD
-http://newonebox.life:80/enuqf6j/x7294gw/236300.ts
+
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SporTV", SporTV 3 HD1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21007.ts
@@ -949,7 +949,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21007.ts
 http://sigcine1.space:80/374897485/789272274/147.ts
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SporTV", SporTV 3 HD3
-http://newonebox.life:80/enuqf6j/x7294gw/236298.ts
+
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SporTV", SporTV 3 FHD1
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18661.ts
@@ -958,7 +958,7 @@ http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18661.ts
 http://sigcine1.space:80/374897485/789272274/146.ts
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SporTV", SporTV 3 FHD3
-http://newonebox.life:80/enuqf6j/x7294gw/236296.ts
+
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SporTV", SporTV 3 FHD4
 http://granpirosh.top/live/841866657/c581b7318b/559.m3u8
@@ -1624,7 +1624,7 @@ http://sigcine1.space:80/374897485/789272274/126.ts
 http://24hrs.homelinux.com:8080/24H-2HomensEmeio/video.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 2
-http://newonebox.life:80/enuqf6j/x7294gw/234746.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 3
 http://firetop1.site:80/299996386/228718986/202271.ts
