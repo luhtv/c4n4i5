@@ -24,6 +24,12 @@ http://79.127.238.228:14211/
 #EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Globo", Globo SP HD4
 http://firetop1.site:80/299996386/228718986/477.ts
 
+#EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Globo", Globo SP HD5
+http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/65748.ts
+
+#EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Globo", Globo SP HD6
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18022.ts
+
 #EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Globo", Globo SP FHD1
 
 
@@ -72,10 +78,10 @@ https://aovivo.doozytv.com.br/31025556/10161894/chunks.m3u8
 http://79.127.238.228:14298/bandhd
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band SP HD3
-
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17057.ts
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band SP HD4
-
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17054.ts
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band SP HD5
 http://pkweb.ca:80/96050573/as895423/60
@@ -262,7 +268,7 @@ http://sigcine1.space:80/374897485/789272274/7.ts
 http://sigcine1.space:80/374897485/789272274/19.ts
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Filmes", Cinemax HD2
-
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13010.ts
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Filmes", Cinemax FHD1
 
