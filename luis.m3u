@@ -1661,6 +1661,9 @@ http://play.1list.vip/live/listatvs/controliptv/59100.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 7
 http://applazer.online:80/JOAO82975954/4180734012/1151617
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 8
+http://vivofibra.uk:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595204
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 1
 http://sigcine1.space:80/374897485/789272274/202272.ts
 
@@ -1681,6 +1684,12 @@ http://play.1list.vip/live/listatvs/controliptv/217874.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 7
 http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025802.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 8
+http://vivofibra.uk:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595218
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 9
+http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/595218
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Friends
 http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
@@ -1969,6 +1978,9 @@ http://firetop1.site:80/299996386/228718986/202230.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 8
 http://applazer.online:80/JOAO82975954/4180734012/1151577
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 9
+http://vivofibra.uk:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595200
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Desenhos 24hrs", Os Pinguins de Madagascar 1
 http://onecdz.xyz:80/029911/007404/2299881.ts
