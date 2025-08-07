@@ -110,6 +110,9 @@ http://play.1list.vip/live/listatvs/controliptv/38429.ts
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band SP FHD5
 http://saga10.pro:80/461077/339128/2649109
 
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band SP FHD6
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17000.ts
+
 #EXTINF:-1 tvg-id="band-rio" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band RJ HD
 
 
@@ -1677,7 +1680,7 @@ http://applazer.online:80/JOAO82975954/4180734012/1151617
 http://play.1list.vip/live/listatvs/controliptv/59100.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 6
-
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38004.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 7
 
@@ -1710,7 +1713,7 @@ http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025802.m3u8
 http://vivofibra.uk:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595218
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 9
-
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38018.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 10
 
@@ -1921,8 +1924,11 @@ http://sigcine1.space:80/374897485/789272274/202257.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes 24hrs", Cine Ação
 http://sigcine1.space:80/374897485/789272274/202277.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes 24hrs", Cine Comédia
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes 24hrs", Cine Comédia 1
 http://sigcine1.space:80/374897485/789272274/202275.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes 24hrs", Cine Comédia 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38030.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes 24hrs", Cine Drama
 http://sigcine1.space:80/374897485/789272274/202255.ts
