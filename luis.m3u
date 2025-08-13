@@ -402,6 +402,9 @@ http://granpirosh.top/live/841866657/c581b7318b/749.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes", Warner Channel FHD5
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13051.ts
 
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes", Warner Channel FHD6
+http://mxlive.info:2052/max557/971120503/20232
+
 #EXTINF:-1 tvg-id="studio universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes", Studio Universal HD1
 http://sigcine1.space:80/374897485/789272274/155.ts
 
@@ -1683,7 +1686,7 @@ http://play.1list.vip/live/listatvs/controliptv/59100.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38004.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 7
-
+http://mxlive.info:2052/max557/971120503/542
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 8
 
@@ -1716,7 +1719,7 @@ http://vivofibra.uk:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595218
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38018.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 10
-
+http://mxlive.info:2052/max557/971120503/543
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Friends
 http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
@@ -1778,6 +1781,12 @@ http://jybicfmekahrqtdvzpkmn.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/988
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Chaves 10
 http://dnscine.top:80/Fernando123/Fernando123/202304.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Chaves 11
+http://mxlive.info:2052/max557/971120503/40813
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Chaves 12
+http://mxlive.info:2052/max557/971120503/40791
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Todo Mundo Odeia O Chris 1
 http://play.1list.vip/live/listatvs/controliptv/56467.ts
 
@@ -1795,6 +1804,9 @@ http://jybicfmekahrqtdvzpkmn.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/988
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Todo Mundo Odeia O Chris 6
 http://dnscine.top:80/Fernando123/Fernando123/202232.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Todo Mundo Odeia O Chris 7
+http://mxlive.info:2052/max557/971120503/317
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Família Dinossauro
 http://sigcine1.space:80/374897485/789272274/202238.ts
@@ -2143,6 +2155,9 @@ http://snake.ilovecollege.info:80/231433191/466525781/2028865
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Tom e Jerry 5
 http://rota66.bar:80/djmarcio/301082/83742
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Tom e Jerry 6
+http://mxlive.info:2052/max557/971120503/49768
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Mikey e Donald 1
 http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/video.m3u8?token=a4A2wbotS3
