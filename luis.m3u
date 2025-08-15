@@ -1721,6 +1721,9 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38018.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 10
 http://mxlive.info:2052/max557/971120503/543
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 11
+http://unividia.com:80/746147216xtvs/w884E6734a/233915
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Friends
 http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
 
@@ -1750,6 +1753,12 @@ http://esma25.top/ytyedf/rmdjwj/27166.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Chapolin 8
 http://dnscine.top:80/Fernando123/Fernando123/202250.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Chapolin 9
+http://unividia.com:80/746147216xtvs/w884E6734a/232227
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Chapolin 10
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Chaves 1
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
@@ -1786,6 +1795,12 @@ http://mxlive.info:2052/max557/971120503/40813
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Chaves 12
 http://mxlive.info:2052/max557/971120503/40791
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Chaves 13
+http://unividia.com:80/746147216xtvs/w884E6734a/232221
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Chaves 14
+http://unividia.com:80/746147216xtvs/w884E6734a/232224
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Todo Mundo Odeia O Chris 1
 http://play.1list.vip/live/listatvs/controliptv/56467.ts
@@ -1933,6 +1948,18 @@ http://bpbe.one:80/5627286/43199/228352.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes 24hrs", Marvel e DC
 http://sigcine1.space:80/374897485/789272274/202257.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes 24hrs", Marvel 1
+http://unividia.com:80/746147216xtvs/w884E6734a/271595
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes 24hrs", Marvel 2
+http://unividia.com:80/746147216xtvs/w884E6734a/271596
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes 24hrs", Marvel 3
+http://unividia.com:80/746147216xtvs/w884E6734a/271597
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes 24hrs", Marvel 4
+http://unividia.com:80/746147216xtvs/w884E6734a/271598
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes 24hrs", Cine Ação
 http://sigcine1.space:80/374897485/789272274/202277.ts
 
@@ -1972,21 +1999,38 @@ https://abre.ai/lSy5
 
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 1" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 1
 http://rota66.bar:80/djmarcio/301082/137991
+#EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 1" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 1 OP2
+http://unividia.com:80/746147216xtvs/w884E6734a/272887
 
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 2" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 2
 http://rota66.bar:80/djmarcio/301082/137992
 
-#EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 3" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 3
+#EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 2" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 2 OP2
+http://unividia.com:80/746147216xtvs/w884E6734a/272888
+
+#EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 3" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 3 
 http://rota66.bar:80/djmarcio/301082/137993
+
+#EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 3" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 3 OP2
+http://unividia.com:80/746147216xtvs/w884E6734a/272889
 
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 4" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 4
 http://rota66.bar:80/djmarcio/301082/133413
 
+#EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 4" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 4 OP2
+http://unividia.com:80/746147216xtvs/w884E6734a/272890
+
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 5" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 5
 http://rota66.bar:80/djmarcio/301082/150476
 
+#EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 5" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 5 OP2
+http://unividia.com:80/746147216xtvs/w884E6734a/272891
+
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 6" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 6
 http://rota66.bar:80/djmarcio/301082/150477
+
+#EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 6" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 6 OP2
+http://unividia.com:80/746147216xtvs/w884E6734a/272892
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs",Rick And Morty op1
 http://15.235.9.200:14010
