@@ -1751,6 +1751,9 @@ http://mxlive.info:2052/max557/971120503/543
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 11
 http://unividia.com:80/746147216xtvs/w884E6734a/233915
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 12
+http://dnscine.top:80/793699983/122778657/202272.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Friends
 http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
 
