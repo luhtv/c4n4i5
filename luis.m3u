@@ -33,6 +33,9 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18022.ts
 #EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Globo", Globo SP HD7
 http://saga10.pro:80/461077/339128/2639794
 
+#EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Globo", Globo SP HD8
+http://45.93.9.150/globosp/index.m3u8
+
 #EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Globo", Globo SP FHD1
 http://firetop1.site:80/299996386/228718986/476.ts
 
@@ -94,6 +97,9 @@ http://pkweb.ca:80/96050573/as895423/60
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band SP HD6
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3.m3u8
+
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band SP HD7
+http://45.93.9.150/band/index.m3u8
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band SP FHD1
 http://15.235.50.115:14522/
@@ -720,6 +726,9 @@ http://7semfronteiras.cc:8080/julia3387/jpc374856/56943
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Premiere", Premiere Clubes HD8
 http://longitudenow.site:80/23876546/64567832/5365030
 
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Premiere", Premiere Clubes HD9
+http://45.93.9.150/pre1/index.m3u8
+
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Premiere", Premiere Clubes FHD1
 http://sigcine1.space:80/374897485/789272274/122.ts
 
@@ -771,6 +780,9 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20004.ts
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Premiere", Premiere 2 HD5
 http://longitudenow.site:80/23876546/64567832/5365039
 
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Premiere", Premiere 2 HD6
+http://45.93.9.150/pre2/index.m3u8
+
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Premiere", Premiere 2 FHD1
 http://sigcine1.space:80/374897485/789272274/674.ts
 
@@ -810,6 +822,9 @@ http://saga10.pro:80/461077/339128/2909019
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Premiere", Premiere 3 HD5
 http://longitudenow.site:80/23876546/64567832/5365049
 
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Premiere", Premiere 2 HD6
+http://45.93.9.150/pre3/index.m3u8
+
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Premiere", Premiere 3 FHD1
 http://sigcine1.space:80/374897485/789272274/116.ts
 
@@ -834,6 +849,9 @@ http://sigcine1.space:80/374897485/789272274/119.ts
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Premiere", Premiere 4 HD3
 http://saga10.pro:80/461077/339128/2909022
 
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Premiere", Premiere 4 HD4
+http://45.93.9.150/pre4/index.m3u8
+
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Premiere", Premiere 4 FHD1
 http://sigcine1.space:80/374897485/789272274/118.ts
 
@@ -854,6 +872,9 @@ http://104.238.222.251:8989/278935_.m3u8?ppv5
 
 #EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Premiere", Premiere 5 HD3
 http://saga10.pro:80/461077/339128/2909025
+
+#EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Premiere", Premiere 5 HD4
+http://45.93.9.150/pre5/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Premiere", Premiere 5 FHD1
 http://sigcine1.space:80/374897485/789272274/120.ts
@@ -876,6 +897,9 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/484
 #EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Premiere", Premiere 6 HD3
 http://saga10.pro:80/461077/339128/2909028
 
+#EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Premiere", Premiere 6 HD4
+http://45.93.9.150/pre6/index.m3u8
+
 #EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Premiere", Premiere 6 FHD1
 http://sigcine1.space:80/374897485/789272274/678.ts
 
@@ -896,6 +920,9 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/31031
 
 #EXTINF:-1 tvg-id="PREMIERE7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Premiere", Premiere 7 HD3
 http://saga10.pro:80/461077/339128/2909031
+
+#EXTINF:-1 tvg-id="PREMIERE7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Premiere", Premiere 7 HD4
+http://45.93.9.150/pre7/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Premiere", Premiere 7 FHD1
 http://sigcine1.space:80/374897485/789272274/679.ts
