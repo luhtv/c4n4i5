@@ -1149,42 +1149,11 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429
 
 
 ####################################################################### CANAIS F1 #####################################################################################
-
-#EXTINF:-1 tvg-id="Sky Sports F1 HD 50 UK" tvg-name="Sky Sports F1 HD 50 UK" tvg-logo="" group-title="F1 Mundo",Sky Sports F1 HD 50 UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/9283/index.m3u
-#EXTINF:-1 tvg-id="Sky Sports F1 HD UK" tvg-name="Sky Sports F1 HD UK" tvg-logo="" group-title="F1 Mundo",Sky Sports F1 HD UK
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7342/index.m3u
-#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-logo="" tvg-name="UK Sky Sports F1 FHD" group-title="F1 Mundo",UK Sky Sports F1 FHD
-http://cord-cutter.net:8080/hq3y4G/234247/35244
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-logo="" tvg-name="UK Sky Sports F1 FHD (D)" group-title="F1 Mundo",UK Sky Sports F1 FHD (D)
-http://cord-cutter.net:8080/hq3y4G/234247/53704
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" tvg-name="F1TV: Data" group-title="F1 Mundo",F1TV: Data
-http://cord-cutter.net:8080/hq3y4G/234247/135044
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" tvg-name="F1TV: Pit Lane" group-title="F1 Mundo",F1TV: Pit Lane
-http://cord-cutter.net:8080/hq3y4G/234247/135045
-#EXTINF:-1 group-title="F1 Mundo",F1TV FHD
-http://117tv.icu:8080/X5xRz0/944877/125947
 #######################################################################################################################################################################
 
 
 
 ######################################################################## ESPORTES PORTUGAL ############################################################################
-
-#EXTINF:-1 tvg-id="DAZN 1 HD PT" tvg-name="DAZN 1 HD PT" tvg-logo="" group-title="PORTUGAL",DAZN 1 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2531/index.m3u
-#EXTINF:-1 tvg-id="DAZN 2 HD PT" tvg-name="DAZN 2 HD PT" tvg-logo="" group-title="PORTUGAL",DAZN 2 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2532/index.m3u
-#EXTINF:-1 tvg-id="DAZN 3 HD PT" tvg-name="DAZN 3 HD PT" tvg-logo="" group-title="PORTUGAL",DAZN 3 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7062/index.m3u
-#EXTINF:-1 tvg-id="DAZN 4 HD PT" tvg-name="DAZN 4 HD PT" tvg-logo="" group-title="PORTUGAL",DAZN 4 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2534/index.m3u
-#EXTINF:-1 tvg-id="DAZN 5 HD PT" tvg-name="DAZN 5 HD PT" tvg-logo="" group-title="PORTUGAL",DAZN 5 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2535/index.m3u
-#EXTINF:-1 tvg-id="DAZN 6 PT" tvg-name="DAZN 6 PT" tvg-logo="" group-title="PORTUGAL",DAZN 6 PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/2536/index.m3u
-#EXTINF:-1 tvg-id="DAZN 6 HD PT" tvg-name="DAZN 6 HD PT" tvg-logo="" group-title="PORTUGAL",DAZN 6 HD PT
-http://f8366acd.ucomist.net/iptv/MQ5HGEYV2MMBPB/7064/index.m3u
-
 #######################################################################################################################################################################
 
 
@@ -1744,9 +1713,6 @@ http://sigcine1.space:80/374897485/789272274/202259.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes 24hrs", Cine kids
 http://sigcine1.space:80/374897485/789272274/202274.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Filmes 24hrs",BangBang
-https://abre.ai/lSy5
-
 #######################################################################################################################################################################
 
 
@@ -1758,54 +1724,39 @@ https://abre.ai/lSy5
 http://rota66.bar:80/djmarcio/301082/137991
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 1" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 1 OP2
 http://unividia.com:80/746147216xtvs/w884E6734a/272887
-
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 2" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 2
 http://rota66.bar:80/djmarcio/301082/137992
-
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 2" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 2 OP2
 http://unividia.com:80/746147216xtvs/w884E6734a/272888
-
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 3" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 3 
 http://rota66.bar:80/djmarcio/301082/137993
-
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 3" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 3 OP2
 http://unividia.com:80/746147216xtvs/w884E6734a/272889
-
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 4" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 4
 http://rota66.bar:80/djmarcio/301082/133413
-
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 4" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 4 OP2
 http://unividia.com:80/746147216xtvs/w884E6734a/272890
-
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 5" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 5
 http://rota66.bar:80/djmarcio/301082/150476
-
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 5" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 5 OP2
 http://unividia.com:80/746147216xtvs/w884E6734a/272891
-
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 6" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 6
 http://rota66.bar:80/djmarcio/301082/150477
-
 #EXTINF:-1 tvg-id="" tvg-name="Rick And Morty 6" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs", Rick And Morty 6 OP2
 http://unividia.com:80/746147216xtvs/w884E6734a/272892
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs",Rick And Morty op1
 http://15.235.9.200:14010
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Desenhos 24hrs",Rick And Morty op2
 http://newoneblack.site:80/81844618/123456/793917
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Desenhos 24hrs", Jackie Chan 1
-http://onecdz.xyz:80/029911/007404/2299727.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Desenhos 24hrs", Jackie Chan 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Desenhos 24hrs", Jackie Chan
 http://15.235.9.200:14804/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Avatar Ang
-http://24hrs.homelinux.com:8080/24H-avataralendadeaang/video.m3u8
+http://24hrs.homelinux.com:80/24H-avataralendadeaang/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 1
-http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8?
+http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 2
 http://sigcine1.space:80/374897485/789272274/202246.ts
@@ -1817,36 +1768,15 @@ http://sigcine1.space:80/374897485/789272274/202230.ts
 http://sigcine1.space:80/374897485/789272274/202242.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 5
-http://firetop1.site:80/299996386/228718986/202242.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 6
-http://firetop1.site:80/299996386/228718986/202246.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 7
-http://firetop1.site:80/299996386/228718986/202230.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 8
-http://applazer.online:80/JOAO82975954/4180734012/1151577
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 9
-http://vivofibra.uk:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595200
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 10
 http://15.235.9.200:14984
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Desenhos 24hrs", Os Pinguins de Madagascar 1
-http://onecdz.xyz:80/029911/007404/2299881.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Ben 10 op1
-http://24hrs.homelinux.com:8080/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
+http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Ben 10 op2
 http://15.235.9.200:14819/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Bob Esponja 1
-http://45.134.141.161:2200/BRX/24HS_Bob_Esponja_1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Bob Esponja 2
 http://sigcine1.space:80/374897485/789272274/202309.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Bob Esponja 3
