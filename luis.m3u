@@ -1757,137 +1757,92 @@ http://24hrs.homelinux.com:80/24H-avataralendadeaang/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 1
 http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 2
 http://sigcine1.space:80/374897485/789272274/202246.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 3
 http://sigcine1.space:80/374897485/789272274/202230.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 4
 http://sigcine1.space:80/374897485/789272274/202242.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Simpsons 5
 http://15.235.9.200:14984
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Ben 10 op1
 http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Ben 10 op2
 http://15.235.9.200:14819/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Bob Esponja 1
 http://sigcine1.space:80/374897485/789272274/202309.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Bob Esponja 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Bob Esponja 2
 http://15.235.9.200:14823/
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Bob Esponja 4
-http://ap4x.online/live/ONNEPLAY/0511605511/3787460
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Bob Esponja 5
-http://esma25.top/ytyedf/rmdjwj/27225.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Caverna do Dragão
 http://sigcine1.space:80/374897485/789272274/202308.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Dragon Ball 1
-http://24hrs.homelinux.com:8080/24H-dragon.ball/video.m3u8?
-
+http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Dragon Ball 2
 http://15.235.9.200:14877/
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Dragon Ball 3
-http://ap4x.online/live/ONNEPLAY/0511605511/3787496.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Dragon Ball Z 1
-http://24hrs.homelinux.com:8080/24H-dragon.ball.z/tracks-v1a1/index.m3u8
-
+http://24hrs.homelinux.com:80/24H-dragon.ball.z/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Dragon Ball Z 2
-http://snake.ilovecollege.info:80/231433191/466525781/2028773
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Dragon Ball Z 3
 http://granpirosh.top/live/841866657/c581b7318b/271601.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Dragon Ball Z Kai
-http://24hrs.homelinux.com:8080/24H-dragon.ball.z.kai/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Dragon Ball Kai
+http://24hrs.homelinux.com:80/24H-dragon.ball.z.kai/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Dragon Ball GT
-http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/video.m3u8?
-
+http://24hrs.homelinux.com:80/24H-dragon.ball.gt/video.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Dragon Ball Super
-http://24hrs.homelinux.com:8080/24H-dragon.ball.super/video.m3u8?
+http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Family Guy 1
 http://sigcine1.space:80/374897485/789272274/202241.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Family Guy 2
-http://play.1list.vip/live/listatvs/controliptv/65262.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Family Guy 3
 http://dnscine.top:80/Fernando123/Fernando123/202241.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Futurama 1
-http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
-
+http://24hrs.homelinux.com:80/24H-futurama/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Futurama 2
 http://sigcine1.space:80/374897485/789272274/202240.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Homem Aranha (Clássico)
 http://sigcine1.space:80/374897485/789272274/202227.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Homem de Ferro
-http://24hrs.homelinux.com:8080/24H-ironman/playlist.m3u8
-
+http://24hrs.homelinux.com:80/24H-ironman/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Wolverine
-http://24hrs.homelinux.com:8080/24H-wolverine/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24H" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs",Os Vingadores 24H
-http://firetop1.site:80/299996386/228718986/202228.ts
-
+http://24hrs.homelinux.com:80/24H-wolverine/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", X-Men Evolution¹
-http://24hrs.homelinux.com:8080/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8
-
+http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", X-Men Evolution²
 http://sigcine1.space:80/374897485/789272274/202233.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Star Wars Rebels
-http://24hrs.homelinux.com:8080/24H-starwarsrebels/video.m3u8
+http://24hrs.homelinux.com:80/24H-starwarsrebels/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Naruto 1
 http://sigcine1.space:80/374897485/789272274/202235.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Naruto 2
-http://24hrs.homelinux.com:8080/24H-naruto.txt/video.m3u8?
-
+http://24hrs.homelinux.com:80/24H-naruto.txt/video.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Naruto Shippuden
-http://24hrs.homelinux.com:8080/24H-narutoshippuden.txt/video.m3u8?
+http://24hrs.homelinux.com:80/24H-narutoshippuden.txt/video.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Os Cavaleiros Dos Zodíacos
-http://24hrs.homelinux.com:8080/24H-cavaleiros/tracks-v1a1/index.m3u8
+http://24hrs.homelinux.com:80/24H-cavaleiros/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Digimon
-http://24hrs.homelinux.com:8080/24H-digimon/video.m3u8
+http://24hrs.homelinux.com:80/24H-digimon/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Doug
 http://sigcine1.space:80/374897485/789272274/202296.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Tom e Jerry 1
-http://24hrs.homelinux.com:8080/24H-tom-e-jerry/video.m3u8?
-
+http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Tom e Jerry 2
-http://24hrs.homelinux.com:8080/24H-tom-e-jerry/video.m3u8?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Tom e Jerry 3
 http://sigcine1.space:80/374897485/789272274/202313.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Tom e Jerry 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Tom e Jerry 3
 http://snake.ilovecollege.info:80/231433191/466525781/2028865
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Tom e Jerry 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Tom e Jerry 4
 http://rota66.bar:80/djmarcio/301082/83742
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Tom e Jerry 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Tom e Jerry 5
 http://mxlive.info:2052/max557/971120503/49768
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Mikey e Donald 1
