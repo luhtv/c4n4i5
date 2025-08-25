@@ -68,6 +68,8 @@ http://45.93.9.150/band/index.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3.m3u8
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band SP HD7
 http://dnscine.top:80/793699983/122778657/441.ts
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band SP HD8
+http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/31029.m3u8
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band SP FHD1
 http://15.235.50.115:14522/
@@ -83,6 +85,8 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17000.ts
 http://dnscine.top:80/793699983/122778657/440.ts
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band SP FHD7
 http://dnscine.top:80/793699983/122778657/715.ts
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Band", Band SP FHD8
+http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/107926.m3u8
 
 ####################################################################################################################################################################
 
@@ -96,8 +100,8 @@ https://cc7d37a17d3f4d0c8c82f9778df832ca.mediatailor.us-east-1.amazonaws.com/v1/
 http://sigcine1.space:80/374897485/789272274/266.ts
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT HD3
 http://dnscine.top:80/793699983/122778657/266.ts
-
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT HD4
+http://sinalprivado.info:80/632035/GqGcFV4ntu/17040
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT FHD1
 http://sigcine1.space:80/374897485/789272274/265.ts
@@ -105,6 +109,8 @@ http://sigcine1.space:80/374897485/789272274/265.ts
 http://dnscine.top:80/793699983/122778657/265.ts
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT FHD3
 http://dnscine.top:80/793699983/122778657/712.ts
+#EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT FHD4
+http://sinalprivado.info:80/632035/GqGcFV4ntu/17039
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT 4K
 
@@ -118,9 +124,8 @@ http://dnscine.top:80/793699983/122778657/712.ts
 http://sigcine1.space:80/374897485/789272274/260.ts
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP HD2
 http://dnscine.top:80/793699983/122778657/260.ts
-
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP HD3
-
+http://sinalprivado.info:80/632035/GqGcFV4ntu/17010
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP FHD1
 http://sigcine1.space:80/374897485/789272274/130.ts
@@ -128,9 +133,8 @@ http://sigcine1.space:80/374897485/789272274/130.ts
 http://granpirosh.top/live/841866657/c581b7318b/244071.m3u8
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP FHD3
 http://dnscine.top:80/793699983/122778657/130.ts
-
-#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP 4K
-
+#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP FHD4
+http://sinalprivado.info:80/632035/GqGcFV4ntu/17009
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV RJ HD
 
@@ -332,6 +336,12 @@ http://sigcine1.space:80/374897485/789272274/187.ts
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes", Warner Channel HD4
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13052.ts
 
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes", Warner Channel HD5
+http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/35258.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes", Warner Channel HD6
+http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/9220.m3u8
+
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes", Warner Channel FHD1
 http://sigcine1.space:80/374897485/789272274/186.ts
 
@@ -349,6 +359,12 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13051.ts
 
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes", Warner Channel FHD6
 http://mxlive.info:2052/max557/971120503/20232
+
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes", Warner Channel FHD7
+http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/107981.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes", Warner Channel FHD8
+http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/9219.m3u8
 
 #EXTINF:-1 tvg-id="studio universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes", Studio Universal HD1
 http://sigcine1.space:80/374897485/789272274/155.ts
@@ -642,9 +658,8 @@ http://longitudenow.site:80/23876546/64567832/5365030
 http://45.93.9.150/pre1/index.m3u8
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Premiere", Premiere Clubes HD6
 http://longitudenow.site:80/23876546/64567832/5365030
-
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Premiere", Premiere Clubes HD7
-
+http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/65745.ts
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Premiere", Premiere Clubes HD8
 
@@ -1745,6 +1760,9 @@ http://15.235.9.200:14826/breakingbad
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Breaking Bad 2
 http://ap4x.online/live/ONNEPLAY/0511605511/3787464
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Demolidor
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595339
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Clássicos TV
 https://stmv1.srvif.com/canal29/canal29/chunklist_w1069820980.m3u8
 
@@ -2124,6 +2142,9 @@ http://rota66.bar:80/djmarcio/301082/148200
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Pica Pau 5
 http://ap4x.online/live/ONNEPLAY/0511605511/3787423.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Pica Pau 6
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595281
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos 24hrs", Pokemon
 http://sigcine1.space:80/374897485/789272274/202310.ts
