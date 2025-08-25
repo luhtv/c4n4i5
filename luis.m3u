@@ -1551,40 +1551,26 @@ http://sigcine1.space:80/374897485/789272274/126.ts
 ######################################################################### 24hr Séries #################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 1
-http://24hrs.homelinux.com:8080/24H-2HomensEmeio/video.m3u8?
-
+http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 2
-http://24hrs.homelinux.com:8080/24H-2HomensEmeio/playlist.m3u8
-
+http://24hrs.homelinux.com:80/24H-2HomensEmeio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 3
 http://15.235.9.200:14872/doishomensemeio
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 4
-http://applazer.online:80/JOAO82975954/4180734012/1151617
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 5
-http://play.1list.vip/live/listatvs/controliptv/59100.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 6
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38004.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 5
 http://mxlive.info:2052/max557/971120503/542
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", Dois Homens e Meio 8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 1
 http://sigcine1.space:80/374897485/789272274/202272.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 2
 http://dnscine.top:80/Fernando123/Fernando123/202272.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 3
 http://15.235.9.200:14037
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 4
-http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/595218
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Séries 24hrs", The Big Bang Theory 5
 http://esma25.top/ytyedf/rmdjwj/491.ts
