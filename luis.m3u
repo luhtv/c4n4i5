@@ -116,7 +116,6 @@ http://dnscine.top:80/793699983/122778657/712.ts
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP HD1
 http://sigcine1.space:80/374897485/789272274/260.ts
-
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP HD2
 http://dnscine.top:80/793699983/122778657/260.ts
 
@@ -125,10 +124,8 @@ http://dnscine.top:80/793699983/122778657/260.ts
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP FHD1
 http://sigcine1.space:80/374897485/789272274/130.ts
-
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP FHD2
 http://granpirosh.top/live/841866657/c581b7318b/244071.m3u8
-
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Record", RecordTV SP FHD3
 http://dnscine.top:80/793699983/122778657/130.ts
 
@@ -496,97 +493,87 @@ http://saga10.pro:80/461077/339128/2839546
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO HD1
 http://sigcine1.space:80/374897485/789272274/77.ts
-
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO HD2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14001.ts
-
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO HD3
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/360
-
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO HD4
 https://metalgear.bemtv.cn/STREAM/8267/chunks.m3u8
-
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO HD5
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361024
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO FHD1
 http://saga10.pro:80/461077/339128/1263045
-
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO FHD2
 http://sigcine1.space:80/374897485/789272274/76.ts
-
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO FHD3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14000.ts
-
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO 4K
-
-
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="HBO", HBO 2 SD
-http://sigcine1.space:80/374897485/789272274/653.ts
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO FHD4
+http://dnscine.top:80/793699983/122778657/76.ts
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="HBO", HBO FHD5
+http://dnscine.top:80/793699983/122778657/697.ts
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="HBO", HBO 2 HD1
 http://sigcine1.space:80/374897485/789272274/73.ts
-
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="HBO", HBO 2 HD2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14004.ts
-
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="HBO", HBO 2 HD3
 https://metalgear.bemtv.cn/STREAM/8265/chunks.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="HBO", HBO 2 FHD1
 http://sigcine1.space:80/374897485/789272274/72.ts
-
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="HBO", HBO 2 FHD2
 http://saga10.pro:80/461077/339128/1263048
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="HBO", HBO 2 FHD3
+http://dnscine.top:80/793699983/122778657/72.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="HBO", HBO 2 FHD4
+http://dnscine.top:80/793699983/122778657/695.ts
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family HD1
 http://15.235.50.112:14192/
-
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family HD2
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2242
-
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family HD3
 http://sigcine1.space:80/374897485/789272274/75.ts
-
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family HD4
 http://saga10.pro:80/461077/339128/1263050
-
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family HD5
 https://metalgear.bemtv.cn/STREAM/8263/chunks.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family FHD1
 http://sigcine1.space:80/374897485/789272274/74.ts
-
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family FHD2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14006.ts
-
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family FHD3
 http://15.235.50.112:14192/
-
-#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="HBO", HBO MUNDI SD
-http://sigcine1.space:80/374897485/789272274/649.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family FHD4
+http://dnscine.top:80/793699983/122778657/74.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="HBO", HBO Family FHD5
+http://dnscine.top:80/793699983/122778657/696.ts
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="HBO", HBO MUNDI HD1
 http://sigcine1.space:80/374897485/789272274/79.ts
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="HBO", HBO MUNDI HD2
+http://dnscine.top:80/793699983/122778657/79.ts
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="HBO", HBO MUNDI FHD1
 http://sigcine1.space:80/374897485/789272274/698.ts
-
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="HBO", HBO MUNDI FHD2
 http://saga10.pro:80/461077/339128/1263054
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="HBO", HBO MUNDI FHD3
+http://dnscine.top:80/793699983/122778657/78.ts
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="HBO", HBO MUNDI FHD4
+http://dnscine.top:80/793699983/122778657/698.ts
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="HBO", HBO Xtreme HD1
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/383
-
-#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="HBO", HBO Xtreme HD1
-http://saga10.pro:80/461077/339128/1263062
-
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="HBO", HBO Xtreme HD2
+http://saga10.pro:80/461077/339128/1263062
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="HBO", HBO Xtreme HD3
 http://sigcine1.space:80/374897485/789272274/87.ts
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="HBO", HBO Xtreme FHD1
 http://saga10.pro:80/461077/339128/1263063
-
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="HBO", HBO Xtreme FHD2
 http://sigcine1.space:80/374897485/789272274/86.ts
 
