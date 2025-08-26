@@ -195,188 +195,160 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 
 ######################################################################## CANAIS Filmes ##########################################################################
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | Filmes", A&E HD
+#EXTINF:-1 tvg-id="A&E" tvg-name="" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | Filmes", A&E HD1
 http://sigcine1.space:80/374897485/789272274/2.ts
-
-#EXTINF:-1 tvg-id="A&E" tvg-name="" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | Filmes", A&E FHD
+#EXTINF:-1 tvg-id="A&E" tvg-name="" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | Filmes", A&E HD2
+http://dnscine.top:80/793699983/122778657/2.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | Filmes", A&E FHD1
 http://sigcine1.space:80/374897485/789272274/1.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | Filmes", A&E FHD2
+http://dnscine.top:80/793699983/122778657/1.ts
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Canais | Filmes", AMC HD1
 http://sigcine1.space:80/374897485/789272274/197.ts
-
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Canais | Filmes", AMC HD2
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/1018
-
+http://dnscine.top:80/793699983/122778657/197.ts
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Canais | Filmes", AMC FHD1
 http://sigcine1.space:80/374897485/789272274/3.ts
-
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Canais | Filmes", AMC FHD2
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/26
+http://dnscine.top:80/793699983/122778657/3.ts
 
 #EXTINF:-1 tvg-id="axn" tvg-logo="https://thumbs4.imagebam.com/0d/a6/d5/MEVQNMQ_t.png" group-title="Canais | Filmes", AXN HD1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13004.ts
-
 #EXTINF:-1 tvg-id="axn" tvg-logo="https://thumbs4.imagebam.com/0d/a6/d5/MEVQNMQ_t.png" group-title="Canais | Filmes", AXN HD2
 http://sigcine1.space:80/374897485/789272274/7.ts
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://thumbs4.imagebam.com/0d/a6/d5/MEVQNMQ_t.png" group-title="Canais | Filmes", AXN FHD1
+http://dnscine.top:80/793699983/122778657/6.ts
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://thumbs4.imagebam.com/0d/a6/d5/MEVQNMQ_t.png" group-title="Canais | Filmes", AXN FHD2
+http://dnscine.top:80/793699983/122778657/734.ts
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | Filmes", Cinemax HD1
 http://sigcine1.space:80/374897485/789272274/19.ts
-
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | Filmes", Cinemax HD2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13010.ts
-
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | Filmes", Cinemax FHD1
 http://saga10.pro:80/461077/339128/2639908
-
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | Filmes", Cinemax FHD2
 http://sigcine1.space:80/374897485/789272274/18.ts
 
 #EXTINF:-1 tvg-id="megapix" tvg-logo="https://thumbs4.imagebam.com/95/15/76/MEVQNMW_t.png" group-title="Canais | Filmes", Megapix HD1
 http://sigcine1.space:80/374897485/789272274/97.ts
-
 #EXTINF:-1 tvg-id="megapix" tvg-logo="https://thumbs4.imagebam.com/95/15/76/MEVQNMW_t.png" group-title="Canais | Filmes", Megapix HD2
 http://sigcine1.space:80/374897485/789272274/97.ts
-
 #EXTINF:-1 tvg-id="megapix" tvg-logo="https://thumbs4.imagebam.com/95/15/76/MEVQNMW_t.png" group-title="Canais | Filmes", Megapix HD3
 http://saga10.pro:80/461077/339128/2639918
-
 #EXTINF:-1 tvg-id="megapix" tvg-logo="https://thumbs4.imagebam.com/95/15/76/MEVQNMW_t.png" group-title="Canais | Filmes", Megapix FHD1
 http://sigcine1.space:80/374897485/789272274/96.ts
-
 #EXTINF:-1 tvg-id="megapix" tvg-logo="https://thumbs4.imagebam.com/95/15/76/MEVQNMW_t.png" group-title="Canais | Filmes", Megapix FHD2
 http://sigcine1.space:80/374897485/789272274/754.ts
-
 #EXTINF:-1 tvg-id="megapix" tvg-logo="https://thumbs4.imagebam.com/95/15/76/MEVQNMW_t.png" group-title="Canais | Filmes", Megapix FHD3
 http://granpirosh.top/live/841866657/c581b7318b/692.m3u8
 
-#EXTINF:-1 tvg-id="megapix" tvg-logo="https://thumbs4.imagebam.com/95/15/76/MEVQNMW_t.png" group-title="Canais | Filmes", Megapix 4K
-
-
-#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | Filmes", Paramount Network HD¹
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2261
-
-#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | Filmes", Paramount Network HD²
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | Filmes", Paramount Network HD1
+http://dnscine.top:80/793699983/122778657/111.ts
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | Filmes", Paramount Network HD2
 http://sigcine1.space:80/374897485/789272274/663.ts
-
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | Filmes", Paramount Network FHD1
-http://sigcine1.space:80/374897485/789272274/753.ts
-
+http://dnscine.top:80/793699983/122778657/753.ts
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | Filmes", Paramount Network FHD2
-http://firetop1.site:80/299996386/228718986/753.ts
 
 #EXTINF:-1 tvg-id="CANAL SONY" tvg-logo="https://thumbs4.imagebam.com/4b/35/d8/MEVQNN5_t.png" group-title="Canais | Filmes", Sony Channel HD1
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/119
-
+http://dnscine.top:80/793699983/122778657/141.ts
 #EXTINF:-1 tvg-id="CANAL SONY" tvg-logo="https://thumbs4.imagebam.com/4b/35/d8/MEVQNN5_t.png" group-title="Canais | Filmes", Sony Channel HD2
 http://sigcine1.space:80/374897485/789272274/141.ts
-
 #EXTINF:-1 tvg-id="CANAL SONY" tvg-logo="https://thumbs4.imagebam.com/4b/35/d8/MEVQNN5_t.png" group-title="Canais | Filmes", Sony Channel FHD1
 http://saga10.pro:80/461077/339128/2639903
+#EXTINF:-1 tvg-id="CANAL SONY" tvg-logo="https://thumbs4.imagebam.com/4b/35/d8/MEVQNN5_t.png" group-title="Canais | Filmes", Sony Channel FHD2
+
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes", SPACE HD1
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/588
-
+http://dnscine.top:80/793699983/122778657/143.ts
 #EXTINF:-1 tvg-id="SPACE" tvg-name="" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes", SPACE HD2
 http://sigcine1.space:80/374897485/789272274/143.ts
-
 #EXTINF:-1 tvg-id="SPACE" tvg-name="" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes", SPACE FHD1
 http://sigcine1.space:80/374897485/789272274/142.ts
-
 #EXTINF:-1 tvg-id="SPACE" tvg-name="" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes", SPACE FHD2
 http://granpirosh.top/live/841866657/c581b7318b/707.m3u8
-
 #EXTINF:-1 tvg-id="SPACE" tvg-name="" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | Filmes", SPACE FHD3
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/587
+http://dnscine.top:80/793699983/122778657/747.ts
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://thumbs4.imagebam.com/fa/6c/5b/MEVQNMZ_t.png" group-title="Canais | Filmes", TCM HD
 http://sigcine1.space:80/374897485/789272274/196.ts
-
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://thumbs4.imagebam.com/fa/6c/5b/MEVQNMZ_t.png" group-title="Canais | Filmes", TCM FHD
 http://sigcine1.space:80/374897485/789272274/159.ts
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT HD1
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/31111
-
+http://dnscine.top:80/793699983/122778657/177.ts
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT HD2
 http://sigcine1.space:80/374897485/789272274/177.ts
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT HD3
-http://firetop1.site:80/299996386/228718986/751316.ts
-
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT FHD1
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2129
-
+http://dnscine.top:80/793699983/122778657/176.ts
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT FHD2
 http://sigcine1.space:80/374897485/789272274/176.ts
-
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT FHD3
 http://granpirosh.top/live/841866657/c581b7318b/733.m3u8
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT 4K
+#EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT 4K1
 http://sigcine1.space:80/374897485/789272274/381.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT 4K2
+http://dnscine.top:80/793699983/122778657/381.ts
 
 #EXTINF:-1 tvg-id="TNTseries" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | Filmes", TNT Séries HD
 http://sigcine1.space:80/374897485/789272274/179.ts
-
 #EXTINF:-1 tvg-id="TNTSERIES" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | Filmes", TNT Séries FHD
 http://sigcine1.space:80/374897485/789272274/178.ts
 
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel SD
 http://sigcine1.space:80/374897485/789272274/570.ts
-
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD1
 http://saga10.pro:80/461077/339128/2639945
-
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD2
 http://79.127.238.228:14647/
-
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD3
 http://sigcine1.space:80/374897485/789272274/187.ts
-
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD4
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13052.ts
-
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD5
 http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/35258.m3u8
-
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD6
 http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/9220.m3u8
-
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD7
+http://dnscine.top:80/793699983/122778657/187.ts
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD1
 http://sigcine1.space:80/374897485/789272274/186.ts
-
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD2
 http://sigcine1.space:80/374897485/789272274/750.ts
-
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD3
 http://saga10.pro:80/461077/339128/2639944
-
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD4
 http://granpirosh.top/live/841866657/c581b7318b/749.m3u8
-
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD5
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13051.ts
-
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD6
 http://mxlive.info:2052/max557/971120503/20232
-
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD7
 http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/107981.m3u8
-
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD8
 http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/9219.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD9
+http://dnscine.top:80/793699983/122778657/186.ts
 
 #EXTINF:-1 tvg-id="studio universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | Filmes", Studio Universal HD1
 http://sigcine1.space:80/374897485/789272274/155.ts
-
+#EXTINF:-1 tvg-id="studio universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | Filmes", Studio Universal HD2
+http://dnscine.top:80/793699983/122778657/155.ts
 #EXTINF:-1 tvg-id="studio universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | Filmes", Studio Universal FHD1
 http://sigcine1.space:80/374897485/789272274/154.ts
+#EXTINF:-1 tvg-id="studio universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | Filmes", Studio Universal FHD2
+http://dnscine.top:80/793699983/122778657/154.ts
 
 #EXTINF:-1 tvg-id="Universaltv" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | Filmes", Universal Channel HD1
 http://sigcine1.space:80/374897485/789272274/184.ts
-
+#EXTINF:-1 tvg-id="Universaltv" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | Filmes", Universal Channel HD2
+http://dnscine.top:80/793699983/122778657/184.ts
 #EXTINF:-1 tvg-id="Universaltv" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | Filmes", Universal Channel FHD1
 http://sigcine1.space:80/374897485/789272274/751.ts
+#EXTINF:-1 tvg-id="Universaltv" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | Filmes", Universal Channel FHD2
+http://dnscine.top:80/793699983/122778657/183.ts
 
 #######################################################################################################################################################################
 
