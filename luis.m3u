@@ -3,11 +3,11 @@
 ####################################################################### INFORMAÇÕES ################################################################################
 ######## 📺 TV
 ######## 📅 LISTA CRIADA EM: 29/01/2025
-######## 📅 ULTIMA ATUALIZAÇÃO: 27/08/2025
+######## 📅 ULTIMA ATUALIZAÇÃO: 28/08/2025
 ######## Lista criada e organizada a partir de links encontrados na internet, sem quaisquer fins lucrativos
 ####################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="" group-title="📅 Atualizado 27/08/2025",📅 Atualizado 27/08/2025
+#EXTINF:-1 tvg-id="" group-title="📅 Atualizado 28/08/2025",📅 Atualizado 28/08/2025
 https://cr7v.short.gy/AdcListaNOiptvpro/Index.m3u8
 
 ######################################################################## Canais Globo ##############################################################################
@@ -670,6 +670,8 @@ http://longitudenow.site:80/23876546/64567832/5365030
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/65745.ts
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes HD8
 http://lvbx2.top:80/ros1234/asd203040/93521
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes HD9
+http://104.238.222.251:8989/278939_.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes FHD1
 http://sigcine1.space:80/374897485/789272274/122.ts
@@ -731,6 +733,8 @@ http://45.93.9.150/pre3/index.m3u8
 http://saga10.pro:80/461077/339128/2909019
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | Premiere", Premiere 3 HD5
 http://lvbx2.top:80/ros1234/asd203040/93525
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | Premiere", Premiere 3 HD6
+http://104.238.222.251:8989/278941_.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | Premiere", Premiere 3 FHD1
 http://sigcine1.space:80/374897485/789272274/116.ts
@@ -1035,6 +1039,8 @@ http://dnscine.top:80/793699983/122778657/745.ts
 http://lvbx2.top:80/ros1234/asd203040/101015
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | Esportes", Band Sports HD2
 http://sigcine1.space:80/374897485/789272274/318.ts
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | Esportes", Band Sports HD3
+http://45.93.9.150/bandsport/index.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | Esportes", Band Sports FHD1
 http://sigcine1.space:80/374897485/789272274/10.ts
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | Esportes", Band Sports FHD2
@@ -1556,8 +1562,11 @@ http://sigcine1.space:80/374897485/789272274/202238.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Eu a Patroa e as Crianças
 http://15.235.9.200:14908/eu-a-patroa-e-as-criancas
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Kenan & Kell
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Kenan & Kell 1
 http://sigcine1.space:80/374897485/789272274/202247.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Kenan & Kell 2
+http://24hrs.homelinux.com/24H-kenanekel/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Um Maluco No Pedaço 1
 http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
@@ -1820,7 +1829,7 @@ http://mxlive.info:2052/max557/971120503/49768
 http://tvhdbalck.pro:80/090720634/959666174/3241198.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Mikey e Donald 1
-http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/video.m3u8?token=a4A2wbotS3
+http://24hrs.homelinux.com:80/24H-Mickey.e.Donald.S01/video.m3u8?token=a4A2wbotS3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Mikey e Donald 2
 http://sigcine1.space:80/374897485/789272274/202291.ts
@@ -1829,35 +1838,29 @@ http://sigcine1.space:80/374897485/789272274/202291.ts
 http://sigcine1.space:80/374897485/789272274/202288.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Scoobydoo 1
-http://24hrs.homelinux.com:8080/24H-scoobdoo/video.m3u8?
-
+http://24hrs.homelinux.com:80/24H-scoobdoo/video.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Scoobydoo 2
 http://sigcine1.space:80/374897485/789272274/202286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Scoobydoo 3
+http://15.235.9.200:14978/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pernalonga 1
 http://rota66.bar:80/djmarcio/301082/146926
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pernalonga 2
 http://rota66.bar:80/djmarcio/301082/146927
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pernalonga 3
-http://24hrs.homelinux.com:8080/24H-pernalonga.txt/video.m3u8?
+http://24hrs.homelinux.com:80/24H-pernalonga.txt/video.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pica Pau 1
-http://24hrs.homelinux.com:8080/24H-picapau/video.m3u8?
-
+http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pica Pau 2
 http://sigcine1.space:80/374897485/789272274/202305.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pica Pau 3
 http://rota66.bar:80/djmarcio/301082/83727
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pica Pau 4
 http://rota66.bar:80/djmarcio/301082/148200
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pica Pau 5
 http://ap4x.online/live/ONNEPLAY/0511605511/3787423.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pica Pau 6
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595281
 
@@ -1865,14 +1868,12 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595281
 http://sigcine1.space:80/374897485/789272274/202310.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Coragem o Cão Covarde¹
-http://24hrs.homelinux.com:8080/24H-caocoragem/tracks-v1a1/mono.m3u8
-
+http://24hrs.homelinux.com:80/24H-caocoragem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Coragem o Cão Covarde²
 http://sigcine1.space:80/374897485/789272274/202252.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Corrida Maluca 1
-http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
-
+http://24hrs.homelinux.com:80/24H-Corrida.Maluca/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Corrida Maluca 2
 http://onecdz.xyz:80/029911/007404/2300059.ts
 
@@ -1881,7 +1882,6 @@ http://sigcine1.space:80/374897485/789272274/202287.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Looney Tunnes 1
 http://sigcine1.space:80/374897485/789272274/202311.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Looney Tunnes 2
 http://onecdz.xyz:80/029911/007404/2299943.ts
 
@@ -1889,13 +1889,13 @@ http://onecdz.xyz:80/029911/007404/2299943.ts
 http://sigcine1.space:80/374897485/789272274/202290.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Popeye
-http://24hrs.homelinux.com:8080/24H-Popeye.S01/video.m3u8
+http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pantera cor de rosa
 http://sigcine1.space:80/374897485/789272274/202295.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Patolino
-http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8?
+http://24hrs.homelinux.com:80/24H-patolino/video.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Jetsons¹
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
@@ -1904,25 +1904,25 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Flintstones¹
-http://24hrs.homelinux.com:8080/24H-osflistony/video.m3u8?
+http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Flintstones²
 http://sigcine1.space:80/374897485/789272274/202306.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Tartaruga Tuche
-http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8
+http://24hrs.homelinux.com:80/24H-tartarugatuche/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Tartarugas Ninja
 http://15.235.9.200:14808/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Vaca e o Frango
-http://24hrs.homelinux.com:8080/24H-avacaeofrango/video.m3u8
+http://24hrs.homelinux.com:80/24H-avacaeofrango/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Manda Chuva
-http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/video.m3u8
+http://24hrs.homelinux.com:80/24H-Manda.Chuva.S01/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Zé Buscape
-http://24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8
+http://24hrs.homelinux.com:80/24H-zebuscape/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Zé Colméia
 http://sigcine1.space:80/374897485/789272274/202285.ts
@@ -1940,10 +1940,10 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w2046715321.m3u8
 http://sigcine1.space:80/374897485/789272274/202244.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", South Park 2
-http://24hrs.homelinux.com:8080/24H-southpark/video.m3u8?
+http://24hrs.homelinux.com:80/24H-southpark/video.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", South Park 3
-http://24hrs.homelinux.com:8080/24H-southpark/playlist.m3u8
+http://24hrs.homelinux.com:80/24H-southpark/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Super Choque
 http://15.235.9.200:14028
