@@ -1176,6 +1176,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429
 
 ######################################################################## Esportes Ao Vivo ###############################################################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="Canais | Esportes PPV", SKy Sport Fórmula 1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115494
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | Esportes PPV", Disney+ 1 
 http://sigcine1.space:80/374897485/789272274/202345.ts
 
