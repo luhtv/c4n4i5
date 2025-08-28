@@ -1178,6 +1178,16 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="Canais | Esportes PPV", SKy Sport Fórmula 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115494
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="Canais | Esportes PPV",TSN1 Fórmula 1
+http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="Canais | Esportes PPV",TSN2 Fórmula 1
+http://117tv.icu:8080/live/X5xRz0/944877/47442.m3u8
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="Canais | Esportes PPV",TSN3 Fórmula 1
+http://117tv.icu:8080/live/X5xRz0/944877/47444.m3u8
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="Canais | Esportes PPV",TSN4 Fórmula 1
+http://117tv.icu:8080/live/X5xRz0/944877/66783.m3u8
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="Canais | Esportes PPV",TSN5 Fórmula 1
+http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | Esportes PPV", Disney+ 1 
 http://sigcine1.space:80/374897485/789272274/202345.ts
