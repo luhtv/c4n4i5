@@ -8,8 +8,10 @@
 ####################################################################################################################################################################
 
 #EXTINF:-1 tvg-id="" group-title="📅 Atualizado 28/08/2025",📅 Atualizado 28/08/2025
-https://cr7v.short.gy/AdcListaNOiptvpro/Index.m3u8
+https:127.0.0.1
 
+#EXTINF:-1 tvg-id="" tvg-name="JOGOS DO DIA" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/NDVfNDk0MTIwODVf?temp_key=%EB%22%82%7D%B4%B1%E9%B6%D2z%26z%3A%60&inline=1" group-title="JOGOS DO DIA",JOGOS DO DIA
+http://applazer.online:80/techsat/1234567/1147611.ts
 ######################################################################## Canais Globo ##############################################################################
 
 #EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | Globo", Globo SP HD1
@@ -353,6 +355,8 @@ http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/9219.m3u8
 http://dnscine.top:80/793699983/122778657/186.ts
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD10
 http://lvbx2.top:80/ros1234/asd203040/785223
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD11
+http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120786
 
 #EXTINF:-1 tvg-id="studio universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | Filmes", Studio Universal HD1
 http://sigcine1.space:80/374897485/789272274/155.ts
@@ -1176,11 +1180,17 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429
 
 ######################################################################## Esportes Ao Vivo ###############################################################################
 
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png" group-title="Canais | Esportes PPV",Fórmula 1 TV
+http://play.1list.vip/live/Marcosfp05/nlybdft6fml/78760.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png" group-title="Canais | Esportes PPV",Fórmula 1 TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="Canais | Esportes PPV", SKy Sport Fórmula 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115494
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="Canais | Esportes PPV", Fórmula 1 TV
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="Canais | Esportes PPV", DAZN F1 
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115840
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="Canais | Esportes PPV",TSN1 Fórmula 1
 http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
@@ -1559,6 +1569,8 @@ http://mxlive.info:2052/max557/971120503/40791
 http://mxlive.info:2052/max557/971120503/40813
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 10
 http://dnscine.top:80/Fernando123/Fernando123/202304.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 11
+http://play.1list.vip/live/Marcosfp05/nlybdft6fml/91767.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 1
 http://play.1list.vip/live/listatvs/controliptv/56467.ts
@@ -1886,6 +1898,8 @@ http://rota66.bar:80/djmarcio/301082/148200
 http://ap4x.online/live/ONNEPLAY/0511605511/3787423.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pica Pau 6
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595281
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pica Pau 7
+http://play.1list.vip/live/Marcosfp05/nlybdft6fml/53025.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pokemon
 http://sigcine1.space:80/374897485/789272274/202310.ts
@@ -3143,3 +3157,4 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 ########################################################################################################################################################################
 ########################################################################################################################################################################
 ########################################################################################################################################################################
+
