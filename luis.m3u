@@ -8,7 +8,7 @@
 ####################################################################################################################################################################
 
 #EXTINF:-1 tvg-id="" group-title="📅 Atualizado 29/08/2025",📅 Atualizado 29/08/2025
-https:127.0.0.1
+http://127.0.0.1
 
 #EXTINF:-1 tvg-id="" tvg-name="JOGOS DO DIA" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/NDVfNDk0MTIwODVf?temp_key=%EB%22%82%7D%B4%B1%E9%B6%D2z%26z%3A%60&inline=1" group-title="JOGOS DO DIA",JOGOS DO DIA
 http://applazer.online:80/techsat/1234567/1147611.ts
@@ -1529,6 +1529,10 @@ http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025802.m3u8
 http://dnscine.top:80/793699983/122778657/202272.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 9
 http://tvhdbalck.pro:80/090720634/959666174/2667675.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 10
+http://play.1list.vip/live/Marcosfp05/nlybdft6fml/934719.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 11
+http://play.1list.vip/live/Marcosfp05/nlybdft6fml/217874.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Friends
 http://24hrs.homelinux.com:80/24H-friends/video.m3u8
@@ -1619,14 +1623,18 @@ http://bananadoce.online:8080/123456789/12345678/1249248
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Os 3 Patetas
 http://sigcine1.space:80/374897485/789272274/202262.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Smallville
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Smallville 1
 http://15.235.9.200:14021
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Smallville 2
+http://play.1list.vip/live/Marcosfp05/nlybdft6fml/65256.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Supernatural
 http://15.235.9.200:14022/supernatural
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Breaking Bad
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Breaking Bad 1
 http://15.235.9.200:14826/breakingbad
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Breaking Bad 2
+http://applazer.online:80/techsat/1234567/1151614.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Demolidor
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595339
@@ -1893,6 +1901,11 @@ http://rota66.bar:80/djmarcio/301082/146926
 http://rota66.bar:80/djmarcio/301082/146927
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pernalonga 3
 http://24hrs.homelinux.com:80/24H-pernalonga.txt/video.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pernalonga 4
+http://play.1list.vip/live/Marcosfp05/nlybdft6fml/57341.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Papa-Léguas
+http://play.1list.vip/live/Marcosfp05/nlybdft6fml/63208.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pica Pau 1
 http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?
@@ -1990,8 +2003,10 @@ http://24hrs.homelinux.com:80/24H-southpark/video.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", South Park 3
 http://24hrs.homelinux.com:80/24H-southpark/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Super Choque
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Super Choque 1
 http://15.235.9.200:14028
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Super Choque 2
+http://play.1list.vip/live/Marcosfp05/nlybdft6fml/65264.ts
 
 #EXTINF:-1 tvg-id="retrocartoon" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
