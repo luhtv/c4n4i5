@@ -10,7 +10,7 @@
 #EXTINF:-1 tvg-id="" group-title="📅 Atualizado 29/08/2025",📅 Atualizado 29/08/2025
 http://127.0.0.1/
 
-#EXTINF:-1 tvg-id="" tvg-name="JOGOS DO DIA" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/NDVfNDk0MTIwODVf?temp_key=%EB%22%82%7D%B4%B1%E9%B6%D2z%26z%3A%60&inline=1" group-title="JOGOS DO DIA",JOGOS DO DIA
+#EXTINF:-1 tvg-id="" tvg-name="JOGOS DO DIA" group-title="JOGOS DO DIA",JOGOS DO DIA
 http://applazer.online:80/techsat/1234567/1147611.ts
 ######################################################################## Canais Globo ##############################################################################
 
