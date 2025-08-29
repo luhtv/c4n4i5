@@ -1747,6 +1747,9 @@ http://15.235.9.200:14010
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Canais | Desenhos 24hrs",Rick And Morty op2
 http://newoneblack.site:80/81844618/123456/793917
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Desenhos 24hrs", Apenas um Show
+http://24hrs.homelinux.com:80/24H-apenasumshow/video.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Desenhos 24hrs", Jackie Chan 1
 http://15.235.9.200:14804/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Desenhos 24hrs", Jackie Chan 2
