@@ -1558,6 +1558,8 @@ http://dnscine.top:80/Fernando123/Fernando123/202250.ts
 http://rota66.bar:80/djmarcio/301082/62975
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 6
 http://15.235.9.200:14844/
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 7
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38002.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 1
 http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8
@@ -1581,6 +1583,8 @@ http://mxlive.info:2052/max557/971120503/40813
 http://dnscine.top:80/Fernando123/Fernando123/202304.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 11
 http://play.1list.vip/live/Marcosfp05/nlybdft6fml/91767.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 12
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38001.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 1
 http://play.1list.vip/live/listatvs/controliptv/56467.ts
@@ -1791,6 +1795,8 @@ http://15.235.9.200:14984
 http://tvhdbalck.pro:80/090720634/959666174/600687.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 7
 http://tvhdbalck.pro:80/090720634/959666174/2740744.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38000.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Ben 10 op1
 http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
