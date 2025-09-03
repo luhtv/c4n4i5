@@ -923,6 +923,8 @@ http://saga10.pro:80/461077/339128/2909005
 http://dnscine.top:80/793699983/122778657/145.ts
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV", SporTV 2 HD5
 http://lvbx2.top:80/ros1234/asd203040/85647
+#EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV", SporTV 2 HD6
+http://play.1list.vip/live/listatvs/controliptv/37044.ts
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV", SporTV 2 FHD1
 http://sigcine1.space:80/374897485/789272274/144.ts
@@ -1555,6 +1557,8 @@ http://tvhdbalck.pro:80/090720634/959666174/2667675.ts
 http://play.1list.vip/live/Marcosfp05/nlybdft6fml/934719.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 11
 http://play.1list.vip/live/Marcosfp05/nlybdft6fml/217874.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 12
+http://play.1list.vip/live/listatvs/controliptv/217874.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Friends
 http://24hrs.homelinux.com:80/24H-friends/video.m3u8
@@ -1576,6 +1580,8 @@ http://rota66.bar:80/djmarcio/301082/62975
 http://15.235.9.200:14844/
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 7
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38002.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 8
+http://play.1list.vip/live/listatvs/controliptv/91338.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 1
 http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8
@@ -1673,6 +1679,9 @@ http://24hrs.homelinux.com:80/24H-escolinhaold/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Pegadinhas João Kleber
 http://24hrs.homelinux.com:80/24H-joaokleber/video.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Pegadinhas Americanas
+http://play.1list.vip/live/listatvs/controliptv/132050.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Pegadinhas Silvio Santos 1
 http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8?
@@ -1874,6 +1883,9 @@ http://24hrs.homelinux.com:80/24H-wolverine/tracks-v1a1/mono.m3u8
 http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", X-Men Evolution²
 http://sigcine1.space:80/374897485/789272274/202233.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Superman
+http://play.1list.vip/live/listatvs/controliptv/65259.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Star Wars Rebels
 http://24hrs.homelinux.com:80/24H-starwarsrebels/video.m3u8
