@@ -1204,10 +1204,13 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429
 
 ######################################################################## Esportes Ao Vivo ###############################################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png" group-title="Canais | Esportes PPV",Fórmula 1 TV
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png" group-title="Canais | Esportes PPV",Fórmula 1 TV1
+http://play.1list.vip/live/listatvs/controliptv/78760.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png" group-title="Canais | Esportes PPV",Fórmula 1 TV2
 http://play.1list.vip/live/Marcosfp05/nlybdft6fml/78760.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png" group-title="Canais | Esportes PPV",Fórmula 1 TV
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png" group-title="Canais | Esportes PPV",Fórmula 1 TV3
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="Canais | Esportes PPV", SKy Sport Fórmula 1
@@ -1533,7 +1536,8 @@ http://15.235.9.200:14872/doishomensemeio
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38004.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 5
 http://mxlive.info:2052/max557/971120503/542
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 6
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595204
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 1
 http://sigcine1.space:80/374897485/789272274/202272.ts
@@ -1607,6 +1611,8 @@ http://dnscine.top:80/Fernando123/Fernando123/202304.ts
 http://play.1list.vip/live/Marcosfp05/nlybdft6fml/91767.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 12
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38001.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 13
+http://play.1list.vip/live/listatvs/controliptv/91744.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 1
 http://play.1list.vip/live/listatvs/controliptv/56467.ts
@@ -1620,14 +1626,20 @@ http://15.235.9.200:14040
 http://mxlive.info:2052/max557/971120503/317
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 6
 http://dnscine.top:80/Fernando123/Fernando123/202232.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 7
+http://srv03.cc:80/725158922/795582211/7142367.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Família Dinossauro
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Família Dinossauro 1
 http://sigcine1.space:80/374897485/789272274/202238.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Família Dinossauro 2
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595225
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Eu a Patroa e as Crianças 1
 http://15.235.9.200:14908/eu-a-patroa-e-as-criancas
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Eu a Patroa e as Crianças 2
 http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Eu a Patroa e as Crianças 3
+http://srv03.cc:80/725158922/795582211/7142385.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Kenan & Kell 1
 http://sigcine1.space:80/374897485/789272274/202247.ts
@@ -1822,6 +1834,8 @@ http://tvhdbalck.pro:80/090720634/959666174/600687.ts
 http://tvhdbalck.pro:80/090720634/959666174/2740744.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38000.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 9
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595200
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Ben 10 op1
 http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
@@ -1854,6 +1868,8 @@ http://granpirosh.top/live/841866657/c581b7318b/271601.m3u8
 http://tvhdbalck.pro:80/090720634/959666174/2740692.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Dragon Ball Z 4
 http://srv.polkafood.pl:80/stusv6zyu2/04cxlij31k/83691
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Dragon Ball Z 5
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595215
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Dragon Ball Kai
 http://24hrs.homelinux.com:80/24H-dragon.ball.z.kai/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Dragon Ball GT
@@ -2047,6 +2063,8 @@ http://24hrs.homelinux.com:80/24H-southpark/playlist.m3u8
 http://15.235.9.200:14028
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Super Choque 2
 http://play.1list.vip/live/Marcosfp05/nlybdft6fml/65264.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Super Choque 3
+http://play.1list.vip/live/listatvs/controliptv/65264.ts
 
 #EXTINF:-1 tvg-id="retrocartoon" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
