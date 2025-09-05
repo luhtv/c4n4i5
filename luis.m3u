@@ -713,6 +713,10 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20000.ts
 http://play.1list.vip/live/listatvs/controliptv/38411.ts
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes FHD7
 http://lvbx2.top:80/ros1234/asd203040/785197
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes FHD8
+http://newoneblack.site:80/99941212/6199941212/809142
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes FHD9
+http://newoneblack.site:80/99941212/6199941212/236242
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes 4K1
 http://sigcine1.space:80/374897485/789272274/210.ts
@@ -722,6 +726,8 @@ http://play.1list.vip/live/listatvs/controliptv/40783.ts
 http://dnscine.top:80/793699983/122778657/210.ts
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes 4K4
 http://lvbx2.top:80/ros1234/asd203040/100721
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes 4K5
+http://newoneblack.site:80/99941212/6199941212/809143
 
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | Premiere", Premiere 2 HD1
 http://104.238.222.251:8989/278940_.m3u8
@@ -1463,10 +1469,10 @@ http://firetop1.site:80/299996386/228718986/202368.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Variados", Animal Planet 1
 http://190.216.158.199:8000/play/a00h/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Variados", Animal Planet 2
 http://applazer.online:80/JOAO82975954/4180734012/188643
-
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Variados", Animal Planet 3
+http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/304491.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canais | Variados",Xtrema Animal
