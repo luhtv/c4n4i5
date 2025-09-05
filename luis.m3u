@@ -1460,6 +1460,20 @@ http://firetop1.site:80/299996386/228718986/202368.ts
 
 
 ######################################################################## CANAIS VARIEDADES ##############################################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Variados", Animal Planet 1
+http://190.216.158.199:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Variados", Animal Planet 2
+http://applazer.online:80/JOAO82975954/4180734012/188643
+
+
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canais | Variados",Xtrema Animal
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+
+
+
 #######################################################################################################################################################################
 
 
