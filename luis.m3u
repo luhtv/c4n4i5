@@ -1644,70 +1644,44 @@ http://24hrs.homelinux.com:80/24H-friends/video.m3u8
 http://24hrs.homelinux.com:80/24H-drakeejosh/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 1
-http://unividia.com:80/746147216xtvs/w884E6734a/232227
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 2
 http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 3
-http://sigcine1.space:80/374897485/789272274/202250.ts
+http://play.1list.vip/live/listatvs/controliptv/91338.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 4
-http://dnscine.top:80/Fernando123/Fernando123/202250.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38002.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 5
 http://rota66.bar:80/djmarcio/301082/62975
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 6
-http://15.235.9.200:14844/
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 7
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38002.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 8
-http://play.1list.vip/live/listatvs/controliptv/91338.ts
+http://play.1list.vip/live/listatvs/controliptv/91744.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 1
 http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 2
-http://unividia.com:80/746147216xtvs/w884E6734a/232221
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432947.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 3
-http://sigcine1.space:80/374897485/789272274/202304.ts
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025749.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 4
 http://rota66.bar:80/djmarcio/301082/133414
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 5
-http://unividia.com:80/746147216xtvs/w884E6734a/232224
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 6
-http://15.235.9.200:14845/chaves
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 7
-http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025749.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 8
-http://mxlive.info:2052/max557/971120503/40791
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 9
-http://mxlive.info:2052/max557/971120503/40813
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 10
-http://dnscine.top:80/Fernando123/Fernando123/202304.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 11
-http://play.1list.vip/live/Marcosfp05/nlybdft6fml/91767.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 12
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38001.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 13
-http://play.1list.vip/live/listatvs/controliptv/91744.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 14
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432947.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 6
+http://play.1list.vip/live/Marcosfp05/nlybdft6fml/91767.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 1
 http://play.1list.vip/live/listatvs/controliptv/56467.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 2
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 3
-http://sigcine1.space:80/374897485/789272274/202232.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 4
 http://15.235.9.200:14040
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 5
-http://mxlive.info:2052/max557/971120503/317
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 6
-http://dnscine.top:80/Fernando123/Fernando123/202232.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 7
-http://srv03.cc:80/725158922/795582211/7142367.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Família Dinossauro 1
-http://sigcine1.space:80/374897485/789272274/202238.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Família Dinossauro 2
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595225
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Eu a Patroa e as Crianças 1
 http://15.235.9.200:14908/eu-a-patroa-e-as-criancas
