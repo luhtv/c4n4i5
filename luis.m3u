@@ -87,6 +87,8 @@ http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/31029.m3u8
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62204
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP HD10
 http://tvhdbalck.pro:80/090720634/959666174/403.ts
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP HD11
+http://cdntac.xyz:80/659012322/931052415/1108566.ts
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP FHD1
 http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/107926.m3u8
@@ -129,6 +131,8 @@ http://lvbx2.top:80/ros1234/asd203040/91855
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1740885334.m3u8
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | Sbt", SBT HD7
 https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
+#EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | Sbt", SBT HD8
+http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120831
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | Sbt", SBT FHD1
 http://lvbx2.top:80/ros1234/asd203040/91854
@@ -1452,6 +1456,8 @@ http://ncplay.fun:80/1712382516/5246361986/326804
 http://ncplay.fun:80/1712382516/5246361986/7839407
 #EXTINF:-1 tvg-id="primevideo1" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 1op3
 http://play.1list.vip/live/listatvs/controliptv/107423.ts
+#EXTINF:-1 tvg-id="primevideo1" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 1op4
+http://cdntac.xyz:80/659012322/931052415/922589.ts
 
 #EXTINF:-1 tvg-id="primevideo2" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 2op1
 http://ncplay.fun:80/1712382516/5246361986/4719475
@@ -1459,6 +1465,8 @@ http://ncplay.fun:80/1712382516/5246361986/4719475
 http://ncplay.fun:80/1712382516/5246361986/7839408
 #EXTINF:-1 tvg-id="primevideo2" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 2op3
 http://play.1list.vip/live/listatvs/controliptv/107424.ts
+#EXTINF:-1 tvg-id="primevideo2" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 2op4
+http://cdntac.xyz:80/659012322/931052415/922590.ts
 
 #EXTINF:-1 tvg-id="primevideo3" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 3op1
 http://ncplay.fun:80/1712382516/5246361986/4719718
@@ -1466,13 +1474,15 @@ http://ncplay.fun:80/1712382516/5246361986/4719718
 http://ncplay.fun:80/1712382516/5246361986/7839409
 #EXTINF:-1 tvg-id="primevideo3" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 3op3
 http://play.1list.vip/live/listatvs/controliptv/112425.ts
+#EXTINF:-1 tvg-id="primevideo3" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 3op4
+http://cdntac.xyz:80/659012322/931052415/922591.ts
 
 #EXTINF:-1 tvg-id="primevideo4" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 4op1
 http://ncplay.fun:80/1712382516/5246361986/4719380
 #EXTINF:-1 tvg-id="primevideo4" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 4op2
 http://play.1list.vip/live/listatvs/controliptv/112426.ts
 #EXTINF:-1 tvg-id="primevideo4" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 4op3
-
+http://cdntac.xyz:80/659012322/931052415/922592.ts
 
 #EXTINF:-1 tvg-id="primevideo5" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 5
 http://play.1list.vip/live/listatvs/controliptv/112427.ts
