@@ -1744,6 +1744,8 @@ http://rota66.bar:80/djmarcio/301082/62975
 http://play.1list.vip/live/listatvs/controliptv/91744.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 7
 http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025748.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 8
+http://svrhb.com:80/live/6223187860/8664872567/1025748.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 1
@@ -1766,6 +1768,8 @@ http://tvhdbalck.pro:80/090720634/959666174/3241182.ts
 http://tvhdbalck.pro:80/090720634/959666174/2745918.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 10
 http://opaioo.com:8080/bebelly/11976080402/1025749
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 11
+http://svrhb.com:80/live/6223187860/8664872567/1025749.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 1
 http://play.1list.vip/live/listatvs/controliptv/56467.ts
