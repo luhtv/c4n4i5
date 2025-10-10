@@ -333,7 +333,8 @@ http://lvbx2.top:80/ros1234/asd203040/102028
 http://xwkhb.info:80/332946/ycHWZM/72433.ts
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD10
 http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
-
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD11
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1026274.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD1
 http://newoneblack.site:80/99941212/6199941212/235778
@@ -361,6 +362,8 @@ http://xwkhb.info:80/332946/ycHWZM/90236.ts
 http://xwkhb.info:80/332946/ycHWZM/72431.ts
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD13
 http://forczskiys.fastcdn-delivery.site:80/995122134/532129920/4231954
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD14
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1026275.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel 4K
 http://forczskiys.fastcdn-delivery.site:80/995122134/532129920/4231953
@@ -1729,6 +1732,8 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38002.ts
 http://rota66.bar:80/djmarcio/301082/62975
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 6
 http://play.1list.vip/live/listatvs/controliptv/91744.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 7
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025748.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 1
@@ -1764,6 +1769,8 @@ http://tvhdbalck.pro:80/090720634/959666174/1545557.ts
 http://tvhdbalck.pro:80/090720634/959666174/2792246.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 6
 http://tvhdbalck.pro:80/090720634/959666174/2745911.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 7
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025831.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Família Dinossauro 1
 http://tvhdbalck.pro:80/090720634/959666174/3241212.ts
@@ -1984,8 +1991,10 @@ http://15.235.9.200:14823/
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Bob Esponja 3
 http://tvhdbalck.pro:80/090720634/959666174/2740635.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Caverna do Dragão
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Caverna do Dragão 1
 http://24hrs.homelinux.com:80/24H-Caverna.do.dragao.S01E01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Caverna do Dragão 2
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025745.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Dragon Ball 1
 http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?
@@ -2054,9 +2063,6 @@ http://24hrs.homelinux.com:80/24H-cavaleiros/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Digimon
 http://24hrs.homelinux.com:80/24H-digimon/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Doug
-http://sigcine1.space:80/374897485/789272274/202296.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Tom e Jerry 1
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Tom e Jerry 2
@@ -2121,7 +2127,7 @@ http://sigcine1.space:80/374897485/789272274/202310.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Coragem o Cão Covarde¹
 http://24hrs.homelinux.com:80/24H-caocoragem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Coragem o Cão Covarde²
-http://sigcine1.space:80/374897485/789272274/202252.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Corrida Maluca 1
 http://24hrs.homelinux.com:80/24H-Corrida.Maluca/playlist.m3u8
@@ -2143,7 +2149,7 @@ http://sigcine1.space:80/374897485/789272274/202290.ts
 http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pantera cor de rosa
-http://sigcine1.space:80/374897485/789272274/202295.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Patolino
 http://24hrs.homelinux.com:80/24H-patolino/video.m3u8?
