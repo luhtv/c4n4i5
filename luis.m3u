@@ -89,6 +89,8 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oF
 http://tvhdbalck.pro:80/090720634/959666174/403.ts
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP HD11
 http://cdntac.xyz:80/659012322/931052415/1108566.ts
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP HD12
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025839.m3u8
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP FHD1
 http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/107926.m3u8
@@ -104,6 +106,8 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17000.ts
 http://lvbx2.top:80/ros1234/asd203040/102793
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP FHD7
 http://tvhdbalck.pro:80/090720634/959666174/402.ts
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP FHD8
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025840.m3u8
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP 4K
 http://tvhdbalck.pro:80/090720634/959666174/1552323.ts
@@ -153,9 +157,15 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP HD4
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62201
+#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP HD5
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025884.m3u8
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP FHD1
 http://granpirosh.top/live/841866657/c581b7318b/244071.m3u8
+#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP FHD2
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025886.m3u8
+#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP FHD3
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025885.m3u8
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV RJ HD
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
@@ -695,6 +705,10 @@ http://ncplay.fun:80/1712382516/5246361986/6528218
 http://ncplay.fun:80/1712382516/5246361986/6151002
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes HD14
 http://tvhdbalck.pro:80/090720634/959666174/645.ts
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes HD15
+http://opaioo.com:8080/bebelly/11976080402/1026519
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes HD16
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1026519.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes FHD1
 http://newoneblack.site:80/99941212/6199941212/236242
@@ -720,7 +734,14 @@ http://ncplay.fun:80/1712382516/5246361986/6151016
 http://tvhdbalck.pro:80/090720634/959666174/642.ts
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes FHD12
 http://xwkhb.info:80/332946/ycHWZM/72264.ts
-
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes FHD13
+http://opaioo.com:8080/bebelly/11976080402/1026521
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes FHD14
+http://opaioo.com:8080/bebelly/11976080402/1026520
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes FHD15
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1026521.m3u8
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes FHD16
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1026520.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes 4K1
 http://newoneblack.site:80/99941212/6199941212/809143
@@ -1462,6 +1483,8 @@ http://ncplay.fun:80/1712382516/5246361986/7839407
 http://play.1list.vip/live/listatvs/controliptv/107423.ts
 #EXTINF:-1 tvg-id="primevideo1" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 1op4
 http://cdntac.xyz:80/659012322/931052415/922589.ts
+#EXTINF:-1 tvg-id="primevideo1" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 1op5
+http://opaioo.com:8080/bebelly/11976080402/1026052
 
 #EXTINF:-1 tvg-id="primevideo2" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 2op1
 http://ncplay.fun:80/1712382516/5246361986/4719475
@@ -1471,6 +1494,8 @@ http://ncplay.fun:80/1712382516/5246361986/7839408
 http://play.1list.vip/live/listatvs/controliptv/107424.ts
 #EXTINF:-1 tvg-id="primevideo2" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 2op4
 http://cdntac.xyz:80/659012322/931052415/922590.ts
+#EXTINF:-1 tvg-id="primevideo2" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 2op5
+http://opaioo.com:8080/bebelly/11976080402/1026053
 
 #EXTINF:-1 tvg-id="primevideo3" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 3op1
 http://ncplay.fun:80/1712382516/5246361986/4719718
@@ -1480,6 +1505,8 @@ http://ncplay.fun:80/1712382516/5246361986/7839409
 http://play.1list.vip/live/listatvs/controliptv/112425.ts
 #EXTINF:-1 tvg-id="primevideo3" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 3op4
 http://cdntac.xyz:80/659012322/931052415/922591.ts
+#EXTINF:-1 tvg-id="primevideo3" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 3op5
+http://opaioo.com:8080/bebelly/11976080402/1026054
 
 #EXTINF:-1 tvg-id="primevideo4" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 4op1
 http://ncplay.fun:80/1712382516/5246361986/4719380
@@ -1487,6 +1514,8 @@ http://ncplay.fun:80/1712382516/5246361986/4719380
 http://play.1list.vip/live/listatvs/controliptv/112426.ts
 #EXTINF:-1 tvg-id="primevideo4" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 4op3
 http://cdntac.xyz:80/659012322/931052415/922592.ts
+#EXTINF:-1 tvg-id="primevideo4" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 4op4
+http://opaioo.com:8080/bebelly/11976080402/1026055
 
 #EXTINF:-1 tvg-id="primevideo5" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | Esportes PPV", Prime Vídeo 5
 http://play.1list.vip/live/listatvs/controliptv/112427.ts
@@ -1676,6 +1705,8 @@ http://play.1list.vip/live/Marcosfp05/nlybdft6fml/934719.ts
 http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025802.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 8
 http://tvhdbalck.pro:80/090720634/959666174/2667675.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 9
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Friends
 http://24hrs.homelinux.com:80/24H-friends/video.m3u8
@@ -1718,6 +1749,8 @@ http://tvhdbalck.pro:80/090720634/959666174/3241274.ts
 http://tvhdbalck.pro:80/090720634/959666174/3241182.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 9
 http://tvhdbalck.pro:80/090720634/959666174/2745918.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 10
+http://opaioo.com:8080/bebelly/11976080402/1025749
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 1
 http://play.1list.vip/live/listatvs/controliptv/56467.ts
@@ -1923,21 +1956,21 @@ http://24hrs.homelinux.com:80/24H-avataralendadeaang/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 1
 http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 2
-http://sigcine1.space:80/374897485/789272274/202246.ts
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595200
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 3
-http://sigcine1.space:80/374897485/789272274/202230.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38000.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 4
-http://sigcine1.space:80/374897485/789272274/202242.ts
+http://tvhdbalck.pro:80/090720634/959666174/2740744.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 5
 http://15.235.9.200:14984
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 6
 http://tvhdbalck.pro:80/090720634/959666174/600687.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 7
-http://tvhdbalck.pro:80/090720634/959666174/2740744.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 8
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38000.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 9
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595200
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Ben 10 op1
 http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
@@ -1945,14 +1978,14 @@ http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
 http://15.235.9.200:14819/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Bob Esponja 1
-http://sigcine1.space:80/374897485/789272274/202309.ts
+http://opaioo.com:8080/bebelly/11976080402/1025732
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Bob Esponja 2
 http://15.235.9.200:14823/
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Bob Esponja 3
 http://tvhdbalck.pro:80/090720634/959666174/2740635.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Caverna do Dragão
-http://sigcine1.space:80/374897485/789272274/202308.ts
+http://24hrs.homelinux.com:80/24H-Caverna.do.dragao.S01E01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Dragon Ball 1
 http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?
@@ -1980,9 +2013,9 @@ http://24hrs.homelinux.com:80/24H-dragon.ball.gt/video.m3u8?
 http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Family Guy 1
-http://sigcine1.space:80/374897485/789272274/202241.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Family Guy 2
-http://dnscine.top:80/Fernando123/Fernando123/202241.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Family Guy 3
 http://tvhdbalck.pro:80/090720634/959666174/600675.ts
 
