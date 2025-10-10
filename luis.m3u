@@ -210,6 +210,8 @@ http://newoneblack.site:80/99941212/6199941212/235855
 http://newoneblack.site:80/99941212/6199941212/438137
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Canais | Filmes", AMC HD3
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/454450
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Canais | Filmes", AMC HD4
+http://45.235.0.78/AMC-HD/index.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Canais | Filmes", AMC FHD1
 http://newoneblack.site:80/99941212/6199941212/235856
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Canais | Filmes", AMC FHD2
@@ -319,6 +321,8 @@ http://granpirosh.top/live/841866657/c581b7318b/749.m3u8
 http://lvbx2.top:80/ros1234/asd203040/102028
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD9
 http://xwkhb.info:80/332946/ycHWZM/72433.ts
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD10
+http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD1
@@ -1580,11 +1584,11 @@ https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 ######################################################################### Canais Desenhos #############################################################################
 
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-logo="https://thumbs4.imagebam.com/44/f9/80/MEVL3YT_t.png" group-title="Canais | Desenhos", ADULT SWIM HD1
-http://sigcine1.space:80/374897485/789272274/422.ts
+http://45.235.0.78/ADULTSWIM-HD/index.m3u8
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-logo="https://thumbs4.imagebam.com/44/f9/80/MEVL3YT_t.png" group-title="Canais | Desenhos", ADULT SWIM FHD1
-http://sigcine1.space:80/374897485/789272274/423.ts
-#EXTINF:-1 tvg-id="ADULTSWIM" tvg-logo="https://thumbs4.imagebam.com/44/f9/80/MEVL3YT_t.png" group-title="Canais | Desenhos", ADULT SWIM FHD2
 http://granpirosh.top/live/841866657/c581b7318b/376344.m3u8
+#EXTINF:-1 tvg-id="ADULTSWIM" tvg-logo="https://thumbs4.imagebam.com/44/f9/80/MEVL3YT_t.png" group-title="Canais | Desenhos", ADULT SWIM FHD2
+
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-logo="https://thumbs4.imagebam.com/ab/ee/fb/MEVPS1P_t.png" group-title="Canais | Desenhos", Tooncast HD1
 http://sigcine1.space:80/374897485/789272274/436.ts
