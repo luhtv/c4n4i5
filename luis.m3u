@@ -114,6 +114,8 @@ http://lvbx2.top:80/ros1234/asd203040/102793
 http://tvhdbalck.pro:80/090720634/959666174/402.ts
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP FHD8
 http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025840.m3u8
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP FHD9
+http://lidns.cc:80/4x6cXF/ehfxdp/95649.m3u8
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP 4K
 http://tvhdbalck.pro:80/090720634/959666174/1552323.ts
@@ -751,6 +753,10 @@ http://opaioo.com:8080/bebelly/11976080402/1026520
 http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1026521.m3u8
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes FHD16
 http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1026520.m3u8
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes FHD17
+https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes FHD18
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/491
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | Premiere", Premiere Clubes 4K1
 http://newoneblack.site:80/99941212/6199941212/809143
@@ -1720,6 +1726,10 @@ http://svrhb.com:80/live/aleprado/3499990750/1025802.ts
 http://dnscine.top:80/954317628/118245118/202272.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 11
 http://svrhb.com:80/live/6223187860/8664872567/1025802.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 12
+http://enegf3.dynamic-router-backend-net.site:80/854191413/383942274/4238329
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 13
+http://enegf3.dynamic-router-backend-net.site:80/Anonymous100/Hacker100/4238329
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Friends
 http://24hrs.homelinux.com:80/24H-friends/video.m3u8
@@ -1866,8 +1876,6 @@ http://tvhdbalck.pro:80/090720634/959666174/4137597.ts
 
 ############################################################################## 24hr Filmes ############################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Marvel e DC
-http://sigcine1.space:80/374897485/789272274/202257.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Marvel 1
 http://unividia.com:80/746147216xtvs/w884E6734a/271595
@@ -1886,38 +1894,8 @@ http://nexusp.xyz:80/664386299/d589y9525S/271597
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Marvel 8
 http://nexusp.xyz:80/664386299/d589y9525S/271598
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Cine Ação 1
-http://sigcine1.space:80/374897485/789272274/202277.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Cine Ação 2
-http://dnscine.top:80/793699983/122778657/202277.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Cine Aventura
-http://dnscine.top:80/793699983/122778657/202254.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Cine Comédia 1
-http://sigcine1.space:80/374897485/789272274/202275.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Cine Comédia 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38030.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Cine Comédia 3
-http://dnscine.top:80/793699983/122778657/202275.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Cine Drama
-http://sigcine1.space:80/374897485/789272274/202255.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Cine Family
-http://sigcine1.space:80/374897485/789272274/202276.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Cine Faroeste
-http://sigcine1.space:80/374897485/789272274/202261.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Cine Fiction
-http://sigcine1.space:80/374897485/789272274/202258.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Cine Guerra
-http://sigcine1.space:80/374897485/789272274/202259.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Filmes 24hrs", Cine kids
-http://sigcine1.space:80/374897485/789272274/202274.ts
 
 #######################################################################################################################################################################
 
@@ -1996,7 +1974,9 @@ http://dnscine.top:80/954317628/118245118/202230.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 8
 http://dnscine.top:80/954317628/118245118/202242.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 9
-
+http://enegf3.dynamic-router-backend-net.site:80/Anonymous100/Hacker100/4238269
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Simpsons 10
+http://enegf3.dynamic-router-backend-net.site:80/854191413/383942274/4238269
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Ben 10 op1
 http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
