@@ -3,11 +3,11 @@
 ####################################################################### INFORMAÇÕES ################################################################################
 ######## 📺 TV
 ######## 📅 LISTA CRIADA EM: 29/01/2025
-######## 📅 ULTIMA ATUALIZAÇÃO: 08/10/2025
+######## 📅 ULTIMA ATUALIZAÇÃO: 10/10/2025
 ######## Lista criada e organizada a partir de links encontrados na internet, sem quaisquer fins lucrativos
 ####################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="" group-title="📅 Atualizado 08/10/2025",📅 Atualizado 08/10/2025
+#EXTINF:-1 tvg-id="" group-title="📅 Atualizado 10/10/2025",📅 Atualizado 10/10/2025
 https://cr7v.short.gy/AdcListaNOiptvpro/Index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rAOrWxU.png" group-title="Jogos de Hoje", Jogos de Hoje 1
 http://play.1list.vip/live/Marcosfp05/nlybdft6fml/194567.ts
@@ -34,6 +34,8 @@ https://canais.fazoeli.co.za/secret_key/669f314bff3f7376b10d8bf3c0e6eab8.m3u8
 http://newoneblack.site:80/99941212/6199941212/234262
 #EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | Globo", Globo SP HD7
 http://tvhdbalck.pro:80/090720634/959666174/173083.ts
+#EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | Globo", Globo SP HD8
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1026320.m3u8
 
 #EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | Globo", Globo SP FHD1
 http://lvbx2.top:80/ros1234/asd203040/784469
@@ -43,6 +45,10 @@ http://newoneblack.site:80/99941212/6199941212/234261
 http://tvhdbalck.pro:80/090720634/959666174/173081.ts
 #EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | Globo", Globo SP FHD4
 http://tvhdbalck.pro:80/090720634/959666174/578.ts
+#EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | Globo", Globo SP FHD5
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1026322.m3u8
+#EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | Globo", Globo SP FHD6
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1026321.m3u8
 
 #EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | Globo", Globo SP 4K¹
 http://lvbx2.top:80/ros1234/asd203040/100718
