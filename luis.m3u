@@ -1795,6 +1795,8 @@ http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
 http://15.235.9.200:14046
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Um Maluco No Pedaço 3
 http://24hrs.homelinux.com:80/24H-ummaluconopedaco/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Um Maluco No Pedaço 4
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025832.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", CSI
@@ -1802,6 +1804,8 @@ http://tvhdbalck.pro:80/090720634/959666174/600702.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Mr Bean 1
 http://bananadoce.online:8080/123456789/12345678/1249248
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Mr Bean 2
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025817.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", StarTrek
 http://bananadoce.online:8080/123456789/12345678/1249283
@@ -1819,8 +1823,8 @@ http://15.235.9.200:14022/supernatural
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Breaking Bad 1
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Breaking Bad 2
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Walking Dead
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025830.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Demolidor
 
@@ -2136,15 +2140,15 @@ http://24hrs.homelinux.com:80/24H-Corrida.Maluca/playlist.m3u8
 http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025753.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Taz Mania
-http://sigcine1.space:80/374897485/789272274/202287.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Looney Tunnes 1
-http://sigcine1.space:80/374897485/789272274/202311.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Looney Tunnes 2
-http://onecdz.xyz:80/029911/007404/2299943.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Frajola & Piu-Piu
+http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025765.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", A Turma do Pateta
-http://sigcine1.space:80/374897485/789272274/202290.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Popeye
 http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8
@@ -2165,7 +2169,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Flintstones²
-http://sigcine1.space:80/374897485/789272274/202306.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Tartaruga Tuche
 http://24hrs.homelinux.com:80/24H-tartarugatuche/video.m3u8
@@ -2183,19 +2187,15 @@ http://24hrs.homelinux.com:80/24H-Manda.Chuva.S01/video.m3u8
 http://24hrs.homelinux.com:80/24H-zebuscape/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Zé Colméia
-http://sigcine1.space:80/374897485/789272274/202285.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", O Maskara
-http://sigcine1.space:80/374897485/789272274/202307.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", O Laboratorio de Dexter
-http://sigcine1.space:80/374897485/789272274/202251.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Desenhos Clássicos TV
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w2046715321.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", South Park 1
-http://sigcine1.space:80/374897485/789272274/202244.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", South Park 2
 http://24hrs.homelinux.com:80/24H-southpark/video.m3u8?
