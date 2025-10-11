@@ -97,6 +97,10 @@ http://tvhdbalck.pro:80/090720634/959666174/403.ts
 http://cdntac.xyz:80/659012322/931052415/1108566.ts
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP HD12
 http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025839.m3u8
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP HD13
+http://nexusp.xyz:80/664386299/d589y9525S/255465
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP HD14
+http://nexusp.xyz:80/664386299/d589y9525S/255467
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP FHD1
 http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/107926.m3u8
@@ -116,6 +120,8 @@ http://tvhdbalck.pro:80/090720634/959666174/402.ts
 http://svrhb.com:8080/live/haroldo95083835/95083835haroldo/1025840.m3u8
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP FHD9
 http://lidns.cc:80/4x6cXF/ehfxdp/95649.m3u8
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP FHD10
+http://nexusp.xyz:80/664386299/d589y9525S/255466
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP 4K
 http://tvhdbalck.pro:80/090720634/959666174/1552323.ts
@@ -508,6 +514,14 @@ https://metalgear.bemtv.cn/STREAM/8267/chunks.m3u8
 http://sv1.casahd.com:80/carlinhos/carlinhos/1361024
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="Canais | HBO", HBO HD6
 http://newoneblack.site:80/99941212/6199941212/235834
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="Canais | HBO", HBO HD7
+http://nexusp.xyz:80/664386299/d589y9525S/543987
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="Canais | HBO", HBO HD8
+http://nexusp.xyz:80/664386299/d589y9525S/543988
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="Canais | HBO", HBO HD9
+http://nexusp.xyz:80/664386299/d589y9525S/18752
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="Canais | HBO", HBO HD10
+http://nexusp.xyz:80/664386299/d589y9525S/18753
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="Canais | HBO", HBO FHD1
 http://saga10.pro:80/461077/339128/1263045
@@ -518,7 +532,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14000.ts
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="Canais | HBO", HBO FHD4
 http://newoneblack.site:80/99941212/6199941212/235835
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://thumbs4.imagebam.com/5f/1c/1e/MEVQMJX_t.png" group-title="Canais | HBO", HBO FHD5
-
+http://nexusp.xyz:80/664386299/d589y9525S/21248
 
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="Canais | HBO", HBO 2 HD1
@@ -530,7 +544,9 @@ https://metalgear.bemtv.cn/STREAM/8265/chunks.m3u8
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="Canais | HBO", HBO 2 HD4
 http://lvbx2.top:80/ros1234/asd203040/784727
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="Canais | HBO", HBO 2 HD5
-
+http://nexusp.xyz:80/664386299/d589y9525S/18756
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="Canais | HBO", HBO 2 HD6
+http://nexusp.xyz:80/664386299/d589y9525S/18757
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="Canais | HBO", HBO 2 FHD1
 http://lvbx2.top:80/ros1234/asd203040/784726
@@ -539,7 +555,7 @@ http://saga10.pro:80/461077/339128/1263048
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="Canais | HBO", HBO 2 FHD3
 http://newoneblack.site:80/99941212/6199941212/438087
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="Canais | HBO", HBO 2 FHD4
-
+http://nexusp.xyz:80/664386299/d589y9525S/21246
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://thumbs4.imagebam.com/dd/95/41/MEVQMK3_t.png" group-title="Canais | HBO", HBO 2 FHD5
 
 
@@ -557,6 +573,10 @@ https://metalgear.bemtv.cn/STREAM/8263/chunks.m3u8
 http://lvbx2.top:80/ros1234/asd203040/784730
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | HBO", HBO Family HD7
 http://newoneblack.site:80/99941212/6199941212/438095
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | HBO", HBO Family HD8
+http://nexusp.xyz:80/664386299/d589y9525S/18760
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | HBO", HBO Family HD9
+http://nexusp.xyz:80/664386299/d589y9525S/18761
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | HBO", HBO Family FHD1
 http://newoneblack.site:80/99941212/6199941212/235838
@@ -566,7 +586,8 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14006.ts
 http://newoneblack.site:80/99941212/6199941212/438093
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | HBO", HBO Family FHD4
 http://lvbx2.top:80/ros1234/asd203040/784729
-
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | HBO", HBO Family FHD5
+http://nexusp.xyz:80/664386299/d589y9525S/21247
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="Canais | HBO", HBO MUNDI HD1
 http://newoneblack.site:80/99941212/6199941212/438107
@@ -576,6 +597,14 @@ http://newoneblack.site:80/99941212/6199941212/235832
 http://lvbx2.top:80/ros1234/asd203040/784734
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="Canais | HBO", HBO MUNDI HD4
 http://lvbx2.top:80/ros1234/asd203040/1479292
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="Canais | HBO", HBO MUNDI HD5
+http://nexusp.xyz:80/664386299/d589y9525S/559668
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="Canais | HBO", HBO MUNDI HD6
+http://nexusp.xyz:80/664386299/d589y9525S/559669
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="Canais | HBO", HBO MUNDI HD7
+http://nexusp.xyz:80/664386299/d589y9525S/18772
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="Canais | HBO", HBO MUNDI HD8
+http://nexusp.xyz:80/664386299/d589y9525S/18773
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="Canais | HBO", HBO MUNDI FHD1
 http://newoneblack.site:80/99941212/6199941212/438105
@@ -587,6 +616,8 @@ http://newoneblack.site:80/99941212/6199941212/235833
 http://lvbx2.top:80/ros1234/asd203040/1479291
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="Canais | HBO", HBO MUNDI FHD5
 http://lvbx2.top:80/ros1234/asd203040/784733
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://thumbs4.imagebam.com/d6/d8/9b/MEVQMJY_t.png" group-title="Canais | HBO", HBO MUNDI FHD6
+http://nexusp.xyz:80/664386299/d589y9525S/21254
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | HBO", HBO Xtreme HD1
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/383
@@ -602,6 +633,10 @@ http://lvbx2.top:80/ros1234/asd203040/1479305
 http://newoneblack.site:80/99941212/6199941212/438125
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | HBO", HBO Xtreme HD7
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62233
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | HBO", HBO Xtreme HD8
+http://nexusp.xyz:80/664386299/d589y9525S/559674
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | HBO", HBO Xtreme HD9
+http://nexusp.xyz:80/664386299/d589y9525S/559675
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | HBO", HBO Xtreme FHD1
 http://saga10.pro:80/461077/339128/1263063
@@ -630,6 +665,10 @@ https://metalgear.bemtv.cn/STREAM/8258/chunks.m3u8
 http://lvbx2.top:80/ros1234/asd203040/1479302
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | HBO", HBO SIGNATURE HD5
 http://lvbx2.top:80/ros1234/asd203040/784741
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | HBO", HBO SIGNATURE HD6
+http://nexusp.xyz:80/664386299/d589y9525S/559665
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | HBO", HBO SIGNATURE HD7
+http://nexusp.xyz:80/664386299/d589y9525S/559666
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | HBO", HBO SIGNATURE FHD1
 http://newoneblack.site:80/99941212/6199941212/438117
@@ -650,6 +689,16 @@ http://lvbx2.top:80/ros1234/asd203040/1479295
 http://lvbx2.top:80/ros1234/asd203040/784747
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://thumbs4.imagebam.com/88/58/1a/MEVQMJZ_t.png" group-title="Canais | HBO", HBO+ HD5
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62230
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://thumbs4.imagebam.com/88/58/1a/MEVQMJZ_t.png" group-title="Canais | HBO", HBO+ HD6
+http://nexusp.xyz:80/664386299/d589y9525S/559662
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://thumbs4.imagebam.com/88/58/1a/MEVQMJZ_t.png" group-title="Canais | HBO", HBO+ HD7
+http://nexusp.xyz:80/664386299/d589y9525S/559663
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://thumbs4.imagebam.com/88/58/1a/MEVQMJZ_t.png" group-title="Canais | HBO", HBO+ HD8
+http://nexusp.xyz:80/664386299/d589y9525S/18764
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://thumbs4.imagebam.com/88/58/1a/MEVQMJZ_t.png" group-title="Canais | HBO", HBO+ HD9
+http://nexusp.xyz:80/664386299/d589y9525S/18765
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://thumbs4.imagebam.com/88/58/1a/MEVQMJZ_t.png" group-title="Canais | HBO", HBO+ HD10
+
 
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://thumbs4.imagebam.com/88/58/1a/MEVQMJZ_t.png" group-title="Canais | HBO", HBO+ FHD1
 http://saga10.pro:80/461077/339128/1263066
@@ -657,6 +706,8 @@ http://saga10.pro:80/461077/339128/1263066
 http://lvbx2.top:80/ros1234/asd203040/1479294
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://thumbs4.imagebam.com/88/58/1a/MEVQMJZ_t.png" group-title="Canais | HBO", HBO+ FHD3
 http://lvbx2.top:80/ros1234/asd203040/784746
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://thumbs4.imagebam.com/88/58/1a/MEVQMJZ_t.png" group-title="Canais | HBO", HBO+ FHD4
+http://nexusp.xyz:80/664386299/d589y9525S/21256
 
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://thumbs4.imagebam.com/88/58/1a/MEVQMJZ_t.png" group-title="Canais | HBO", HBO+ 4K1
 http://saga10.pro:80/461077/339128/2839533
@@ -672,6 +723,14 @@ http://sigcine1.space:80/374897485/789272274/83.ts
 http://lvbx2.top:80/ros1234/asd203040/1479298
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://thumbs4.imagebam.com/7e/fc/12/MEVQMK0_t.png" group-title="Canais | HBO", HBO POP HD3
 http://lvbx2.top:80/ros1234/asd203040/784737
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://thumbs4.imagebam.com/7e/fc/12/MEVQMK0_t.png" group-title="Canais | HBO", HBO POP HD4
+http://nexusp.xyz:80/664386299/d589y9525S/559671
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://thumbs4.imagebam.com/7e/fc/12/MEVQMK0_t.png" group-title="Canais | HBO", HBO POP HD5
+http://nexusp.xyz:80/664386299/d589y9525S/559672
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://thumbs4.imagebam.com/7e/fc/12/MEVQMK0_t.png" group-title="Canais | HBO", HBO POP HD6
+http://nexusp.xyz:80/664386299/d589y9525S/18781
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://thumbs4.imagebam.com/7e/fc/12/MEVQMK0_t.png" group-title="Canais | HBO", HBO POP HD7
+http://nexusp.xyz:80/664386299/d589y9525S/18780
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://thumbs4.imagebam.com/7e/fc/12/MEVQMK0_t.png" group-title="Canais | HBO", HBO POP FHD1
 http://sigcine1.space:80/374897485/789272274/700.ts
@@ -681,6 +740,8 @@ http://sigcine1.space:80/374897485/789272274/82.ts
 http://lvbx2.top:80/ros1234/asd203040/1479297
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://thumbs4.imagebam.com/7e/fc/12/MEVQMK0_t.png" group-title="Canais | HBO", HBO POP FHD4
 http://lvbx2.top:80/ros1234/asd203040/784736
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://thumbs4.imagebam.com/7e/fc/12/MEVQMK0_t.png" group-title="Canais | HBO", HBO POP FHD5
+http://nexusp.xyz:80/664386299/d589y9525S/21256
 
 #######################################################################################################################################################################
 
@@ -1286,6 +1347,11 @@ http://ncplay.fun:80/1712382516/5246361986/4720051
 http://ncplay.fun:80/1712382516/5246361986/4719386
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | Esportes", Band Sports FHD5
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131128
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | Esportes", Band Sports FHD6
+http://nexusp.xyz:80/664386299/d589y9525S/21225
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | Esportes", Band Sports 4K
+http://nexusp.xyz:80/664386299/d589y9525S/234278
 
 #EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | Esportes",Ge TV HD (TCL TV)
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/720p-cc/index.m3u8
@@ -1355,6 +1421,8 @@ http://granpirosh.top/live/841866657/c581b7318b/240.m3u8
 http://lvbx2.top:80/ros1234/asd203040/101019
 #EXTINF:-1 tvg-id="COMBATE" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | Lutas", Combate FHD5
 http://ncplay.fun:80/1712382516/5246361986/4720067
+#EXTINF:-1 tvg-id="COMBATE" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | Lutas", Combate FHD6
+http://nexusp.xyz:80/664386299/d589y9525S/21232
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | Lutas", Combate 4K1
 http://46.151.196.223:14468/
