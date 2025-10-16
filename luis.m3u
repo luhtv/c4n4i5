@@ -3920,21 +3920,23 @@ http://dsmar.mov:80/movie/felipe_irma/Teste44/173834.mp4
 #EXTINF:-1 tvg-type="movies" tvg-name="KICKBOXER O DESAFIO DRAGAO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e50XYhyoaJpJUNn18Fs4FsZgtfx.jpg" group-title="Filmes Classicos", KICKBOXER O DESAFIO DRAGAO
 http://dsmar.mov:80/movie/felipe_irma/Teste44/195659.mp4
 
-#EXTINF:-1 tvg-type="movies" tvg-type="movies" tvg-name="LOUCADEMIA DE ESQUI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDrLJNnWOlEjhuIvuVC3RKLjWXU.jpg" group-title="Filmes Classicos", LOUCADEMIA DE ESQUI
-http://dsmar.mov:80/movie/felipe_irma/Teste44/234414.mp4
-#EXTINF:-1 tvg-type="movies" tvg-name="LOUCADEMIA DE POLICIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZUNkWNoqogFqhlgl8L517xeQSL.jpg" group-title="Filmes Classicos", LOUCADEMIA DE POLICIA
+#EXTINF:-1 tvg-type="movies" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZUNkWNoqogFqhlgl8L517xeQSL.jpg" group-title="Filmes Classicos", Loucademir de Policia op1 
 http://dsmar.mov:80/movie/felipe_irma/Teste44/174884.mp4
-#EXTINF:-1 tvg-type="movies" tvg-name="LOUCADEMIA DE POLÍCIA 2: A PRIMEIRA MISSÃO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WuzjLfMzP7W401g8SxMsGQQHWr.jpg" group-title="Filmes Classicos", LOUCADEMIA DE POLÍCIA 2: A PRIMEIRA MISSÃO
+#EXTINF:-1 tvg-type="movies" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZUNkWNoqogFqhlgl8L517xeQSL.jpg" group-title="Filmes Classicos", Loucademir de Policia op2
+https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Loucademia.de.Policia/LS-1984.Loucademia.de.Policia.1.FHD.DUAL.mkv
+#EXTINF:-1 tvg-type="movies" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WuzjLfMzP7W401g8SxMsGQQHWr.jpg" group-title="Filmes Classicos", Loucademia de Policia 2 - A Primeira Missão op1
 http://dsmar.mov:80/movie/felipe_irma/Teste44/191639.mp4
-#EXTINF:-1 tvg-type="movies" tvg-name="LOUCADEMIA DE POLÍCIA 3: DE VOLTA AO TREINAMENTO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eNvDaavp5Pc5Jb9bn2f8xxqW8U.jpg" group-title="Filmes Classicos", LOUCADEMIA DE POLÍCIA 3: DE VOLTA AO TREINAMENTO
+#EXTINF:-1 tvg-type="movies" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WuzjLfMzP7W401g8SxMsGQQHWr.jpg" group-title="Filmes Classicos", Loucademia de Policia 2 - A Primeira Missão op2
+https://ls.lsnew.workers.dev/0:/FLMS/4CMD-CL/Loucademia.de.Policia/LS-1985.Loucademia.de.Policia.2.A.Primeira.Missao.FHD.DUAL.mkv
+#EXTINF:-1 tvg-type="movies" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eNvDaavp5Pc5Jb9bn2f8xxqW8U.jpg" group-title="Filmes Classicos", Loucademia de Policia 3 - De Volta ao Treinamento
 http://dsmar.mov:80/movie/felipe_irma/Teste44/191640.mp4
-#EXTINF:-1 tvg-type="movies" tvg-name="LOUCADEMIA DE POLÍCIA 4: O CIDADÃO SE DEFENDE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u55dMZoQyVr7OJJY6F267xpBAQt.jpg" group-title="Filmes Classicos", LOUCADEMIA DE POLÍCIA 4: O CIDADÃO SE DEFENDE
+#EXTINF:-1 tvg-type="movies" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u55dMZoQyVr7OJJY6F267xpBAQt.jpg" group-title="Filmes Classicos", LOUCADEMIA DE POLÍCIA 4: O CIDADÃO SE DEFENDE
 http://dsmar.mov:80/movie/felipe_irma/Teste44/191641.mp4
-#EXTINF:-1 tvg-type="movies" tvg-name="LOUCADEMIA DE POLÍCIA 5: MISSÃO MIAMI BEACH" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cohnyM8W0afsD6k18ABxWo9OcoA.jpg" group-title="Filmes Classicos", LOUCADEMIA DE POLÍCIA 5: MISSÃO MIAMI BEACH
+#EXTINF:-1 tvg-type="movies" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cohnyM8W0afsD6k18ABxWo9OcoA.jpg" group-title="Filmes Classicos", LOUCADEMIA DE POLÍCIA 5: MISSÃO MIAMI BEACH
 http://dsmar.mov:80/movie/felipe_irma/Teste44/191642.mp4
-#EXTINF:-1 tvg-type="movies" tvg-name="LOUCADEMIA DE POLÍCIA 6: CIDADE EM ESTADO DE SÍTIO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9YVToce8sYCEoKMJTFyHdAov4l.jpg" group-title="Filmes Classicos", LOUCADEMIA DE POLÍCIA 6: CIDADE EM ESTADO DE SÍTIO
+#EXTINF:-1 tvg-type="movies" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9YVToce8sYCEoKMJTFyHdAov4l.jpg" group-title="Filmes Classicos", LOUCADEMIA DE POLÍCIA 6: CIDADE EM ESTADO DE SÍTIO
 http://dsmar.mov:80/movie/felipe_irma/Teste44/191643.mp4
-#EXTINF:-1 tvg-type="movies" tvg-name="LOUCADEMIA DE POLÍCIA 7: MISSÃO MOSCOU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSjLEofJvsTKCLeg3jTbmjYrnCV.jpg" group-title="Filmes Classicos", LOUCADEMIA DE POLÍCIA 7: MISSÃO MOSCOU
+#EXTINF:-1 tvg-type="movies" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSjLEofJvsTKCLeg3jTbmjYrnCV.jpg" group-title="Filmes Classicos", LOUCADEMIA DE POLÍCIA 7: MISSÃO MOSCOU
 http://dsmar.mov:80/movie/felipe_irma/Teste44/191644.mp4
 
 #EXTINF:-1 tvg-type="movies" tvg-name="MAD MAX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ad9TjDgRADhKqZjoed2M6h9TO2.jpg" group-title="Filmes Classicos", MAD MAX
