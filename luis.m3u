@@ -5,7 +5,7 @@
 ####################################################################################################################################################################
 
 #EXTINF:-1 tvg-id="" group-title="📅 Atualizado 18/12/2025",📅 Atualizado 18/12/2025
-https://cr7v.short.gy/AdcListaNOiptvpro/Index.m3u8
+http://15.235.9.200:14872/doishomensemeio
 
 ######################################################################## Canais Globo ##############################################################################
 
@@ -275,6 +275,9 @@ http://newoneblack.site:80/99941212/6199941212/438206
 http://newoneblack.site:80/99941212/6199941212/438214
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT HD2
 http://newoneblack.site:80/99941212/6199941212/235789
+#EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT HD3
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13040.ts
+
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT FHD1
 http://newoneblack.site:80/99941212/6199941212/438212
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT FHD2
@@ -316,6 +319,8 @@ http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120786
 http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/107981.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD8
 http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/9219.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD9
+http://sigcine1.space:80/374897485/789272274/186.ts
 
 #EXTINF:-1 tvg-id="studio universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | Filmes", Studio Universal HD1
 http://newoneblack.site:80/99941212/6199941212/438196
@@ -1537,16 +1542,12 @@ http://sigcine1.space:80/374897485/789272274/126.ts
 ######################################################################### 24hr Séries #################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 1
-http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 2
-http://24hrs.homelinux.com:80/24H-2HomensEmeio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 3
 http://15.235.9.200:14872/doishomensemeio
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38004.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 3
 http://3021.life/153031299/390936214/968601
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 4
 http://dnscine.top:80/317723243/946629677/202271
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 1
@@ -1611,6 +1612,8 @@ http://play.1list.vip/live/listatvs/controliptv/56467.ts
 http://4f.rs:80/62202066/60781292/1739347
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 3
 http://15.235.9.200:14040
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 4
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38014.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Eu a Patroa e as Crianças 1
 http://15.235.9.200:14908/eu-a-patroa-e-as-criancas
@@ -2918,3 +2921,47 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 ########################################################################################################################################################################
 ########################################################################################################################################################################
 ########################################################################################################################################################################
+
+
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Missão: Impossível 1 (1996)" tvg-logo="http://gstaticontent.com/images/70MV8TU1Lxc6vyj8BaEU3HLuU7W_big.jpg" group-title="MISSÃO IMPOSSIVEL",Missão Impossível 1 (1996) 
+http://dns.akira.best:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/449751.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Missão: Impossível 2 (2000)" tvg-logo="http://gstaticontent.com/images/sT5hbs7rmMk2Edup7Pw9MB02x9G_big.jpg" group-title="MISSÃO IMPOSSIVEL",Missão Impossível 2 (2000)
+http://dns.akira.best:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/449750.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Missão: Impossível 3 (2006)" tvg-logo="http://gstaticontent.com/images/ui7TCk3IzsjLcDRkZi08nLFvwRO_big.jpg" group-title="MISSÃO IMPOSSIVEL",Missão Impossível 3 (2006)
+http://dns.akira.best:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/449749.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Missão: Impossível 4 (2011) - Protocolo Fantasma" tvg-logo="http://gstaticontent.com/images/9Odva4vcrL6D7NRhIMlYf8Dg5nC_big.jpg" group-title="MISSÃO IMPOSSIVEL",Missão Impossível 4 (2011) - Protocolo Fantasma
+https://vods1.watchingvs.com/m/Missão:%20Impossível%20-%20Protocolo%20Fantasma_2011_tt1229238.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Missão: Impossível 5 (2015) - Nação Secreta" tvg-logo="http://gstaticontent.com/images/704ac08072925e64641ee0d3435de149.jpg" group-title="MISSÃO IMPOSSIVEL",Missão Impossível 5 (2015) - Nação Secreta
+https://vods1.watchingvs.com/m/Missão:%20Impossível%20-%20Nação%20Secreta_2015_tt2381249.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Missão: Impossível 6 (2018) - Efeito Fallout" tvg-logo="http://gstaticontent.com/images/kVv60GGRuh3kF6KI5Hn2T7QWWx0_big.jpg" group-title="MISSÃO IMPOSSIVEL",Missão Impossível 6 (2018) - Efeito Fallout
+https://vods1.watchingvs.com/m/Miss%C3%A3o:%20Imposs%C3%ADvel%20-%20Efeito%20Fallout_2018_tt4912910.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Missão: Impossível 7 (2023) - Acerto de Contas Parte 1" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg" group-title="MISSÃO IMPOSSIVEL",Missão Impossível 7 (2023) - Acerto de Contas Parte 1"
+https://vods1.watchingvs.com/m/Missão:%20Impossível%20-%20Acerto%20de%20Contas%20Parte%20Um_2023_tt9603212.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Missão: Impossível 8 (2025) - O Acerto Final" tvg-logo="http://79.137.99.72:8080/images/yKQjrwgEkPOGel3JKT2neJzu0jh_big.jpg" group-title="MISSÃO IMPOSSIVEL",Missão: Impossível 8 (2025) - O Acerto Final
+https://streamcnvs.com/m/Miss%C3%A3o.Imposs%C3%ADvel.O.Acerto.Final.2025.1080p.WEB-DL.DUAL.5.1.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Velozes e Furiosos 1 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIMCfztNwx2rA6XWGaJhcqdG7Wt.jpg" group-title="Filmes | Ação",Velozes e Furiosos 1 - 2001
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32977.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Velozes e Furiosos 2 - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmhFOjy47UqrOafl0oQiygcJ7oT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 2 - 2003
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32978.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Velozes e Furiosos 3 - Desafio em Toquio - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yItFvcLOC470J9S2dsRoUypfmnK.jpg" group-title="Filmes | Ação",Velozes e Furiosos 3 - Desafio em Toquio - 2006
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32979.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Velozes e Furiosos 4 - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg" group-title="Filmes | Ação",Velozes e Furiosos 4 - 2009
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32980.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Velozes e Furiosos 5 - Operacao Rio - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3u5RexOOAJuwm5JtNmxT9P0CdLG.jpg" group-title="Filmes | Ação",Velozes e Furiosos 5 - Operacao Rio - 2011
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32981.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Velozes e Furiosos 6 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/870V0yMDOEAKAv45WPLe7LzcMcL.jpg" group-title="Filmes | Ação",Velozes e Furiosos 6 - 2013
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32982.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Velozes e Furiosos 7 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPbKWpt3eRsDOYlWKohr2kIRxsT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 7 - 2015
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32983.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Velozes e Furiosos 8 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L2IpMfGFfwOmxNdIJeJtdlz03.jpg" group-title="Filmes | Ação",Velozes e Furiosos 8 - 2017
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32984.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Velozes e Furiosos: Hobbs e Shaw - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg" group-title="Filmes | Ação",Velozes e Furiosos: Hobbs e Shaw - 2019
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32986.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Velozes e Furiosos 9 - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnAzaxRSiveFafudJtByxA7I2xT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 9 - 2021
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32985.mp4
+#EXTINF:-1 tvg-id="" tvg-type="movie" tvg-name="Velozes e Furiosos 10 - 2023 " tvg-logo="http://5ce.co:80/images/wDWAA5QApz5L5BKfFaaj8HJCAQM_big.jpg" group-title="Filmes | Lançamentos 2023",Velozes e Furiosos 10 - 2023 
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/30312.mp4
+
+
