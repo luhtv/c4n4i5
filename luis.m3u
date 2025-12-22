@@ -1665,8 +1665,12 @@ http://play.1list.vip/live/listatvs/controliptv/132050.ts
 
 ######################################################################### 24hr Desenhos ###############################################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Canais | Desenhos 24hrs", Rick And Morty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Canais | Desenhos 24hrs", Rick And Morty 1
 http://techragdois.space:80/090720634/959666174/5149228.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Canais | Desenhos 24hrs", Rick And Morty 2
+http://maxut.fun:80/816032972/896140496/5149228.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Canais | Desenhos 24hrs", Rick And Morty 3
+http://d1212.com/08142650077/09806312907/22050
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Canais | Desenhos 24hrs", Rick And Morty 1op1
 http://srv.polkafood.pl:80/stusv6zyu2/04cxlij31k/137991
@@ -1714,18 +1718,26 @@ http://srv.polkafood.pl:80/stusv6zyu2/04cxlij31k/153999
 http://granpirosh.top/live/841866657/c581b7318b/271601.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Dragon Ball Z 2
 http://srv.polkafood.pl:80/stusv6zyu2/04cxlij31k/83691
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Dragon Ball Z 3
+http://maxut.fun:80/816032972/896140496/2740692.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Family Guy 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Family Guy 1
 http://dnscine.top:80/317723243/946629677/202241
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Family Guy 2
+http://maxut.fun:80/816032972/896140496/600675.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Superman
 http://play.1list.vip/live/listatvs/controliptv/65259.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Tom e Jerry 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Tom e Jerry 1
 http://ativabox.top:80/4444444444/4444444444/12327447
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Tom e Jerry 2
+http://maxut.fun:80/816032972/896140496/3241198.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Pinguins de Madagascar 
 http://brone.fyi:80/douglasmorais/dgn2201/303040
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Scoobydoo 1
 http://15.235.9.200:14978/
