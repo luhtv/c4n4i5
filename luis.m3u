@@ -2959,100 +2959,127 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 ########################################################################################################################################################################
 
 
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-logo="https://imgur.com/L89LBAz.png" group-title="Filmes | Ação", Bater ou Correr
+#EXTINF:-1 tvg-type="movies" tvg-logo="https://imgur.com/L89LBAz.png" group-title="Filmes | Ação", Bater ou Correr
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0184894.mp4
 
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 1 (1996)" tvg-logo="http://gstaticontent.com/images/70MV8TU1Lxc6vyj8BaEU3HLuU7W_big.jpg" group-title="Filmes | Ação",Missão Impossível 1 (1996) 
+#EXTINF:-1 tvg-type="movies" tvg-name="O Grande Truque" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yOIPXWQ9ttsZfzHvmcS7XiV8To.jpg" group-title="Filmes | Ação", O Grande Truque
+http://instagram1.sbs:80/play/E6nHa4WFDJDP1T660NvxVXq9yY3MuLo251izv7YLafxmWuIasg_iJZ-vJtkIwx9g
+
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 1 (1996)" tvg-logo="http://gstaticontent.com/images/70MV8TU1Lxc6vyj8BaEU3HLuU7W_big.jpg" group-title="Filmes | Ação", Missão Impossível 1 (1996) 
 http://dns.akira.best:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/449751.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 2 (2000)" tvg-logo="http://gstaticontent.com/images/sT5hbs7rmMk2Edup7Pw9MB02x9G_big.jpg" group-title="Filmes | Ação",Missão Impossível 2 (2000)
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 2 (2000)" tvg-logo="http://gstaticontent.com/images/sT5hbs7rmMk2Edup7Pw9MB02x9G_big.jpg" group-title="Filmes | Ação", Missão Impossível 2 (2000)
 http://dns.akira.best:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/449750.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 3 (2006)" tvg-logo="http://gstaticontent.com/images/ui7TCk3IzsjLcDRkZi08nLFvwRO_big.jpg" group-title="Filmes | Ação",Missão Impossível 3 (2006)
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 3 (2006)" tvg-logo="http://gstaticontent.com/images/ui7TCk3IzsjLcDRkZi08nLFvwRO_big.jpg" group-title="Filmes | Ação", Missão Impossível 3 (2006)
 http://dns.akira.best:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/449749.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 4 (2011) - Protocolo Fantasma" tvg-logo="http://gstaticontent.com/images/9Odva4vcrL6D7NRhIMlYf8Dg5nC_big.jpg" group-title="Filmes | Ação",Missão Impossível 4 (2011) - Protocolo Fantasma
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 4 (2011) - Protocolo Fantasma" tvg-logo="http://gstaticontent.com/images/9Odva4vcrL6D7NRhIMlYf8Dg5nC_big.jpg" group-title="Filmes | Ação", Missão Impossível 4 (2011) - Protocolo Fantasma
 https://vods1.watchingvs.com/m/Missão:%20Impossível%20-%20Protocolo%20Fantasma_2011_tt1229238.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 5 (2015) - Nação Secreta" tvg-logo="http://gstaticontent.com/images/704ac08072925e64641ee0d3435de149.jpg" group-title="Filmes | Ação",Missão Impossível 5 (2015) - Nação Secreta
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 5 (2015) - Nação Secreta" tvg-logo="http://gstaticontent.com/images/704ac08072925e64641ee0d3435de149.jpg" group-title="Filmes | Ação", Missão Impossível 5 (2015) - Nação Secreta
 https://vods1.watchingvs.com/m/Missão:%20Impossível%20-%20Nação%20Secreta_2015_tt2381249.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 6 (2018) - Efeito Fallout" tvg-logo="http://gstaticontent.com/images/kVv60GGRuh3kF6KI5Hn2T7QWWx0_big.jpg" group-title="Filmes | Ação",Missão Impossível 6 (2018) - Efeito Fallout
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 6 (2018) - Efeito Fallout" tvg-logo="http://gstaticontent.com/images/kVv60GGRuh3kF6KI5Hn2T7QWWx0_big.jpg" group-title="Filmes | Ação", Missão Impossível 6 (2018) - Efeito Fallout
 https://vods1.watchingvs.com/m/Miss%C3%A3o:%20Imposs%C3%ADvel%20-%20Efeito%20Fallout_2018_tt4912910.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 7 (2023) - Acerto de Contas Parte 1" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg" group-title="Filmes | Ação",Missão Impossível 7 (2023) - Acerto de Contas Parte 1"
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 7 (2023) - Acerto de Contas Parte 1" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg" group-title="Filmes | Ação", Missão Impossível 7 (2023) - Acerto de Contas Parte 1"
 https://vods1.watchingvs.com/m/Missão:%20Impossível%20-%20Acerto%20de%20Contas%20Parte%20Um_2023_tt9603212.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 8 (2025) - O Acerto Final" tvg-logo="http://79.137.99.72:8080/images/yKQjrwgEkPOGel3JKT2neJzu0jh_big.jpg" group-title="Filmes | Ação",Missão: Impossível 8 (2025) - O Acerto Final
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Missão: Impossível 8 (2025) - O Acerto Final" tvg-logo="http://79.137.99.72:8080/images/yKQjrwgEkPOGel3JKT2neJzu0jh_big.jpg" group-title="Filmes | Ação", Missão: Impossível 8 (2025) - O Acerto Final
 https://streamcnvs.com/m/Miss%C3%A3o.Imposs%C3%ADvel.O.Acerto.Final.2025.1080p.WEB-DL.DUAL.5.1.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 1 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIMCfztNwx2rA6XWGaJhcqdG7Wt.jpg" group-title="Filmes | Ação",Velozes e Furiosos 1 - 2001
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 1 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIMCfztNwx2rA6XWGaJhcqdG7Wt.jpg" group-title="Filmes | Ação", Velozes e Furiosos 1 - 2001
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32977.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 2 - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmhFOjy47UqrOafl0oQiygcJ7oT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 2 - 2003
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 2 - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmhFOjy47UqrOafl0oQiygcJ7oT.jpg" group-title="Filmes | Ação", Velozes e Furiosos 2 - 2003
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32978.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 3 - Desafio em Toquio - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yItFvcLOC470J9S2dsRoUypfmnK.jpg" group-title="Filmes | Ação",Velozes e Furiosos 3 - Desafio em Toquio - 2006
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 3 - Desafio em Toquio - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yItFvcLOC470J9S2dsRoUypfmnK.jpg" group-title="Filmes | Ação", Velozes e Furiosos 3 - Desafio em Toquio - 2006
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32979.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 4 - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg" group-title="Filmes | Ação",Velozes e Furiosos 4 - 2009
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 4 - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg" group-title="Filmes | Ação", Velozes e Furiosos 4 - 2009
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32980.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 5 - Operacao Rio - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3u5RexOOAJuwm5JtNmxT9P0CdLG.jpg" group-title="Filmes | Ação",Velozes e Furiosos 5 - Operacao Rio - 2011
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 5 - Operacao Rio - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3u5RexOOAJuwm5JtNmxT9P0CdLG.jpg" group-title="Filmes | Ação", Velozes e Furiosos 5 - Operacao Rio - 2011
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32981.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 6 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/870V0yMDOEAKAv45WPLe7LzcMcL.jpg" group-title="Filmes | Ação",Velozes e Furiosos 6 - 2013
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 6 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/870V0yMDOEAKAv45WPLe7LzcMcL.jpg" group-title="Filmes | Ação", Velozes e Furiosos 6 - 2013
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32982.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 7 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPbKWpt3eRsDOYlWKohr2kIRxsT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 7 - 2015
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 7 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPbKWpt3eRsDOYlWKohr2kIRxsT.jpg" group-title="Filmes | Ação", Velozes e Furiosos 7 - 2015
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32983.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 8 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L2IpMfGFfwOmxNdIJeJtdlz03.jpg" group-title="Filmes | Ação",Velozes e Furiosos 8 - 2017
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 8 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L2IpMfGFfwOmxNdIJeJtdlz03.jpg" group-title="Filmes | Ação", Velozes e Furiosos 8 - 2017
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32984.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos: Hobbs e Shaw - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg" group-title="Filmes | Ação",Velozes e Furiosos: Hobbs e Shaw - 2019
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos: Hobbs e Shaw - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg" group-title="Filmes | Ação", Velozes e Furiosos: Hobbs e Shaw - 2019
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32986.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 9 - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnAzaxRSiveFafudJtByxA7I2xT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 9 - 2021
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 9 - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnAzaxRSiveFafudJtByxA7I2xT.jpg" group-title="Filmes | Ação", Velozes e Furiosos 9 - 2021
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32985.mp4
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 10 - 2023 " tvg-logo="http://5ce.co:80/images/wDWAA5QApz5L5BKfFaaj8HJCAQM_big.jpg" group-title="Filmes | Ação",Velozes e Furiosos 10 - 2023 
+#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="Velozes e Furiosos 10 - 2023 " tvg-logo="http://5ce.co:80/images/wDWAA5QApz5L5BKfFaaj8HJCAQM_big.jpg" group-title="Filmes | Ação", Velozes e Furiosos 10 - 2023 
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/30312.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-logo="https://imgur.com/L89LBAz.png" group-title="Filmes | Comédia", Corra Que a Polícia Vem Aí!
+#EXTINF:-1 tvg-type="movies" tvg-logo="https://imgur.com/L89LBAz.png" group-title="Filmes | Comédia", Corra Que a Polícia Vem Aí!
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt3402138.mp4
 
-#EXTINF:-1 tvg-id="" tvg-type="movies" tvg-name="De Volta para o Futuro (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BTW7PyEYFUFlNpuSeS9hAbpk9P.jpg" group-title="Filmes | Clássicos", De Volta para o Futuro (1985)
+#EXTINF:-1 tvg-type="movies" tvg-name="Loucademia de Polícia 7: Missão Moscou" tvg-logo="https://image.tmdb.org/t/p/w400/mbb8zAQaSrvlorO2MmzNWJjuBsS.jpg" group-title="Filmes | Comédia", Loucademia de Polícia 7: Missão Moscou
+http://techragdois.space:80/movie/090720634/959666174/5690680.mp4
+#EXTINF:-1 tvg-type="movies" tvg-name="Loucademia de Polícia 6: Cidade em Estado de Sítio (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjWmXHqEshFUCS2LwyPp9PI4XjO.jpg" group-title="Filmes | Comédia", Loucademia de Polícia 6: Cidade em Estado de Sítio (1989)
+http://cdnrez.xyz:80/movie/araujo050/c96196818b/2121412.mp4
+#EXTINF:-1 tvg-type="movies" tvg-name="Loucademia de Polícia 5: Missão Miami Beach" tvg-logo="https://image.tmdb.org/t/p/w400/fITAJXdFohdmhSNHcg328DeLDQg.jpg" group-title="Filmes | Comédia", Loucademia de Polícia 5: Missão Miami Beach
+http://techragdois.space:80/movie/090720634/959666174/5690682.mp4
+#EXTINF:-1 tvg-type="movies" tvg-name="Loucademia de Polícia 4: O Cidadão se Defende (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBkIktnJGKHIQLHRa8V7ByKJscA.jpg" group-title="Filmes | Comédia", Loucademia de Polícia 4: O Cidadão se Defende (1987)
+http://cdnrez.xyz:80/movie/araujo050/c96196818b/2121429.mp4
+#EXTINF:-1 tvg-type="movies" tvg-name="Loucademia de Polícia 3: De Volta ao Treinamento" tvg-logo="https://image.tmdb.org/t/p/w400/rw0w3a6Ql2kngXRdFNvdgAbfiql.jpg" group-title="Filmes | Comédia", Loucademia de Polícia 3: De Volta ao Treinamento
+http://techragdois.space:80/movie/090720634/959666174/5690684.mp4
+#EXTINF:-1 tvg-type="movies" tvg-name="Loucademia de Polícia 2: A Primeira Missão" tvg-logo="https://image.tmdb.org/t/p/w400/jCLtgtj4Vr28ODC4Fr0H06HBDt9.jpg" group-title="Filmes | Comédia", Loucademia de Polícia 2: A Primeira Missão
+http://techragdois.space:80/movie/090720634/959666174/5690685.mp4
+#EXTINF:-1 tvg-type="movies" tvg-name="Loucademia de Polícia (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZUNkWNoqogFqhlgl8L517xeQSL.jpg" group-title="Filmes | Comédia", Loucademia de Polícia (1984)
+http://cdnrez.xyz:80/movie/araujo050/c96196818b/2121408.mp4
+
+#EXTINF:-1 tvg-type="movies" tvg-name="De Volta para o Futuro (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BTW7PyEYFUFlNpuSeS9hAbpk9P.jpg" group-title="Filmes | Clássicos", De Volta para o Futuro (1985)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121311.mp4
 
-#EXTINF:-1 tvg-name="De Volta para o Futuro II (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9xt4iL2DRzG6XHfYJtSEgzGFRC.jpg" group-title="Filmes | Clássicos", De Volta para o Futuro II (1989)
+#EXTINF:-1 tvg-type="movies" tvg-name="De Volta para o Futuro II (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9xt4iL2DRzG6XHfYJtSEgzGFRC.jpg" group-title="Filmes | Clássicos", De Volta para o Futuro II (1989)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121291.mp4
 
-#EXTINF:-1 tvg-name="De Volta para o Futuro III (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjSqXqdpaa6ECsiIQxW44ye0qAc.jpg" group-title="Filmes | Clássicos", De Volta para o Futuro III (1990)
+#EXTINF:-1 tvg-type="movies" tvg-name="De Volta para o Futuro III (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjSqXqdpaa6ECsiIQxW44ye0qAc.jpg" group-title="Filmes | Clássicos", De Volta para o Futuro III (1990)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121334.mp4
 
-#EXTINF:-1 tvg-name="Máquina Quase Mortífera (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sagFSgq5RPU9glBgOEN42AyFnIC.jpg" group-title="Filmes | Clássicos",Máquina Quase Mortífera (1993)
+#EXTINF:-1 tvg-type="movies" tvg-name="Máquina Quase Mortífera (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sagFSgq5RPU9glBgOEN42AyFnIC.jpg" group-title="Filmes | Clássicos", Máquina Quase Mortífera (1993)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121430.mp4
 
-#EXTINF:-1 tvg-name="Máquina Mortífera 2 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmLVl0IJuOuZn5RiyBgxEXQ5cai.jpg" group-title="Filmes | Clássicos",Máquina Mortífera 2 (1989)
+#EXTINF:-1 tvg-type="movies" tvg-name="Máquina Mortífera 2 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmLVl0IJuOuZn5RiyBgxEXQ5cai.jpg" group-title="Filmes | Clássicos", Máquina Mortífera 2 (1989)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121417.mp4
 
-#EXTINF:-1 tvg-name="Máquina Mortífera 3 (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkEX64OnvSNP2HnESRjPuuUsi2F.jpg" group-title="Filmes | Clássicos",Máquina Mortífera 3 (1992)
+#EXTINF:-1 tvg-type="movies" tvg-name="Máquina Mortífera 3 (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkEX64OnvSNP2HnESRjPuuUsi2F.jpg" group-title="Filmes | Clássicos", Máquina Mortífera 3 (1992)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121427.mp4
 
-#EXTINF:-1 tvg-name="Máquina Mortífera 4 (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f2IQoZl2vwT95AaCQz6EgYQ7sL.jpg" group-title="Filmes | Clássicos",Máquina Mortífera 4 (1998)
+#EXTINF:-1 tvg-type="movies" tvg-name="Máquina Mortífera 4 (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f2IQoZl2vwT95AaCQz6EgYQ7sL.jpg" group-title="Filmes | Clássicos", Máquina Mortífera 4 (1998)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121428.mp4
 
-#EXTINF:-1 tvg-name="Os Caça-Fantasmas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RjSQGuqwY2kqpNN7ibono0e1Cc.jpg" group-title="Filmes | Clássicos",Os Caça-Fantasmas (1984)
+#EXTINF:-1 tvg-type="movies" tvg-name="Os Caça-Fantasmas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RjSQGuqwY2kqpNN7ibono0e1Cc.jpg" group-title="Filmes | Clássicos", Os Caça-Fantasmas (1984)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121558.mp4
 
-#EXTINF:-1 tvg-name="Rocky: Um Lutador (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9B1DXcPNsJfTtc4x2LKA3bykoJ.jpg" group-title="Filmes | Clássicos",Rocky: Um Lutador (1976)
+#EXTINF:-1 tvg-type="movies" tvg-name="Rocky: Um Lutador (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9B1DXcPNsJfTtc4x2LKA3bykoJ.jpg" group-title="Filmes | Clássicos", Rocky: Um Lutador (1976)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121625.mp4
 
-#EXTINF:-1 tvg-name="Rocky II: A Revanche (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkZ7uAeA37bLS5cos8w8uEF8K5b.jpg" group-title="Filmes | Clássicos",Rocky II: A Revanche (1979)
+#EXTINF:-1 tvg-type="movies" tvg-name="Rocky II: A Revanche (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkZ7uAeA37bLS5cos8w8uEF8K5b.jpg" group-title="Filmes | Clássicos", Rocky II: A Revanche (1979)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121637.mp4
 
-#EXTINF:-1 tvg-name="Rocky III: O Desafio Supremo (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBNk3DDAEqPXEdDl6XlLEE3U4RR.jpg" group-title="Filmes | Clássicos",Rocky III: O Desafio Supremo (1982)
+#EXTINF:-1 tvg-type="movies" tvg-name="Rocky III: O Desafio Supremo (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBNk3DDAEqPXEdDl6XlLEE3U4RR.jpg" group-title="Filmes | Clássicos",Rocky III: O Desafio Supremo (1982)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121622.mp4
 
-#EXTINF:-1 tvg-name="Rocky IV (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcjJ4SBzdDQcWRPkqkEyYU0Ic1k.jpg" group-title="Filmes | Clássicos",Rocky IV (1985)
+#EXTINF:-1 tvg-type="movies" tvg-name="Rocky IV (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcjJ4SBzdDQcWRPkqkEyYU0Ic1k.jpg" group-title="Filmes | Clássicos", Rocky IV (1985)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121621.mp4
 
-#EXTINF:-1 tvg-name="Rocky V (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMAdgsZd50sARk7EpSRaL34hoMc.jpg" group-title="Filmes | Clássicos",Rocky V (1990)
+#EXTINF:-1 tvg-type="movies" tvg-name="Rocky V (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMAdgsZd50sARk7EpSRaL34hoMc.jpg" group-title="Filmes | Clássicos", Rocky V (1990)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121642.mp4
 
-#EXTINF:-1 tvg-name="Rocky Balboa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74fsV2oCO5fpv4kXgxXQCiRzyAU.jpg" group-title="Filmes | Clássicos",Rocky Balboa (2006)
+#EXTINF:-1 tvg-type="movies" tvg-name="Rocky Balboa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74fsV2oCO5fpv4kXgxXQCiRzyAU.jpg" group-title="Filmes | Clássicos" , Rocky Balboa (2006)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121626.mp4
 
-#EXTINF:-1 tvg-id="" tvg-type="movies"  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="Filmes | Terror",It – A Coisa
+#EXTINF:-1 tvg-type="movies" tvg-name="Independence Day: O Ressurgimento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvFIe1y0GtkDxxVlw2BtMKyXvo0.jpg" group-title="Filmes | Ficção", Independence Day: O Ressurgimento
+http://instagram1.sbs:80/play/E6nHa4WFDJDP1T660NvxVSX9sFeIdmS50Q6VMyuII1BxEsfM9ErmeGza9XQz-cA9
+
+#EXTINF:-1 tvg-type="movies"  tvg-name="O Dia Depois de Amanhã" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsI5ezLUYTWjJ56J3iNWmVSC9fK.jpg" group-title="Filmes | Ficção", O Dia Depois de Amanhã
+http://instagram1.sbs:80/play/E6nHa4WFDJDP1T660NvxVbnb65jvsG7KtTfxTFyR08M0G5xGad9y-RRZCiAVAmrG
+
+#EXTINF:-1 tvg-type="movies" tvg-name="Gigantes de Aço" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pp74uUjwQTknGPqNrerj4FvU0ce.jpg" group-title="Filmes | Ficção", Gigantes de Aço
+http://instagram1.sbs:80/play/E6nHa4WFDJDP1T660NvxVQpBRpqyiCEMpMB40ZmVnZ6wh9j2jA3dFOgNp-NBMbv0
+
+#EXTINF:-1 tvg-type="movies" tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="Filmes | Terror", It – A Coisa
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1396484.mp4
 
-#EXTINF:-1 tvg-id="" tvg-type="movies"  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="Filmes | Terror",It – Capítulo Dois
+#EXTINF:-1 tvg-type="movies"  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="Filmes | Terror", It – Capítulo Dois
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt7349950.mp4
 
 
