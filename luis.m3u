@@ -1613,7 +1613,9 @@ http://4f.rs:80/62202066/60781292/1739355
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 8
 http://sinalprivado.info:80/632035/632035/38001
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 9
-http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8
+http://play.1list.vip/live/listatvs/controliptv/91767.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chaves 10
+http://play.1list.vip/live/listatvs/controliptv/39762.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Familia Dinossauro
 http://sinalprivado.info:80/631981/631981/38025
@@ -1727,6 +1729,8 @@ http://granpirosh.top/live/841866657/c581b7318b/271601.m3u8
 http://srv.polkafood.pl:80/stusv6zyu2/04cxlij31k/83691
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Dragon Ball Z 3
 http://maxut.fun:80/816032972/896140496/2740692.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Dragon Ball Z 4
+http://play.1list.vip/live/listatvs/controliptv/57682.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Family Guy 1
 http://dnscine.top:80/317723243/946629677/202241
