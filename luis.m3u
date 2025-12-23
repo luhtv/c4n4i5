@@ -4,7 +4,7 @@
 ######## Lista criada e organizada a partir de links encontrados na internet, sem quaisquer fins lucrativos
 ####################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="" group-title="📅 Atualizado 18/12/2025",📅 Atualizado 18/12/2025
+#EXTINF:-1 tvg-id="" group-title="📅 Atualizado 23/12/2025",📅 Atualizado 23/12/2025
 http://15.235.9.200:14872/doishomensemeio
 
 ######################################################################## Canais Globo ##############################################################################
@@ -1551,6 +1551,12 @@ http://3021.life/153031299/390936214/968601
 http://dnscine.top:80/317723243/946629677/202271
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 5
 http://sinalprivado.info:80/632035/632035/38004
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 6
+http://maxut.fun:80/816032972/896140496/2745922.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 7
+http://maxut.fun:80/816032972/896140496/3241206.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 8
+http://d1212.com/08142650077/09806312907/35161
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 1
 http://sigcine1.space:80/437934519/854894523/202272.m3u8
@@ -1572,6 +1578,8 @@ http://c4n.fun/903169566/232925360/1739278
 http://sinalprivado.info:80/632035/632035/38018
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 10
 http://d1212.com/08142650077/09806312907/30000
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 11
+http://maxut.fun:80/816032972/896140496/2667675.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Stranger Things
 http://d1212.com/08142650077/09806312907/173201
@@ -1622,6 +1630,8 @@ http://sinalprivado.info:80/631981/631981/38025
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", iCarly 1
 http://4f.rs:80/62202066/60781292/1739308
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", iCarly 2
+http://maxut.fun:80/816032972/896140496/5149271.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Todo Mundo Odeia O Chris 1
 http://play.1list.vip/live/listatvs/controliptv/56467.ts
