@@ -1555,6 +1555,13 @@ http://d1212.com/08142650077/09806312907/35161
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 9
 http://brone.fyi/live/felipe_irma/Teste44/252036.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg" group-title="Canais | Séries 24hrs", Dois Homens e Meio S01-S04
+http://vapnhaja.online/live/8867979873/3428112377/1249297.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg" group-title="Canais | Séries 24hrs", Dois Homens e Meio S05-S08
+http://vapnhaja.online/live/8867979873/3428112377/1249298.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg" group-title="Canais | Séries 24hrs", Dois Homens e Meio S09-S12
+http://vapnhaja.online/live/8867979873/3428112377/1249299.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 1
 http://sigcine1.space:80/437934519/854894523/202272.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 2
@@ -1628,6 +1635,13 @@ http://sinalprivado.info:80/632035/632035/38001
 http://play.1list.vip/live/listatvs/controliptv/91767.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Séries 24hrs", Chaves 10
 http://play.1list.vip/live/listatvs/controliptv/39762.ts
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oRT6Tt9KrpJbtkW7tdUXqshRuXj.jpg" group-title="Canais | Séries 24hrs", Chaves S01-S02
+http://vapnhaja.online/live/8867979873/3428112377/1243526.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oRT6Tt9KrpJbtkW7tdUXqshRuXj.jpg" group-title="Canais | Séries 24hrs", Chaves S03-S04
+http://vapnhaja.online/live/8867979873/3428112377/1243527.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oRT6Tt9KrpJbtkW7tdUXqshRuXj.jpg" group-title="Canais | Séries 24hrs", Chaves S05-S07
+http://vapnhaja.online/live/8867979873/3428112377/1243528.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Séries 24hrs", Chaves T03
 http://brone.fyi/live/felipe_irma/Teste44/260296.m3u8
@@ -1709,6 +1723,8 @@ http://maxut.fun:80/816032972/896140496/5149228.ts
 http://d1212.com/08142650077/09806312907/22050
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Canais | Desenhos 24hrs", Rick And Morty 4
 http://brone.fyi/live/felipe_irma/Teste44/252469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Canais | Desenhos 24hrs", Rick And Morty 5
+http://vapnhaja.online/live/8867979873/3428112377/1242333.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Canais | Desenhos 24hrs", Rick And Morty 1op1
 http://srv.polkafood.pl:80/stusv6zyu2/04cxlij31k/137991
