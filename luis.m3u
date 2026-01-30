@@ -3156,8 +3156,10 @@ http://cdnrez.xyz:80/movie/860094401/919954914/2121621.mp4
 #EXTINF:-1 tvg-type="movies" tvg-name="Rocky V (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMAdgsZd50sARk7EpSRaL34hoMc.jpg" group-title="Filmes | Clássicos", Rocky V (1990)
 http://cdnrez.xyz:80/movie/860094401/919954914/2121642.mp4
 
-#EXTINF:-1 tvg-type="movies" tvg-name="Rocky Balboa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74fsV2oCO5fpv4kXgxXQCiRzyAU.jpg" group-title="Filmes | Clássicos" , Rocky Balboa (2006)
+#EXTINF:-1 tvg-type="movies" tvg-name="Rocky Balboa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74fsV2oCO5fpv4kXgxXQCiRzyAU.jpg" group-title="Filmes | Clássicos" , Rocky Balboa (2006) op1
 http://cdnrez.xyz:80/movie/860094401/919954914/2121626.mp4
+#EXTINF:-1 tvg-type="movies" tvg-name="Rocky Balboa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74fsV2oCO5fpv4kXgxXQCiRzyAU.jpg" group-title="Filmes | Clássicos" , Rocky Balboa (2006) op2
+http://techragdois.space:80/movie/090720634/959666174/5696531.mp4
 
 #EXTINF:-1 tvg-type="movies" tvg-name="Independence Day: O Ressurgimento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvFIe1y0GtkDxxVlw2BtMKyXvo0.jpg" group-title="Filmes | Ficção", Independence Day: O Ressurgimento
 http://instagram1.sbs:80/play/E6nHa4WFDJDP1T660NvxVSX9sFeIdmS50Q6VMyuII1BxEsfM9ErmeGza9XQz-cA9
@@ -3171,7 +3173,31 @@ http://instagram1.sbs:80/play/E6nHa4WFDJDP1T660NvxVQpBRpqyiCEMpMB40ZmVnZ6wh9j2jA
 #EXTINF:-1 tvg-type="movies" tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="Filmes | Terror", It – A Coisa
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1396484.mp4
 
-#EXTINF:-1 tvg-type="movies"  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="Filmes | Terror", It – Capítulo Dois
+#EXTINF:-1 tvg-type="movies" tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="Filmes | Terror", It – Capítulo Dois
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt7349950.mp4
 
 
+#EXTINF:-1 tvg-type="movies" tvg-name="A Hora do Rush 3" tvg-logo="https://image.tmdb.org/t/p/w400/15tifAGNBdy4cLKDXKD2Iam8OkM.jpg" group-title="Filmes | Ação",A Hora do Rush 3
+http://techragdois.space:80/movie/090720634/959666174/5690673.mp4
+#EXTINF:-1 tvg-type="movies" tvg-name="A Hora do Rush 2" tvg-logo="https://image.tmdb.org/t/p/w400/q8tqJRz8MQ5CS0gtlVB1CH12Wvv.jpg" group-title="Filmes | Ação",A Hora do Rush 2
+http://techragdois.space:80/movie/090720634/959666174/5690674.mp4
+#EXTINF:-1 tvg-type="movies" tvg-name="A Hora do Rush" tvg-logo="https://image.tmdb.org/t/p/w400/sdzr7YU2fPoTwjfsO4gN7ri0S5e.jpg" group-title="Filmes | Ação",A Hora do Rush
+http://techragdois.space:80/movie/090720634/959666174/5690675.mp4
+
+#EXTINF:-1 tvg-type="movies" tvg-name="City Hunter: O Caçador de Encrencas" tvg-logo="https://image.tmdb.org/t/p/w400/kiI6SZNweOy7R4l02RUwVu6hVfF.jpg" group-title="Filmes | Ação",City Hunter: O Caçador de Encrencas
+http://techragdois.space:80/movie/090720634/959666174/5691052.mp4
+#EXTINF:-1 tvg-type="movies" tvg-name="Police Story 4: Primeiro Impacto" tvg-logo="https://image.tmdb.org/t/p/w400/isCnmtLE2YnpEadEivtzE5Clhl6.jpg" group-title="Filmes | Ação",Police Story 4: Primeiro Impacto
+http://techragdois.space:80/movie/090720634/959666174/5691040.mp4
+#EXTINF:-1 tvg-type="movies" tvg-name="Mortal Kombat" tvg-logo="https://image.tmdb.org/t/p/w400/44aCR6cjH0FbzW6PMw3Ega178iW.jpg" group-title="Filmes | Ação",Mortal Kombat
+http://techragdois.space:80/movie/090720634/959666174/5696119.mp4
+#EXTINF:-1 tvg-type="movies" tvg-name="Mortal Kombat: A Aniquilação" tvg-logo="https://image.tmdb.org/t/p/w400/rfrpLH39VskMfi9k0JXD36e0jJ5.jpg" group-title="Filmes | Ação",Mortal Kombat: A Aniquilação
+http://techragdois.space:80/movie/090720634/959666174/5696174.mp4
+
+#EXTINF:-1 tvg-type="movies" tvg-name="Guardiões da Galáxia" tvg-logo="https://image.tmdb.org/t/p/w400/xaY92XMToaSnBuvCui3LHzNGqZB.jpg" group-title="Filmes | Marvel",Guardiões da Galáxia
+http://techragdois.space:80/movie/090720634/959666174/5696364.mp4
+
+#EXTINF:-1 tvg-type="movies" tvg-name="Bater ou Correr em Londres" tvg-logo="https://image.tmdb.org/t/p/w400/wJdKfatzJ5IwjD5fMAbu3GdH32C.jpg" group-title="Filmes | Ação",Bater ou Correr em Londres
+http://techragdois.space:80/movie/090720634/959666174/5696551.mp4
+
+#EXTINF:-1 tvg-type="movies" tvg-name="John Wick: Um Novo Dia para Matar" tvg-logo="https://image.tmdb.org/t/p/w400/k36UzsRQaY6E055cdYPdYbyREer.jpg" group-title="Filmes | Ação",John Wick: Um Novo Dia para Matar
+http://techragdois.space:80/movie/090720634/959666174/5696601.mp4
