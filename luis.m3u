@@ -149,8 +149,10 @@ http://granpirosh.top/live/841866657/c581b7318b/244071.m3u8
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP FHD2
 http://nexusp.xyz:80/664386299/d589y9525S/244073
 
-#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP 4K
+#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP 4K1
 http://nexusp.xyz:80/664386299/d589y9525S/244074
+#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP 4K2
+http://cinefull.space:80/live/877436571/518461483/209.m3u8
 
 #######################################################################################################################################################################
 
@@ -295,6 +297,9 @@ http://np.chisl.shop:80/cleberson24/24danbury888BBB/1868
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/7050.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT FHD6
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/16808.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT 4K
+http://cinefull.space:80/live/877436571/518461483/381.m3u8
 
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD1
 http://nexusp.xyz:80/664386299/d589y9525S/746
@@ -1665,6 +1670,8 @@ http://brone.fyi/live/felipe_irma/Teste44/252036.m3u8
 http://play.1list.vip/live/listatvs/controliptv/59100.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 11
 http://trabalho724.top:8080/0nr4h84w/7xsy9wz4/333042
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Dois Homens e Meio 12
+http://cinefull.space:80/live/877436571/518461483/202271.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg" group-title="Canais | Séries 24hrs",Dois Homens e Meio S01-S04
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/1249297
@@ -1708,6 +1715,8 @@ http://ativador.app:80/12345678/12345678/1193766
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/170683.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 15
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/262915.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 16
+http://cinefull.space:80/live/877436571/518461483/202272.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1oODZKc1dpQZvtZPaZVWR11dzEI.jpg" group-title="Canais | Séries 24hrs",The Big Bang Theory S01-S06
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/1249285
@@ -2012,6 +2021,8 @@ http://brone.fyi:80/douglasmorais/dgn2201/303040
 http://15.235.9.200:14978/
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Scoobydoo 2
 http://brone.fyi:80/douglasmorais/dgn2201/252505
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Scoobydoo 3
+http://cinefull.space:80/live/877436571/518461483/202286.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pernalonga 1
 http://play.1list.vip/live/Marcosfp05/nlybdft6fml/57341.ts
@@ -2029,6 +2040,8 @@ http://d1212.com/08142650077/09806312907/21244
 http://d1212.com/08142650077/09806312907/56502
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Desenhos 24hrs", Pica Pau 4
 http://brone.fyi/live/felipe_irma/Teste44/252490.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Desenhos 24hrs", Pica Pau 5
+http://cinefull.space:80/live/877436571/518461483/202305.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Super Choque 1
 http://15.235.9.200:14028
