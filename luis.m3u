@@ -351,6 +351,7 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/6917.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD12
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/16803.m3u8
 
+
 #EXTINF:-1 tvg-id="studio universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | Filmes", Studio Universal HD1
 http://newoneblack.site:80/99941212/6199941212/438196
 #EXTINF:-1 tvg-id="studio universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | Filmes", Studio Universal HD2
@@ -2134,6 +2135,9 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-type="stream" tvg-id="" tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais Música", Rock TV
 https://dri82941jql2y.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn4k.store/logos/CLIPES-24HS.png" group-title="Canais Música",Rock
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/82269.m3u8
 
 #EXTINF:-1 tvg-type="stream" tvg-id="KissTV" tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais Música", Kiss TV
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
