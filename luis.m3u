@@ -85,6 +85,8 @@ http://168.205.87.198:8555/live/1143/123456/19.m3u8
 http://cdntac.xyz:80/732258127/817886644/1108571.ts
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP HD11
 http://udsas.my:80/live/98751818/55956584/1420631.m3u8
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP HD12
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/41530.m3u8
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP FHD1
 http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/107926.m3u8
@@ -192,7 +194,7 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1033726866.m3u8
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gazeta" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | Abertos", TV Gazeta HD1
-
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/60201.m3u8
 
 #EXTINF:-1 tvg-id="tvcultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | Abertos", TV Cultura HD1
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
@@ -357,6 +359,8 @@ http://np.chisl.shop:80/cleberson24/24danbury888BBB/2265
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/6440.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD11
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/10651.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel HD12
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/36930.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD1
 http://newoneblack.site:80/99941212/6199941212/235778
