@@ -4,7 +4,7 @@
 ######## Lista criada e organizada a partir de links encontrados na internet, sem quaisquer fins lucrativos
 ####################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="" group-title="📅 Atualizado 25/02/2025",📅 Atualizado 25/02/2025
+#EXTINF:-1 tvg-id="" group-title="📅 Atualizado 26/02/2025",📅 Atualizado 26/02/2025
 http://maxut.fun:80/816032972/896140496/5149228.ts
 
 ######################################################################## Canais Globo ##############################################################################
@@ -157,12 +157,15 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 http://cdntac.xyz:80/732258127/817886644/1108521.ts
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP HD5
 http://nexusp.xyz:80/664386299/d589y9525S/244075
-
+#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP HD6
+http://udsas.my:80/live/98751818/55956584/808728.m3u8
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP FHD1
 http://granpirosh.top/live/841866657/c581b7318b/244071.m3u8
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP FHD2
 http://nexusp.xyz:80/664386299/d589y9525S/244073
+#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP FHD3
+http://udsas.my:80/live/98751818/55956584/808727.m3u8
 
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RecordTv", RecordTV SP 4K1
 http://nexusp.xyz:80/664386299/d589y9525S/244074
@@ -193,8 +196,12 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvcultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | Abertos", TV Cultura HD1
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="tvcultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | Abertos", TV Cultura HD2
+http://udsas.my:80/live/98751818/55956584/804832.m3u8
 #EXTINF:-1 tvg-id="tvcultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | Abertos", TV Cultura FHD1
-
+http://udsas.my:80/live/98751818/55956584/804831.m3u8
+#EXTINF:-1 tvg-id="tvcultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | Abertos", TV Cultura FHD2
+http://udsas.my:80/live/98751818/55956584/805446.m3u8
 
 
 
@@ -422,6 +429,10 @@ http://newoneblack.site:80/99941212/6199941212/438045
 http://brone.fyi:80/douglasmorais/dgn2201/5233
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | Telecine", Telecine Action FHD5
 http://fonte.lista.luxe:80/Thiagosstv/7ECkbwL1GT/3784
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | Telecine", Telecine Action FHD6
+http://udsas.my:80/live/98751818/55956584/804794.m3u8
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | Telecine", Telecine Action FHD7
+http://udsas.my:80/live/98751818/55956584/805437.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | Telecine", Telecine Cult HD1
 http://newoneblack.site:80/99941212/6199941212/235804
@@ -440,6 +451,10 @@ http://granpirosh.top/live/841866657/c581b7318b/620.m3u8
 http://newoneblack.site:80/99941212/6199941212/438051
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | Telecine", Telecine Cult FHD5
 http://brone.fyi:80/douglasmorais/dgn2201/22607
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | Telecine", Telecine Cult FHD6
+http://udsas.my:80/live/98751818/55956584/804797.m3u8
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | Telecine", Telecine Cult FHD7
+http://udsas.my:80/live/98751818/55956584/805438.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | Telecine", Telecine Fun HD1
 http://newoneblack.site:80/99941212/6199941212/235801
@@ -456,6 +471,10 @@ http://granpirosh.top/live/841866657/c581b7318b/625.m3u8
 http://newoneblack.site:80/99941212/6199941212/438057
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | Telecine", Telecine Fun FHD4
 http://brone.fyi:80/douglasmorais/dgn2201/5232
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | Telecine", Telecine Fun FHD5
+http://udsas.my:80/live/98751818/55956584/804800.m3u8
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | Telecine", Telecine Fun FHD6
+http://udsas.my:80/live/98751818/55956584/805439.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | Telecine", Telecine Pipoca HD1
 http://newoneblack.site:80/99941212/6199941212/235798
@@ -474,6 +493,10 @@ http://granpirosh.top/live/841866657/c581b7318b/630.m3u8
 http://newoneblack.site:80/99941212/6199941212/438063
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | Telecine", Telecine Pipoca FHD4
 http://brone.fyi:80/douglasmorais/dgn2201/5231
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | Telecine", Telecine Pipoca FHD5
+http://udsas.my:80/live/98751818/55956584/804803.m3u8
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | Telecine", Telecine Pipoca FHD7
+http://udsas.my:80/live/98751818/55956584/805440.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | Telecine", Telecine Premium HD1
 http://newoneblack.site:80/99941212/6199941212/235795
@@ -492,6 +515,10 @@ http://brone.fyi:80/douglasmorais/dgn2201/5230
 http://granpirosh.top/live/841866657/c581b7318b/635.m3u8
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | Telecine", Telecine Premium FHD4
 http://newoneblack.site:80/99941212/6199941212/438069
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | Telecine", Telecine Premium FHD5
+http://udsas.my:80/live/98751818/55956584/804806.m3u8
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | Telecine", Telecine Premium FHD6
+http://udsas.my:80/live/98751818/55956584/805441.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | Telecine", Telecine Touch HD1
 http://newoneblack.site:80/99941212/6199941212/235792
@@ -510,6 +537,10 @@ http://granpirosh.top/live/841866657/c581b7318b/589.m3u8
 http://newoneblack.site:80/99941212/6199941212/438075
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | Telecine", Telecine Touch FHD5
 http://brone.fyi:80/douglasmorais/dgn2201/5229
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | Telecine", Telecine Touch FHD6
+http://udsas.my:80/live/98751818/55956584/804809.m3u8
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | Telecine", Telecine Touch FHD7
+http://udsas.my:80/live/98751818/55956584/805442.m3u8
 
 #######################################################################################################################################################################
 
