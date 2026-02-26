@@ -320,6 +320,10 @@ http://newoneblack.site:80/99941212/6199941212/235789
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13040.ts
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT HD4
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/34826.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT HD5
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/36934.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT HD6
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/37035.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes", TNT FHD1
 http://newoneblack.site:80/99941212/6199941212/438212
@@ -1085,6 +1089,10 @@ http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18659.ts
 http://brone.fyi:80/douglasmorais/dgn2201/5012
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV", SporTV HD11
 http://techragdois.space:80/090720634/959666174/805.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV", SporTV HD12
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/37256.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV", SporTV HD12
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/37255.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV", SporTV FHD1
 http://ncplay.fun:80/1712382516/5246361986/4720059
@@ -1130,6 +1138,10 @@ http://ncplay.fun:80/1712382516/5246361986/4719069
 http://lvbx2.top:80/ros1234/asd203040/85647
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV", SporTV 2 HD6
 http://play.1list.vip/live/listatvs/controliptv/37044.ts
+#EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV", SporTV 2 HD7
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/37044.m3u8
+#EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV", SporTV 2 HD8
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/36943.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV", SporTV 2 FHD1
 http://brone.fyi:80/douglasmorais/dgn2201/5042
