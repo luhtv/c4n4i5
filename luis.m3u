@@ -90,6 +90,8 @@ http://lvbx2.top:80/ros1234/asd203040/102793
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/1878
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP FHD8
 http://sinalprivado.info:80/632035/632035/17000
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band", Band SP FHD9
+http://play.listapro.top:80/onbkqbje/20pWqn3X4f/604923
 
 ####################################################################################################################################################################
 
@@ -375,6 +377,8 @@ http://udsas.my:80/live/98751818/55956584/804761.m3u8
 http://udsas.my:80/live/98751818/55956584/805426.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD15
 http://sinalprivado.info:80/632035/632035/13051
+#EXTINF:-1 tvg-id="WarnerChannel" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | Filmes", Warner Channel FHD16
+http://azbox.online:80/656512383/372533690/773933
 
 #EXTINF:-1 tvg-id="studio universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | Filmes", Studio Universal HD1
 http://newoneblack.site:80/99941212/6199941212/438196
@@ -1812,11 +1816,21 @@ http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/304491.m3u8
 http://udsas.my:80/live/98751818/55956584/805011.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 5
 http://udsas.my:80/live/98751818/55956584/805566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 6
+http://sinalprivado.info:80/632035/632035/23001
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 7
+http://sinalprivado.info:80/632035/632035/23000
+
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD1
+http://sinalprivado.info:80/632035/632035/23010
 
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD 1
 http://udsas.my:80/live/98751818/55956584/805020.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD 2
 http://udsas.my:80/live/98751818/55956584/805569.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD 3
+http://sinalprivado.info:80/632035/632035/23009
+
 
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD 1
 http://udsas.my:80/live/98751818/55956584/805023.m3u8
@@ -2012,6 +2026,8 @@ http://play.1list.vip/live/8gZav5kQe2/duoiptv/985646.m3u8
 http://play.1list.vip/live/8gZav5kQe2/duoiptv/985675.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 21
 http://sinalprivado.info:80/631981/631981/38018
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Séries 24hrs", The Big Bang Theory 22
+http://azbox.online:80/656512383/372533690/11541
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1oODZKc1dpQZvtZPaZVWR11dzEI.jpg" group-title="Canais | Séries 24hrs",The Big Bang Theory S01-S06
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/1249285
@@ -2058,6 +2074,8 @@ http://play.1list.vip/live/8gZav5kQe2/duoiptv/985932.m3u8
 http://play.1list.vip/live/8gZav5kQe2/duoiptv/985692.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 10
 http://sinalprivado.info:80/631981/631981/38002
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Séries 24hrs", Chapolin 11
+http://azbox.online:80/656512383/372533690/11524
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nuOrzFX2UrfCFWDKE6sBdugoKeP.jpg" group-title="Canais | Séries 24hrs",Chapolin Colorado S01-S02
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/1243523
@@ -2105,6 +2123,8 @@ http://play.1list.vip/live/8gZav5kQe2/duoiptv/985933.m3u8
 http://play.1list.vip/live/8gZav5kQe2/duoiptv/985693.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Séries 24hrs", Chaves 19
 http://sinalprivado.info:80/631981/631981/38001
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Séries 24hrs", Chaves 20
+http://azbox.online:80/656512383/372533690/11523
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oRT6Tt9KrpJbtkW7tdUXqshRuXj.jpg" group-title="Canais | Séries 24hrs", Chaves S01-S02
 http://vapnhaja.online/live/8867979873/3428112377/1243526.m3u8
@@ -2230,6 +2250,8 @@ http://vapnhaja.online/live/8867979873/3428112377/1242333.m3u8
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242333
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Canais | Desenhos 24hrs", Rick And Morty 7
 http://play.1list.vip/live/8gZav5kQe2/duoiptv/985861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Canais | Desenhos 24hrs", Rick And Morty 8
+http://newoneblue.site:80/65793718/43188267/810382
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="Canais | Desenhos 24hrs", Rick And Morty 1op1
 http://srv.polkafood.pl:80/stusv6zyu2/04cxlij31k/137991
@@ -2386,6 +2408,8 @@ http://maxut.fun:80/816032972/896140496/3241198.ts
 http://d1212.com/08142650077/09806312907/22063
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Desenhos 24hrs", Tom e Jerry 4
 http://brone.fyi/live/felipe_irma/Teste44/310166.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Desenhos 24hrs", Tom e Jerry 5
+http://newoneblue.site:80/65793718/43188267/810388
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Os Pinguins de Madagascar 
 http://brone.fyi:80/douglasmorais/dgn2201/303040
@@ -2398,6 +2422,8 @@ http://brone.fyi:80/douglasmorais/dgn2201/252505
 http://cinefull.space:80/live/877436571/518461483/202286.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Scoobydoo 4
 http://play.1list.vip/live/8gZav5kQe2/duoiptv/985991.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Scoobydoo 5
+http://newoneblue.site:80/65793718/43188267/810383
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Pernalonga 1
 http://play.1list.vip/live/Marcosfp05/nlybdft6fml/57341.ts
@@ -2419,6 +2445,8 @@ http://brone.fyi/live/felipe_irma/Teste44/252490.m3u8
 http://cinefull.space:80/live/877436571/518461483/202305.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Desenhos 24hrs", Pica Pau 6
 http://play.1list.vip/live/8gZav5kQe2/duoiptv/985995.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="Canais | Desenhos 24hrs", Pica Pau 7
+http://newoneblue.site:80/65793718/43188267/810377
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | Desenhos 24hrs", Super Choque 1
 http://15.235.9.200:14028
