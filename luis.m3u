@@ -1832,6 +1832,8 @@ http://sinalprivado.info:80/632035/632035/23000
 
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD1
 http://sinalprivado.info:80/632035/632035/23010
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD2
+http://148.113.160.48:14142
 
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD 1
 http://udsas.my:80/live/98751818/55956584/805020.m3u8
