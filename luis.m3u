@@ -1869,19 +1869,13 @@ http://udsas.my:80/live/98751818/55956584/804983.m3u8
 ######################################################################## CANAIS VARIEDADES ##############################################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 1
-http://190.216.158.199:8000/play/a00h/index.m3u8
+http://sinalprivado.info:80/632035/632035/23000
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 2
-http://applazer.online:80/JOAO82975954/4180734012/188643
+http://sinalprivado.info:80/632035/632035/23001
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 3
-http://netclarowifisp.org:80/21mm5vzopw/zv1u5y9o21/304491.m3u8
+http://udsas.my:80/live/98751818/55956584/805566.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 4
 http://udsas.my:80/live/98751818/55956584/805011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 5
-http://udsas.my:80/live/98751818/55956584/805566.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 6
-http://sinalprivado.info:80/632035/632035/23001
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 7
-http://sinalprivado.info:80/632035/632035/23000
 
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD1
 http://sinalprivado.info:80/632035/632035/23010
@@ -1895,25 +1889,12 @@ http://udsas.my:80/live/98751818/55956584/805569.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD 3
 http://sinalprivado.info:80/632035/632035/23009
 
-
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD 1
 http://udsas.my:80/live/98751818/55956584/805023.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD 2
 http://udsas.my:80/live/98751818/55956584/805570.m3u8
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canais | Variados",Xtrema Animal
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
-
-
-
 #######################################################################################################################################################################
-
-
-
-######################################################################## CANAIS NOTICIAS ##############################################################################
-#######################################################################################################################################################################
-
-
 
 ######################################################################### Canais Desenhos #############################################################################
 
@@ -1977,30 +1958,6 @@ http://sigcine1.space:80/374897485/789272274/126.ts
 
 #######################################################################################################################################################################
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sYeBbEYNRL2SgSpr97lhuHU6OqT.jpg" group-title="FILMES  24hrs",Rambo: Coleção
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242330
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kP1M00dSffxGqzXir9ITgaSNxcK.jpg" group-title="FILMES  24hrs",Matrix: Coleção
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242291
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5m8RGRYDhnR6TQANkePx9lrv8fG.jpg" group-title="FILMES  24hrs", Harry Potter: Coleção
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242274
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cpz0qga.jpeg" group-title="FILMES  24hrs",Guerra
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242273
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cpz0qga.jpeg" group-title="FILMES  24hrs",Comédia
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oOR7BNzyYdkl3ugSAkcFYJXOID5.jpg" group-title="FILMES  24hrs",Esqueceram de Mim: Coleção
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242262
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/if5xIGg503peo157ZtQY8fIzMEl.jpg" group-title="FILMES  24hrs",Homem-Aranha: Coleção
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242279
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bj2y7PABBBzrI1POZFtqPwYJA4m.jpg" group-title="FILMES  24hrs",Velozes & Furiosos: Coleção
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242378
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oGEenSmUimQcZyMjkpPilPweaPF.jpg" group-title="FILMES  24hrs",Piratas do Caribe: Coleção
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242323
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9x5456lykdCQTbwN6cVoU3gQsZp.jpg" group-title="FILMES  24hrs",O Senhor dos Anéis: Coleção
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242304
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oXbLMPP9ALGKdOOFi3fNnjBT4z8.jpg" group-title="FILMES  24hrs",O Hobbit: Coleção
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242300
-
 ######################################################################### 24hr Séries #################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Dois Homens e Meio 1
@@ -2023,12 +1980,6 @@ http://d1212.com/08142650077/09806312907/35161
 http://7voahoje.top:8080/live/muniqueiribeiibpt1/41a7nyvk/333042.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Dois Homens e Meio 10
 http://lmdns.online:80/4x6cXF/ehfxdp/507940.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs",Dois Homens e Meio S01-S04
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1249297
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs",Dois Homens e Meio S05-S08
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1249298
-
 
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", The Big Bang Theory 1
 http://sigcine1.space:80/437934519/854894523/202272.m3u8
@@ -2094,14 +2045,6 @@ http://udsas.my:80/live/98751818/55956584/808735.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Chapolin 8
 http://play.1list.vip/live/8gZav5kQe2/duoiptv/985932.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs",Chapolin Colorado S01-S02
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1243523
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs",Chapolin Colorado S03-S04
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1243524
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs",Chapolin Colorado S05-S07
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1243525
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", Chaves 1
 http://azbox.online:80/656512383/372533690/11523
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", Chaves 2
@@ -2127,13 +2070,6 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/235290.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", Chaves 12
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/170664.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oRT6Tt9KrpJbtkW7tdUXqshRuXj.jpg" group-title="SÉRIES 24hrs", Chaves S01-S02
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1243526
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oRT6Tt9KrpJbtkW7tdUXqshRuXj.jpg" group-title="SÉRIES 24hrs", Chaves S03-S04
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1243527
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oRT6Tt9KrpJbtkW7tdUXqshRuXj.jpg" group-title="SÉRIES 24hrs", Chaves S05-S07
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1243528
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Familia Dinossauro 1
 http://sinalprivado.info:80/631981/631981/38025
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Familia Dinossauro 2
@@ -2141,17 +2077,8 @@ http://udsas.my:80/live/98751818/55956584/808758.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Familia Dinossauro 3
 http://lmdns.online:80/4x6cXF/ehfxdp/507944.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", iCarly 1
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", iCarly 
 http://lmdns.online:80/4x6cXF/ehfxdp/507975.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", iCarly 2
-
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", iCarly 3
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kP8Z51s9D8tiGnoRbL88db0e2jv.jpg" group-title="SÉRIES 24hrs",iCarly S01-S02
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1249230
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kP8Z51s9D8tiGnoRbL88db0e2jv.jpg" group-title="SÉRIES 24hrs",iCarly S03-S05
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1249231
 
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", Todo Mundo Odeia O Chris 1
 http://play.1list.vip/live/8gZav5kQe2/duoiptv/985644.m3u8
@@ -2170,11 +2097,6 @@ http://udsas.my:80/live/98751818/55956584/808747.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", Todo Mundo Odeia O Chris 8
 http://lmdns.online:80/4x6cXF/ehfxdp/507955.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dXyy1e3TJ5ut6DRCrQQT3TcsrGU.jpg" group-title="SÉRIES 24hrs",Todo Mundo Odeia o Chris S01-S02
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1249216
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dXyy1e3TJ5ut6DRCrQQT3TcsrGU.jpg" group-title="SÉRIES 24hrs",Todo Mundo Odeia o Chris S03-S04
-http://np.chisl.shop:80/cleberson24/24danbury888BBB/1249217
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Eu a Patroa e as Crianças 1
 http://15.235.9.200:14908/eu-a-patroa-e-as-criancas
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Eu a Patroa e as Crianças 2
@@ -2190,34 +2112,19 @@ http://udsas.my:80/live/98751818/55956584/808741.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/507959.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Mr Bean 1
-http://dnscine.top:80/317723243/946629677/202239
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Mr Bean 2
 http://3021.life/153031299/390936214/968611
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Mr Bean 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Mr Bean 2
 http://d1212.com/08142650077/09806312907/17711
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Mr Bean 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Mr Bean 3
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/155114.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Smallville 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Smallville
 http://15.235.9.200:14021
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Smallville 2
-http://play.1list.vip/live/Marcosfp05/nlybdft6fml/65256.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Supernatural
 http://15.235.9.200:14022/supernatural
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Pegadinhas Americanas
-http://play.1list.vip/live/listatvs/controliptv/132050.ts
-
 #######################################################################################################################################################################
-
-
-
-############################################################################## 24hr Filmes ############################################################################
-#######################################################################################################################################################################
-
-
-
 
 ######################################################################### 24hr Desenhos ###############################################################################
 
