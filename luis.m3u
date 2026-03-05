@@ -1,12 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml,https://git.github.com/micdouglas/486f35eefa2274fa8ec0ce2e3362ec8d#file-epg-tv-a-cabo-xml"
-
 ####################################################################### INFORMAÇÕES ################################################################################
 ######## Lista criada e organizada a partir de links encontrados na internet, sem quaisquer fins lucrativos
 ####################################################################################################################################################################
-
 #EXTINF:-1 tvg-id="" group-title="📅 Atualizado 05/03/2025",📅 Atualizado 05/03/2025
 http://maxut.fun:80/816032972/896140496/5149228.ts
-
 ######################################################################## Canais Globo ##############################################################################
 
 #EXTINF:-1 tvg-id="globo sp" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="GLOBO", Globo SP HD1
@@ -1363,15 +1360,6 @@ http://ncplay.fun:80/1712382516/5246361986/7838757
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV", Disney+ 10
 http://ncplay.fun:80/1712382516/5246361986/7838758
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="Canais | PPV",Brasileirão Canal 1
-https://cr7v.short.gy/Canal1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="Canais | PPV",Brasileirão Canal 2
-https://cr7v.short.gy/Canal2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="Canais | PPV",Brasileirão Canal 3
-https://cr7v.short.gy/Canal3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="Canais | PPV",Brasileirão Canal 4
-https://cr7v.short.gy/Canal4/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV", Max 1op1
 http://ncplay.fun:80/1712382516/5246361986/6526142
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV", Max 1op2
@@ -1525,12 +1513,6 @@ http://udsas.my:80/live/98751818/55956584/805009.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1DnqGWV.png" group-title="Canais | PPV",ELEVEN SPORTS 3
 http://udsas.my:80/live/98751818/55956584/805010.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wW2FygV.png" group-title="Canais | PPV",FORMULA 1 TV
-http://udsas.my:80/live/98751818/55956584/805007.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/furacaolive.png" group-title="Canais | PPV",Furacão TV
-http://udsas.my:80/live/98751818/55956584/805006.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/nossofutebol.png" group-title="Canais | PPV",Nosso Futebol 01
 http://udsas.my:80/live/98751818/55956584/804990.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/nossofutebol.png" group-title="Canais | PPV",Nosso Futebol 02
@@ -1547,33 +1529,19 @@ http://udsas.my:80/live/98751818/55956584/805272.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/nsports.png" group-title="Canais | PPV",NSports SD
 http://udsas.my:80/live/98751818/55956584/805273.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DkmiaX7.png" group-title="Canais | PPV",PapãoTV
-http://udsas.my:80/live/98751818/55956584/805282.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RJ0zvXe.png" group-title="Canais | PPV",Paulistão
-http://udsas.my:80/live/98751818/55956584/805002.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8xs3GlH.png" group-title="Canais | PPV",Remo TV
-http://udsas.my:80/live/98751818/55956584/805281.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/ufcfightpass.png" group-title="Canais | PPV",UFC Fight Pass 1 (reprises)
-http://udsas.my:80/live/98751818/55956584/804981.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/ufcfightpass.png" group-title="Canais | PPV",UFC Fight Pass 2 (ao vivo)
-http://udsas.my:80/live/98751818/55956584/804982.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/ufcfightpass.png" group-title="Canais | PPV",UFC Fight Pass 3 (ao vivo)
-http://udsas.my:80/live/98751818/55956584/804983.m3u8
-
-
 #######################################################################################################################################################################
 
 
 
 ######################################################################## CANAIS VARIEDADES ##############################################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 1
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 1
 http://sinalprivado.info:80/632035/632035/23000
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 2
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 2
 http://sinalprivado.info:80/632035/632035/23001
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 3
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 3
 http://udsas.my:80/live/98751818/55956584/805566.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 4
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="Canais | Documentários", Animal Planet 4
 http://udsas.my:80/live/98751818/55956584/805011.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD1
@@ -1592,68 +1560,6 @@ http://sinalprivado.info:80/632035/632035/23009
 http://udsas.my:80/live/98751818/55956584/805023.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD 2
 http://udsas.my:80/live/98751818/55956584/805570.m3u8
-
-#######################################################################################################################################################################
-
-######################################################################### Canais Desenhos #############################################################################
-
-#EXTINF:-1 tvg-id="ADULTSWIM" tvg-logo="https://thumbs4.imagebam.com/44/f9/80/MEVL3YT_t.png" group-title="Canais | Desenhos", ADULT SWIM HD1
-http://45.235.0.78/ADULTSWIM-HD/index.m3u8
-#EXTINF:-1 tvg-id="ADULTSWIM" tvg-logo="https://thumbs4.imagebam.com/44/f9/80/MEVL3YT_t.png" group-title="Canais | Desenhos", ADULT SWIM FHD1
-http://granpirosh.top/live/841866657/c581b7318b/376344.m3u8
-#EXTINF:-1 tvg-id="ADULTSWIM" tvg-logo="https://thumbs4.imagebam.com/44/f9/80/MEVL3YT_t.png" group-title="Canais | Desenhos", ADULT SWIM FHD2
-
-
-#EXTINF:-1 tvg-id="TOONCAST" tvg-logo="https://thumbs4.imagebam.com/ab/ee/fb/MEVPS1P_t.png" group-title="Canais | Desenhos", Tooncast HD1
-http://sigcine1.space:80/374897485/789272274/436.ts
-
-#EXTINF:-1 tvg-id="TOONCAST" tvg-logo="https://thumbs4.imagebam.com/ab/ee/fb/MEVPS1P_t.png" group-title="Canais | Desenhos", Tooncast HD2
-http://185.236.183.117:14712
-
-#EXTINF:-1 tvg-id="TOONCAST" tvg-logo="https://thumbs4.imagebam.com/ab/ee/fb/MEVPS1P_t.png" group-title="Canais | Desenhos", Tooncast FHD
-http://185.236.183.117:14713
-
-#EXTINF:-1 tvg-id="DiscoveryKids" tvg-logo="https://thumbs4.imagebam.com/12/b4/e2/MEVPS1S_t.png" group-title="Canais | Desenhos", Discovery Kids HD
-http://sigcine1.space:80/374897485/789272274/31.ts
-
-#EXTINF:-1 tvg-id="DiscoveryKids" tvg-logo="https://thumbs4.imagebam.com/12/b4/e2/MEVPS1S_t.png" group-title="Canais | Desenhos", Discovery Kids FHD
-http://sigcine1.space:80/374897485/789272274/30.ts
-
-#EXTINF:-1 tvg-id="DiscoveryKids" tvg-logo="https://thumbs4.imagebam.com/a9/a0/c1/MEVQI6S_t.png" group-title="Canais | Desenhos", Cartoon Network HD1
-
-
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://thumbs4.imagebam.com/a9/a0/c1/MEVQI6S_t.png" group-title="Canais | Desenhos", Cartoon Network HD2
-http://sigcine1.space:80/374897485/789272274/17.ts
-
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://thumbs4.imagebam.com/a9/a0/c1/MEVQI6S_t.png" group-title="Canais | Desenhos", Cartoon Network FHD1
-http://sigcine1.space:80/374897485/789272274/16.ts
-
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-logo="https://thumbs4.imagebam.com/d9/99/ee/MEVQI6T_t.png" group-title="Canais | Desenhos", CARTOONITO SD
-http://sigcine1.space:80/374897485/789272274/607.ts
-
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-logo="https://thumbs4.imagebam.com/d9/99/ee/MEVQI6T_t.png" group-title="Canais | Desenhos", CARTOONITO HD
-http://sigcine1.space:80/374897485/789272274/275.ts
-
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-logo="https://thumbs4.imagebam.com/d9/99/ee/MEVQI6T_t.png" group-title="Canais | Desenhos", CARTOONITO FHD
-http://sigcine1.space:80/374897485/789272274/295.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbs4.imagebam.com/aa/5c/9e/MEVQI9V_t.png" group-title="Canais | Desenhos", Gloob SD
-http://sigcine1.space:80/374897485/789272274/647.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbs4.imagebam.com/aa/5c/9e/MEVQI9V_t.png" group-title="Canais | Desenhos", Gloob HD
-http://sigcine1.space:80/374897485/789272274/67.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbs4.imagebam.com/aa/5c/9e/MEVQI9V_t.png" group-title="Canais | Desenhos", Gloob FHD
-http://sigcine1.space:80/374897485/789272274/66.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbs4.imagebam.com/54/a7/81/MEVQI9W_t.png" group-title="Canais | Desenhos", Gloobinho HD
-http://sigcine1.space:80/374897485/789272274/69.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbs4.imagebam.com/54/a7/81/MEVQI9W_t.png" group-title="Canais | Desenhos", Gloobinho FHD
-http://sigcine1.space:80/374897485/789272274/68.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbs4.imagebam.com/19/84/de/MEVQI9X_t.png" group-title="Canais | Desenhos", TV RA TIM BUM HD2
-http://sigcine1.space:80/374897485/789272274/126.ts
 
 #######################################################################################################################################################################
 
@@ -1982,42 +1888,6 @@ http://sinalprivado.info:80/631981/631981/38005
 #######################################################################################################################################################################
 
 
-
-##################################################################### MÚSICAS #########################################################################################
-
-#EXTINF:-1 tvg-type="stream" tvg-id="" tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais Música", Vevo Retrô Rock
-https://amg00056-vevotv-vevoretrorockau-samsungau-k2qqz.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-type="stream" tvg-id="" tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais Música", Rock 1
-https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-type="stream" tvg-id="" tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais Música", Rock 2
-http://ap4x.online/live/ONNEPLAY/0511605511/3787438
-
-#EXTINF:-1 tvg-type="stream" tvg-id="" tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais Música", Rock 3
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/82269.m3u8
-
-#EXTINF:-1 tvg-type="stream" tvg-id="" tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais Música", Rock X Metal
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-
-#EXTINF:-1 tvg-type="stream" tvg-id="" tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais Música", Rock TV
-https://dri82941jql2y.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn4k.store/logos/CLIPES-24HS.png" group-title="Canais Música",Rock
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/82269.m3u8
-
-#EXTINF:-1 tvg-type="stream" tvg-id="KissTV" tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais Música", Kiss TV
-https://isaocorp.cloudecast.com/kisstv/index.m3u8
-
-#EXTINF:-1 tvg-type="stream" tvg-id="NOW 70'S" tvg-logo="https://imgur.com/GPVWbZ3.png" group-title="Canais Música", NOW 70'S
-https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-type="stream" tvg-id="NOW 80'S" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f2f3955f5568ccb7a50191500b090cbb.webp" group-title="Canais Música", NOW 80's
-https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-type="stream" tvg-id="NOW 90'S" tvg-logo="https://imgur.com/iaL601z.png" group-title="Canais Música", NOW 90'S
-https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
-
 #######################################################################################################################################################################
 
 
@@ -2062,9 +1932,6 @@ http://play.1list.vip/live/Marcosfp05/nlybdft6fml/139196.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Shows",Linkin Park
 http://ativador.app:80/12345678/12345678/1275037
-
-
-
 
 ###################################################################### RADIOS #########################################################################################
 
