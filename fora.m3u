@@ -429,6 +429,51 @@ http://ncplay.fun:80/1712382516/5246361986/4719450
 #EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SPORTV", SporTV 3 FHD7
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18661.ts
 
+#Formula 1 TV
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png",Fórmula 1 TV1
+http://ncplay.fun:80/1712382516/5246361986/7854545
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png" group-title="Canais | Formula 1",Fórmula 1 TV4
+http://ncplay.fun:80/1712382516/5246361986/7854546
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png" group-title="Canais | Formula 1",Fórmula 1 TV5
+http://brone.fyi:80/douglasmorais/dgn2201/195359
+
+#BANDSPORTS 
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="ESPORTES", Band Sports HD1
+http://ncplay.fun:80/1712382516/5246361986/4719007
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="ESPORTES", Band Sports HD3
+https://canais.fazoeli.co.za/secret_key/8493c0777198019c90c8481bf11324cb.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="ESPORTES", Band Sports HD4
+http://ncplay.fun:80/1712382516/5246361986/7839399
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="ESPORTES", Band Sports HD5
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8662
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="ESPORTES", Band Sports FHD1
+http://ncplay.fun:80/1712382516/5246361986/7839398
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="ESPORTES", Band Sports FHD2
+http://saga10.pro:80/461077/339128/2909058
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="ESPORTES", Band Sports FHD3
+http://ncplay.fun:80/1712382516/5246361986/4720051
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="ESPORTES", Band Sports FHD4
+http://ncplay.fun:80/1712382516/5246361986/4719386
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="ESPORTES", Band Sports FHD5
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131128
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="LUTA PPV", Combate HD1
+http://ncplay.fun:80/1712382516/5246361986/6775637
+#EXTINF:-1 tvg-id="COMBATE" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="LUTA PPV", Combate HD2
+http://ncplay.fun:80/1712382516/5246361986/4719393
+#EXTINF:-1 tvg-id="COMBATE" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="LUTA PPV", Combate HD3
+http://79.127.238.233:14408/
+#EXTINF:-1 tvg-id="COMBATE" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="LUTA PPV", Combate HD5
+http://cdntac.xyz:80/732258127/817886644/38277.ts
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="LUTA PPV", Combate FHD1
+http://ncplay.fun:80/1712382516/5246361986/6775636
+#EXTINF:-1 tvg-id="COMBATE" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="LUTA PPV", Combate FHD2
+http://ncplay.fun:80/1712382516/5246361986/4719572
+#EXTINF:-1 tvg-id="COMBATE" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="LUTA PPV", Combate FHD5
+http://ncplay.fun:80/1712382516/5246361986/4720067
+
 #FILMES 24 HORAS
 #EXTINF:-1 tvg-id="" tvg-logo="", Rambo: Coleção
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242330
