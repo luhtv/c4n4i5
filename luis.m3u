@@ -67,6 +67,10 @@ http://sinalprivado.info:80/632035/632035/17001
 http://fonte.lista.luxe:80/Thiagosstv/7ECkbwL1GT/4067
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="BAND", Band SP HD11
 http://lmdns.online:80/4x6cXF/ehfxdp/89823.m3u8
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="BAND", Band SP HD12
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/6640.m3u8
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="BAND", Band SP HD13
+http://pressrle.lat/live/52145784/453930/1513.m3u8
 
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="BAND", Band SP FHD1
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/10869.m3u8
@@ -90,6 +94,10 @@ http://play.listapro.top:80/onbkqbje/20pWqn3X4f/604923
 http://fonte.lista.luxe:80/Thiagosstv/7ECkbwL1GT/4759
 #EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="BAND", Band SP FHD10
 http://kabra22.com:80/live/adilsoncarlos39/Ppan095722/83769.ts
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="BAND", Band SP FHD12
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/10869.m3u8
+#EXTINF:-1 tvg-id="band" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="BAND", Band SP FHD13
+http://pressrle.lat/live/52145784/453930/1625.m3u8
 
 ####################################################################################################################################################################
 
@@ -115,6 +123,9 @@ http://sinalprivado.info:80/632035/632035/17040
 http://fonte.lista.luxe:80/Thiagosstv/7ECkbwL1GT/3824
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT HD10
 http://lmdns.online:80/4x6cXF/ehfxdp/90296.m3u8
+#EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT HD11
+http://pressrle.lat/live/52145784/453930/753618.m3u8
+
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT FHD1
 http://lvbx2.top:80/ros1234/asd203040/91854
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT FHD2
@@ -125,6 +136,8 @@ http://udsas.my:80/live/98751818/55956584/804867.m3u8
 http://sinalprivado.info:80/632035/632035/17039
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT FHD5
 http://fonte.lista.luxe:80/Thiagosstv/7ECkbwL1GT/4817
+#EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT FHD6
+http://pressrle.lat/live/52145784/453930/339466.m3u8
 
 ###################################################################################################################################################################
 
@@ -150,6 +163,8 @@ http://nexusp.xyz:80/664386299/d589y9525S/244073
 http://sinalprivado.info:80/632035/632035/27060
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="RECORD TV", RecordTV SP FHD3
 http://fonte.lista.luxe:80/Thiagosstv/7ECkbwL1GT/4813
+#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="RECORD TV", RecordTV SP FHD4
+http://pressrle.lat/live/52145784/453930/3194244.m3u8
 
 #######################################################################################################################################################################
 
@@ -812,6 +827,8 @@ http://sinalprivado.info:80/632035/632035/20001
 http://nexusp.xyz:80/664386299/d589y9525S/494
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes HD7
 http://nexusp.xyz:80/664386299/d589y9525S/492
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes HD8
+http://pressrle.lat/live/52145784/453930/327390.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes FHD1
 http://newoneblack.site:80/99941212/6199941212/236242
@@ -831,6 +848,10 @@ http://lvbx2.top:80/ros1234/asd203040/785197
 http://sinalprivado.info:80/632035/632035/20000
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes FHD9
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/1898
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes FHD10
+http://pressrle.lat/live/52145784/453930/532317.m3u8
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes FHD11
+http://pressrle.lat/live/52145784/453930/327390.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes 4K1
 http://newoneblack.site:80/99941212/6199941212/809143
@@ -859,6 +880,8 @@ http://nexusp.xyz:80/664386299/d589y9525S/499
 http://lvbx2.top:80/ros1234/asd203040/93523
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE", Premiere 2 HD7
 http://nexusp.xyz:80/664386299/d589y9525S/497
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE", Premiere 2 HD8
+http://pressrle.lat/live/52145784/453930/458694.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE", Premiere 2 FHD1
 http://sinalprivado.info:80/632035/632035/20003
@@ -872,6 +895,10 @@ http://granpirosh.top/live/841866657/c581b7318b/499.m3u8
 http://lvbx2.top:80/ros1234/asd203040/785198
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE", Premiere 2 FHD6
 http://srv.cldplay.in:80/lelezago/lelezago@2021/87323
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE", Premiere 2 FHD7
+http://pressrle.lat/live/52145784/453930/3194240.m3u8
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE", Premiere 2 FHD8
+http://pressrle.lat/live/52145784/453930/458689.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE", Premiere 2 4K1
 http://lvbx2.top:80/ros1234/asd203040/100698
@@ -890,6 +917,8 @@ http://sinalprivado.info:80/632035/632035/20007
 http://lvbx2.top:80/ros1234/asd203040/93525
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="PREMIERE", Premiere 3 HD6
 http://nexusp.xyz:80/664386299/d589y9525S/502
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="PREMIERE", Premiere 3 HD7
+http://pressrle.lat/live/52145784/453930/327398.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="PREMIERE", Premiere 3 FHD1
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/1893
@@ -905,6 +934,8 @@ http://srv.cldplay.in:80/lelezago/lelezago@2021/87321
 http://sinalprivado.info:80/632035/632035/20006
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="PREMIERE", Premiere 3 FHD6
 http://xonis.fun:80/saulofont/J5Y3fWs2hRja/704
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="PREMIERE", Premiere 3 FHD7
+http://pressrle.lat/live/52145784/453930/458690.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="PREMIERE", Premiere 3 4K1
 http://lvbx2.top:80/ros1234/asd203040/100706
@@ -921,9 +952,11 @@ http://sinalprivado.info:80/632035/632035/20010
 http://nexusp.xyz:80/664386299/d589y9525S/507
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE", Premiere 4 HD5
 http://lvbx2.top:80/ros1234/asd203040/93527
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE", Premiere 4 HD6
+http://pressrle.lat/live/52145784/453930/327402.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE", Premiere 4 FHD1
-
+http://pressrle.lat/live/52145784/453930/458698.m3u8
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE", Premiere 4 FHD2
 http://nexusp.xyz:80/664386299/d589y9525S/21327
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE", Premiere 4 FHD3
@@ -931,15 +964,11 @@ http://granpirosh.top/live/841866657/c581b7318b/509.m3u8
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE", Premiere 4 FHD4
 http://lvbx2.top:80/ros1234/asd203040/93526
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE", Premiere 4 FHD5
-
+http://srv.cldplay.in:80/lelezago/lelezago@2021/87320
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE", Premiere 4 FHD6
-
+http://sinalprivado.info:80/632035/632035/20009
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE", Premiere 4 FHD7
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/1894
-#EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE", Premiere 4 FHD8
-http://sinalprivado.info:80/632035/632035/20009
-#EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE", Premiere 4 FHD9
-http://srv.cldplay.in:80/lelezago/lelezago@2021/87320
 
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE", Premiere 4 4K1
 http://lvbx2.top:80/ros1234/asd203040/100705
@@ -1024,7 +1053,8 @@ http://play.1list.vip/live/8gZav5kQe2/duoiptv/37255.m3u8
 http://lvbx2.top:80/ros1234/asd203040/85645
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV HD6
 http://play.1list.vip/live/8gZav5kQe2/duoiptv/37256.m3u8
-
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV HD7
+http://pressrle.lat/live/52145784/453930/765080.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV FHD1
 https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
@@ -1038,6 +1068,10 @@ http://lvbx2.top:80/ros1234/asd203040/1479376
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/2035
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV FHD6
 http://sinalprivado.info:80/632035/632035/21000
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV FHD7
+http://pressrle.lat/live/52145784/453930/532322.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV FHD8
+http://pressrle.lat/live/52145784/453930/339260.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV 4k1
 http://newoneblack.site:80/99941212/6199941212/231470
@@ -1056,7 +1090,8 @@ http://play.1list.vip/live/8gZav5kQe2/duoiptv/37044.m3u8
 http://play.1list.vip/live/8gZav5kQe2/duoiptv/36943.m3u8
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SPORTV", SporTV 2 HD6
 http://sinalprivado.info:80/632035/632035/21004
-
+#EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SPORTV", SporTV 2 HD7
+http://pressrle.lat/live/52145784/453930/1599.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SPORTV", SporTV 2 FHD1
 http://granpirosh.top/live/841866657/c581b7318b/554.m3u8
@@ -1066,6 +1101,10 @@ http://lvbx2.top:80/ros1234/asd203040/785206
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/1917
 #EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SPORTV", SporTV 2 FHD4
 http://sinalprivado.info:80/632035/632035/21003
+#EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SPORTV", SporTV 2 FHD5
+http://pressrle.lat/live/52145784/453930/532323.m3u8
+#EXTINF:-1 tvg-id="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SPORTV", SporTV 2 FHD6
+http://pressrle.lat/live/52145784/453930/339258.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SPORTV", SporTV 3 HD1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21007.ts
@@ -1073,6 +1112,8 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21007.ts
 http://lvbx2.top:80/ros1234/asd203040/85649
 #EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SPORTV", SporTV 3 HD3
 http://sinalprivado.info:80/632035/632035/21007
+#EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SPORTV", SporTV 3 HD4
+http://pressrle.lat/live/52145784/453930/1600.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SPORTV", SporTV 3 FHD1
 http://granpirosh.top/live/841866657/c581b7318b/559.m3u8
@@ -1082,6 +1123,10 @@ http://lvbx2.top:80/ros1234/asd203040/785207
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/1918
 #EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SPORTV", SporTV 3 FHD4
 http://sinalprivado.info:80/632035/632035/21006
+#EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SPORTV", SporTV 3 FHD5
+http://pressrle.lat/live/52145784/453930/532324.m3u8
+#EXTINF:-1 tvg-id="SporTV3" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SPORTV", SporTV 3 FHD6
+http://pressrle.lat/live/52145784/453930/339259.m3u8
 
 #######################################################################################################################################################################
 
@@ -1305,6 +1350,84 @@ http://play.1list.vip/live/listatvs/controliptv/78760.ts
 http://play.1list.vip/live/Marcosfp05/nlybdft6fml/78760.ts
 
 #######################################################################################################################################################################
+
+####################################################################### PRIME VIDEO ###################################################################################
+
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 1 HD
+http://pressrle.lat/live/52145784/453930/388201.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 2 HD
+http://pressrle.lat/live/52145784/453930/393306.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 3 HD
+http://pressrle.lat/live/52145784/453930/388202.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 4 HD
+http://pressrle.lat/live/52145784/453930/501976.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 5 HD
+http://pressrle.lat/live/52145784/453930/525354.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 6 HD
+http://pressrle.lat/live/52145784/453930/1913123.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 7 HD
+http://pressrle.lat/live/52145784/453930/1913124.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 8 HD
+http://pressrle.lat/live/52145784/453930/1913125.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 9 HD
+http://pressrle.lat/live/52145784/453930/1913126.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 10 HD
+http://pressrle.lat/live/52145784/453930/1913127.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 11 HD
+http://pressrle.lat/live/52145784/453930/1913128.m3u8
+
+########################################################################################################################################################
+
+####################################################################### HBO MAX ########################################################################
+
+#EXTINF:-1 tvg-logo="https://www.fontedecanais.app/logos/canais/max.png" group-title="CANAIS | MAX",HBO MAX 01 HD
+http://pressrle.lat/live/52145784/453930/345808.m3u8
+#EXTINF:-1 tvg-logo="https://www.fontedecanais.app/logos/canais/max.png" group-title="CANAIS | MAX",HBO MAX 02 HD
+http://pressrle.lat/live/52145784/453930/345809.m3u8
+#EXTINF:-1 tvg-logo="https://www.fontedecanais.app/logos/canais/max.png" group-title="CANAIS | MAX",HBO MAX 03 HD
+http://pressrle.lat/live/52145784/453930/351568.m3u8
+#EXTINF:-1 tvg-logo="https://www.fontedecanais.app/logos/canais/max.png" group-title="CANAIS | MAX",HBO MAX 04 HD
+http://pressrle.lat/live/52145784/453930/351570.m3u8
+#EXTINF:-1 tvg-logo="https://www.fontedecanais.app/logos/canais/max.png" group-title="CANAIS | MAX",HBO MAX 05 HD
+http://pressrle.lat/live/52145784/453930/383900.m3u8
+#EXTINF:-1 tvg-logo="https://www.fontedecanais.app/logos/canais/max.png" group-title="CANAIS | MAX",HBO MAX 06 HD
+http://pressrle.lat/live/52145784/453930/519761.m3u8
+#EXTINF:-1 tvg-logo="https://www.fontedecanais.app/logos/canais/max.png" group-title="CANAIS | MAX",HBO MAX 07 HD
+http://pressrle.lat/live/52145784/453930/533843.m3u8
+#EXTINF:-1 tvg-logo="https://www.fontedecanais.app/logos/canais/max.png" group-title="CANAIS | MAX",HBO MAX 08 HD
+http://pressrle.lat/live/52145784/453930/533844.m3u8
+#EXTINF:-1 tvg-logo="https://www.fontedecanais.app/logos/canais/max.png" group-title="CANAIS | MAX",HBO MAX 09 HD
+http://pressrle.lat/live/52145784/453930/533845.m3u8
+#EXTINF:-1 tvg-logo="https://www.fontedecanais.app/logos/canais/max.png" group-title="CANAIS | MAX",HBO MAX 10 HD
+http://pressrle.lat/live/52145784/453930/533846.m3u8
+
+#######################################################################################################################################################################
+
+# --- CANAIS | PARAMOUNT+ (12) ---
+#EXTINF:-1 tvg-logo="" group-title="CANAIS | PARAMOUNT+",PARAMOUNT PLUS 01 HD
+http://pressrle.lat/live/52145784/453930/3451137.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS | PARAMOUNT+",PARAMOUNT PLUS 02 HD
+http://pressrle.lat/live/52145784/453930/3451138.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS | PARAMOUNT+",PARAMOUNT PLUS 03 HD
+http://pressrle.lat/live/52145784/453930/3451139.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS | PARAMOUNT+",PARAMOUNT PLUS 04 HD
+http://pressrle.lat/live/52145784/453930/3451140.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/paramountchannel.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT PLUS 05 HD
+http://pressrle.lat/live/52145784/453930/1896942.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/paramountchannel.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT PLUS 06 HD
+http://pressrle.lat/live/52145784/453930/1896943.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/paramountchannel.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT PLUS 07 HD
+http://pressrle.lat/live/52145784/453930/1896944.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/paramountchannel.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT PLUS 08 HD
+http://pressrle.lat/live/52145784/453930/1896945.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/paramountchannel.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT PLUS 01 FHD H265
+http://pressrle.lat/live/52145784/453930/731288.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/paramountchannel.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT PLUS 02 FHD H265
+http://pressrle.lat/live/52145784/453930/731289.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/paramountchannel.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT PLUS 03 FHD H265
+http://pressrle.lat/live/52145784/453930/731290.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/paramountchannel.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT PLUS 04 FHD H265
+http://pressrle.lat/live/52145784/453930/731291.m3u8
 
 ######################################################################## Esportes Ao Vivo ###############################################################################
 
@@ -1620,6 +1743,8 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/262915.m3u8
 http://cinefull.space:80/live/877436571/518461483/202272.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", The Big Bang Theory 17
 http://lmdns.online:80/4x6cXF/ehfxdp/507937.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", The Big Bang Theory 18
+http://pressrle.lat/live/52145784/453930/1995149.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", Stranger Things 1
 http://d1212.com/08142650077/09806312907/173201
@@ -1745,6 +1870,8 @@ http://maku.lat:80/uwmxvbkk/su689F7nmQ/2905191?
 http://lmdns.online:80/4x6cXF/ehfxdp/508105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="DESENHOS 24hrs", Rick And Morty 6
 http://np.chisl.shop:80/cleberson24/24danbury888BBB/1242333
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="DESENHOS 24hrs", Rick And Morty 7
+http://pressrle.lat/live/52145784/453930/1894363.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="DESENHOS 24hrs", Rick And Morty 1op1
 http://srv.polkafood.pl:80/stusv6zyu2/04cxlij31k/137991
@@ -1845,6 +1972,8 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/81513.m3u8
 http://play.1list.vip/live/8gZav5kQe2/duoiptv/985763.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24hrs", Family Guy 4
 http://maku.lat:80/uwmxvbkk/su689F7nmQ/464998?
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24hrs", Family Guy 5
+http://pressrle.lat/live/52145784/453930/1894376.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="DESENHOS 24hrs",Os Flintstones
 http://lmdns.online:80/4x6cXF/ehfxdp/508147.m3u8
