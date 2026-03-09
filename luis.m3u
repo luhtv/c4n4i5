@@ -40,6 +40,12 @@ http://newoneblack.site:80/99941212/6199941212/235414
 http://sinalprivado.info:80/632035/632035/18000
 #EXTINF:-1 tvg-id="globorj" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="GLOBO", Globo RJ HD1
 http://79.127.238.228:14217/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="GLOBO", Globo 1
+http://79.127.238.228:14172/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="GLOBO", Globo 2
+http://79.127.238.228:14173/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="GLOBO", Globo 3
+http://79.127.238.228:14175/
 
 ####################################################################################################################################################################
 
@@ -142,6 +148,8 @@ http://fonte.lista.luxe:80/Thiagosstv/7ECkbwL1GT/4817
 http://pressrle.lat/live/52145784/453930/339466.m3u8
 #EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT FHD7
 http://46.151.196.223:14002
+#EXTINF:-1 tvg-id="SBTSP" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT", SBT FHD8
+http://46.151.196.223:14006
 
 ###################################################################################################################################################################
 
@@ -161,6 +169,9 @@ http://sinalprivado.info:80/632035/632035/27061
 http://fonte.lista.luxe:80/Thiagosstv/7ECkbwL1GT/3836
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="RECORD TV", RecordTV SP HD7
 http://lmdns.online:80/4x6cXF/ehfxdp/90265.m3u8
+#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="RECORD TV", RecordTV SP HD8
+http://79.127.238.228:14057
+
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="RECORD TV", RecordTV SP FHD1
 http://nexusp.xyz:80/664386299/d589y9525S/244073
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="RECORD TV", RecordTV SP FHD2
@@ -171,6 +182,8 @@ http://fonte.lista.luxe:80/Thiagosstv/7ECkbwL1GT/4813
 http://pressrle.lat/live/52145784/453930/3194244.m3u8
 #EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="RECORD TV", RecordTV FHD5
 https://hplay.tv/augetv/12396547488/227.m3u8
+#EXTINF:-1 tvg-id="RECORDTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="RECORD TV", RecordTV FHD6
+http://46.151.196.223:14020
 
 #######################################################################################################################################################################
 
@@ -287,6 +300,8 @@ http://newoneblack.site:80/99941212/6199941212/438190
 http://newoneblack.site:80/99941212/6199941212/438191
 #EXTINF:-1 tvg-id="SPACE" tvg-name="" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="FILMES ", SPACE HD3
 http://sinalprivado.info:80/632035/632035/13028
+#EXTINF:-1 tvg-id="SPACE" tvg-name="" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="FILMES ", SPACE HD4
+http://46.151.196.223:14016
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="FILMES ", SPACE FHD1
 http://newoneblack.site:80/99941212/6199941212/438188
@@ -847,6 +862,8 @@ http://nexusp.xyz:80/664386299/d589y9525S/494
 http://nexusp.xyz:80/664386299/d589y9525S/492
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes HD8
 http://pressrle.lat/live/52145784/453930/327390.m3u8
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes HD9
+http://79.127.238.228:14157
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes FHD1
 http://newoneblack.site:80/99941212/6199941212/236242
@@ -1775,6 +1792,8 @@ http://d1212.com/08142650077/09806312907/59113
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/134930.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Castelo RaTimBum 3
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/155119.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Castelo RaTimBum 4
+http://46.151.196.223:14099
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Chapolin 1
 http://3021.life/153031299/390936214/968597
@@ -1818,12 +1837,20 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/235290.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", Chaves 12
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/170664.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", Chesperito
+http://46.151.196.223:14013
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Os Pinguins de Madagascar
+http://46.151.196.223:14046
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Familia Dinossauro 1
 http://sinalprivado.info:80/631981/631981/38025
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Familia Dinossauro 2
 http://udsas.my:80/live/98751818/55956584/808758.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Familia Dinossauro 3
 http://lmdns.online:80/4x6cXF/ehfxdp/507944.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Familia Dinossauro 4
+http://46.151.196.223:14043
 
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", iCarly 
 http://lmdns.online:80/4x6cXF/ehfxdp/507975.m3u8
@@ -1844,11 +1871,19 @@ http://sinalprivado.info:80/631981/631981/38014
 http://udsas.my:80/live/98751818/55956584/808747.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", Todo Mundo Odeia O Chris 8
 http://lmdns.online:80/4x6cXF/ehfxdp/507955.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", Todo Mundo Odeia O Chris 9
+http://46.151.196.223:14117
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="SÉRIES 24hrs", Todo Mundo Odeia O Chris 10
+http://46.151.196.223:14124
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Eu a Patroa e as Crianças 1
 http://15.235.9.200:14908/eu-a-patroa-e-as-criancas
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Eu a Patroa e as Crianças 2
 http://sinalprivado.info:80/632035/632035/38003
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Eu a Patroa e as Crianças 3
+http://46.151.196.223:14111
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Eu a Patroa e as Crianças 4
+http://46.151.196.223:14114
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="SÉRIES 24hrs", Um Maluco No Pedaço 1
 http://15.235.9.200:14046
