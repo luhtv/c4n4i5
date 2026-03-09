@@ -864,6 +864,8 @@ http://nexusp.xyz:80/664386299/d589y9525S/492
 http://pressrle.lat/live/52145784/453930/327390.m3u8
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes HD9
 http://79.127.238.228:14157
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes HD10
+http://46.151.196.223:14420
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes FHD1
 http://newoneblack.site:80/99941212/6199941212/236242
@@ -887,6 +889,8 @@ http://np.chisl.shop:80/cleberson24/24danbury888BBB/1898
 http://pressrle.lat/live/52145784/453930/532317.m3u8
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes FHD11
 http://pressrle.lat/live/52145784/453930/327390.m3u8
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes FHD12
+http://46.151.196.223:14419
 
 #EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes 4K1
 http://newoneblack.site:80/99941212/6199941212/809143
@@ -917,6 +921,9 @@ http://lvbx2.top:80/ros1234/asd203040/93523
 http://nexusp.xyz:80/664386299/d589y9525S/497
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE", Premiere 2 HD8
 http://pressrle.lat/live/52145784/453930/458694.m3u8
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE", Premiere 2 HD9
+http://46.151.196.223:14418
+
 
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE", Premiere 2 FHD1
 http://sinalprivado.info:80/632035/632035/20003
@@ -1107,6 +1114,8 @@ http://sinalprivado.info:80/632035/632035/21000
 http://pressrle.lat/live/52145784/453930/532322.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV FHD8
 http://pressrle.lat/live/52145784/453930/339260.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV FHD9
+http://46.151.196.223:14417
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV 4k1
 http://newoneblack.site:80/99941212/6199941212/231470
@@ -1179,6 +1188,8 @@ http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/164948.m3u8
 http://sinalprivado.info:80/632035/632035/22001
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN HD6
 http://kabra22.com:80/live/adilsoncarlos39/Ppan095722/83208.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN HD7
+http://46.151.196.223:14366
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN FHD1
 http://ncplay.fun:80/1712382516/5246361986/7032939
@@ -1299,6 +1310,10 @@ https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/1080p-cc/ind
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="Ge TV HD" tvg-name="" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="ESPORTES",Ge TV FHD (SamsungTV)
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="ESPORTES",Ge TV 1
+http://46.151.196.223:14382
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="ESPORTES",Ge TV 2
+http://46.151.196.223:14383
 
 #EXTINF:-1 tvg-id="GOAT1" tvg-logo="https://thumbs4.imagebam.com/5a/c0/5c/MEVKZ7C_t.png" group-title="ESPORTES", Canal GOAT 1 op1
 #EXTINF:-1 tvg-id="GOAT1" tvg-logo="https://thumbs4.imagebam.com/5a/c0/5c/MEVKZ7C_t.png" group-title="ESPORTES", Canal GOAT 1 op2
