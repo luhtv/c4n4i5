@@ -486,6 +486,8 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90366.m3u8
 http://newoneblack.site:80/99941212/6199941212/438053
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="TELECINE", Telecine Cult HD4
 http://sinalprivado.info:80/632035/632035/15004
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="TELECINE", Telecine Cult HD5
+http://46.151.196.223:14333
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="TELECINE", Telecine Cult FHD1
 http://newoneblack.site:80/99941212/6199941212/235805
@@ -512,6 +514,8 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90370.m3u8
 http://sinalprivado.info:80/632035/632035/15004
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="TELECINE", Telecine Fun HD5
 http://89.187.190.167:14107
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="TELECINE", Telecine Fun HD6
+http://46.151.196.223:14338
 
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="TELECINE", Telecine Fun FHD1
 http://newoneblack.site:80/99941212/6199941212/235802
@@ -525,6 +529,8 @@ http://sinalprivado.info:80/632035/632035/15003
 http://udsas.my:80/live/98751818/55956584/804800.m3u8
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="TELECINE", Telecine Fun FHD6
 http://udsas.my:80/live/98751818/55956584/805439.m3u8
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="TELECINE", Telecine Fun FHD7
+http://46.151.196.223:14337
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="TELECINE", Telecine Pipoca HD1
 http://newoneblack.site:80/99941212/6199941212/235798
@@ -534,6 +540,8 @@ http://newoneblack.site:80/99941212/6199941212/438065
 http://lmdns.online:80/4x6cXF/ehfxdp/90374.m3u8
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="TELECINE", Telecine Pipoca HD4
 http://sinalprivado.info:80/632035/632035/15010
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="TELECINE", Telecine Pipoca HD5
+http://46.151.196.223:14344
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="TELECINE", Telecine Pipoca FHD1
 http://newoneblack.site:80/99941212/6199941212/235799
@@ -547,6 +555,8 @@ http://sinalprivado.info:80/632035/632035/15009
 http://udsas.my:80/live/98751818/55956584/804803.m3u8
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="TELECINE", Telecine Pipoca FHD7
 http://udsas.my:80/live/98751818/55956584/805440.m3u8
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="TELECINE", Telecine Pipoca FHD8
+http://46.151.196.223:14343
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="TELECINE", Telecine Premium HD1
 http://newoneblack.site:80/99941212/6199941212/235795
@@ -556,6 +566,8 @@ http://newoneblack.site:80/99941212/6199941212/438071
 http://lmdns.online:80/4x6cXF/ehfxdp/90378.m3u8
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="TELECINE", Telecine Premium HD4
 http://sinalprivado.info:80/632035/632035/15013
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="TELECINE", Telecine Premium HD5
+http://46.151.196.223:14350
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="TELECINE", Telecine Premium FHD1
 http://newoneblack.site:80/99941212/6199941212/235796
@@ -569,6 +581,8 @@ http://newoneblack.site:80/99941212/6199941212/438069
 http://udsas.my:80/live/98751818/55956584/804806.m3u8
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="TELECINE", Telecine Premium FHD6
 http://udsas.my:80/live/98751818/55956584/805441.m3u8
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="TELECINE", Telecine Premium FHD7
+http://46.151.196.223:14349
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="TELECINE", Telecine Touch HD1
 http://newoneblack.site:80/99941212/6199941212/235792
@@ -578,6 +592,8 @@ http://newoneblack.site:80/99941212/6199941212/438077
 http://lmdns.online:80/4x6cXF/ehfxdp/90382.m3u8
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="TELECINE", Telecine Touch HD4
 http://sinalprivado.info:80/632035/632035/15016
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="TELECINE", Telecine Touch HD5
+http://46.151.196.223:14355
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="TELECINE", Telecine Touch FHD1
 http://sinalprivado.info:80/632035/632035/15015
@@ -591,6 +607,8 @@ http://newoneblack.site:80/99941212/6199941212/438075
 http://udsas.my:80/live/98751818/55956584/805442.m3u8
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="TELECINE", Telecine Touch FHD6
 http://udsas.my:80/live/98751818/55956584/804809.m3u8
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="TELECINE", Telecine Touch FHD7
+http://46.151.196.223:14354
 
 #######################################################################################################################################################################
 
@@ -1207,6 +1225,8 @@ http://sinalprivado.info:80/632035/632035/22001
 http://kabra22.com:80/live/adilsoncarlos39/Ppan095722/83208.ts
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN HD7
 http://46.151.196.223:14366
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN HD8
+http://46.151.196.223:14342
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN FHD1
 http://ncplay.fun:80/1712382516/5246361986/7032939
